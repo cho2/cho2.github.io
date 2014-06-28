@@ -1,0 +1,15 @@
+body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: none;
+	font-family: 'Montserrat', sans-serif;
+	color: #FFFFFF;
+}
+
+.full {
+  background: url(../img/cover.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}

@@ -1,0 +1,48 @@
+body, html {
+  font-family: 'Acme', sans-serif;
+  font-weight: normal;
+  font-size: 16px;
+  color: #4D4D4D;
+  height: 100%;
+  text-align: center;
+}
+
+h1 {
+	text-transform: capitalize;
+	color: #4D4D4D;
+	margin-bottom: 65px;
+	font-size: 50px;	
+}
+
+/* Circle */
+
+.timing {
+	margin-top: 30px;
+}
+.time_circles > div > h4 {
+	color: #4D4D4D;
+}
+.time_circles > div > span {
+	color: #4D4D4D;
+}
+
+/* Social Icon */
+
+.social-icon {
+	margin-top: 30px;
+	list-style: none;
+	padding:0;
+}
+.social-icon li {
+    display: inline-block;
+    margin: 0 5px;
+    font-size: 42px;
+}
+.social-icon li a{
+    color: #4D4D4D;	
+}
+.social-icon li a:hover {
+	color: #2D2D2A;
+}
+
+

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+  <head>    
+    <meta charset="UTF-8">
+    <title>cho2.github.io</title>
+    <meta name="description" content="cho2.github.io">
+    <meta name="author" content="@cho2MLHC">
+    <meta name="authorUrl" content="http://cho2.web.id">
+    
+    <!-- Mobile Specific Meta -->   
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+
+    <!-- Bootstrap -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom stylesheet -->
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
+    <link rel="stylesheet" href="assets/css/TimeCircles.css">
+
+    <!-- Font Awesome -->
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- Google Fonts -->
+	<link href='https://fonts.googleapis.com/css?family=Acme' rel='stylesheet' type='text/css'>
+
+	<!--[if IE 9]> 
+    	<link rel="stylesheet" href="assets/css/ie9.css">
+    <![endif]-->
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/trianglify/0.2.0/trianglify.min.js"></script>
+  <script>
+  // set up the base pattern
+  var pattern = Trianglify({
+    height: window.innerHeight,
+    width: window.innerWidth,
+    cell_size: 30 + Math.random() * 100})
+
+  // png
+  var png = document.createElement('img')
+  png.src = pattern.png()
+  document.body.appendChild(png)
+  </script>
+
+	<section style="margin-top: -650px">
+		<div class="container">
+				<div class="clearfix">
+					<div class="col-sm-12">
+						<h1>cho2.github.io</h1>
+						<div class="row">
+							<div class="col-sm-offset-1 col-sm-10">
+								<div class="timing">
+									<div id="count-down" data-date="2017-02-05 00:00:00">
+									</div>
+								</div>
+							</div>
+						</div>
+							<ul class="social-icon">
+								<li><a href="https://www.facebook.com/cho2mlhc"><i class="fa fa-facebook"></i></a></li>
+								<li><a href="https://twitter.com/cho2MLHC"><i class="fa fa-twitter"></i></a></li>
+								<li><a href="http://id.linkedin.com/in/kukuhsyafaat/"><i class="fa fa-linkedin"></i></a></li>
+								<li><a href="https://plus.google.com/u/0/+KukuhSyafaat"><i class="fa fa-google-plus"></i></a></li>
+								<li><a href="https://www.youtube.com/user/cho2marsmellow/videos"><i class="fa fa-youtube-square"></i></a></li>
+								<li><a href="https://soundcloud.com/cho2mlhc"><i class="fa fa-soundcloud"></i></a></li>
+								<li><a href="https://github.com/cho2"><i class="fa fa-github"></i></a></li>
+							</ul>              
+					</div>
+				</div>
+		</div>
+	</section>
+
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="assets/js/TimeCircles.js"></script>
+    <script>
+      $("#count-down").TimeCircles(
+       {   
+           circle_bg_color: "#8a7f71",
+           use_background: true,
+           bg_width: 1.0,
+           fg_width: 0.02,
+           time: {
+                Days: { color: "#4D4D4D" },
+                Hours: { color: "#4D4D4D" },
+                Minutes: { color: "#4D4D4D" },
+                Seconds: { color: "#4D4D4D" }
+            }
+       }
+    );
+
+    </script>
+    
+  </body>
+</html>

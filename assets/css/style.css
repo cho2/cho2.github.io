@@ -1,5 +1,5 @@
 body, html {
-  font-family: 'Acme', sans-serif;
+  font-family: 'Cabin', sans-serif;
   font-weight: normal;
   font-size: 16px;
   color: #4D4D4D;
@@ -8,7 +8,6 @@ body, html {
 }
 
 h1 {
-	text-transform: capitalize;
 	color: #4D4D4D;
 	margin-bottom: 65px;
 	font-size: 50px;	

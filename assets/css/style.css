@@ -2,9 +2,15 @@ body, html {
   font-family: 'Cabin', sans-serif;
   font-weight: normal;
   font-size: 16px;
-  color: #4D4D4D;
+  color: #FFF;
   height: 100%;
   text-align: center;
+  background: url(../img/island.jpg) no-repeat center center fixed;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;  
 }
 
 h1 {

@@ -25,40 +25,16 @@
     <!-- Google Fonts -->
 	<link href='https://fonts.googleapis.com/css?family=Cabin' rel='stylesheet' type='text/css'>
 
-	<!--[if IE 9]> 
-    	<link rel="stylesheet" href="assets/css/ie9.css">
-    <![endif]-->
-
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
   </head>
   <body>
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/trianglify/0.2.0/trianglify.min.js"></script>
-  <script>
-  // set up the base pattern
-  var pattern = Trianglify({
-    height: window.innerHeight,
-    width: window.innerWidth,
-    cell_size: 30 + Math.random() * 100})
-
-  // png
-  var png = document.createElement('img')
-  png.src = pattern.png()
-  document.body.appendChild(png)
-  </script>
-
-	<section style="margin-top: -650px">
+	<section>
 		<div class="container">
 				<div class="clearfix">
 					<div class="col-sm-12">
 						<h1>welcome to <b>syafaat.id</b></h1>
 						<div class="row">
-							<div class="col-sm-offset-1 col-sm-10">
+							<div class="col-sm-offset-1 col-sm-10 hidden-xs">
 								<div class="timing">
 									<div id="count-down" data-date="2019-02-05 00:00:00">
 									</div>

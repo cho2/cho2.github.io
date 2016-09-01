@@ -1,0 +1,59 @@
+
+# SEO settings
+title: "cho2 Blog"
+title2: "space" # default: ""
+description: "cho2 Blog"
+keywords: "cho2, Kukuh Syafaat"
+url: http://cho2.github.io # site url
+# baseurl: "/thinkspace" # apply repo name if use it under gh-pages branch
+baseurl: null # apply null if repo name is something like username.github.io
+
+google_analytics: UA-XXXXX-XX
+repo: http://github.com/cho2/cho2.github.io
+disqus_shortname: ""
+twitter_username: "cho2MLHC"
+comments: false
+
+# Build settings
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : rouge
+
+source: ./
+destination: ./_site
+
+# Sass configuration
+sass:
+  sass_dir: assets/scss
+  style: compressed # expanded
+
+# Author settings
+author:
+  name     : "Kukuh Syafaat"
+  job      : ""
+  bio      : "Free/Open Source Software Enthusiast & Part-Time Musician"
+  thumb    : /images/author.jpg
+  email    : kukuh@syafaat.id
+  url      : http://syafaat.id
+  github   : https://github.com/cho2
+  twitter  : https://twitter.com/cho2MLHC
+  facebook : https://www.facebook.com/cho2mlhc
+  linkedin : http://id.linkedin.com/in/kukuhsyafaat/
+
+# social settings
+og_locale: "en_US"
+twitter_card: "summary_large_image"
+twitter_site: "@cho2MLHC"
+
+gems:
+  - bourbon
+  - jekyll-paginate
+
+# navbar pages
+navbar:
+  - slug : about
+    title: About
+  - slug : blog
+    title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]

@@ -4,7 +4,7 @@ title: "cho2 Blog"
 title2: "space" # default: ""
 description: "cho2 Blog"
 keywords: "cho2, Kukuh Syafaat"
-url: http://cho2.github.io # site url
+url: http://blog.kukuh.syafaat.id/ # site url
 # baseurl: "/thinkspace" # apply repo name if use it under gh-pages branch
 baseurl: null # apply null if repo name is something like username.github.io
 

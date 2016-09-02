@@ -15,6 +15,7 @@ On the 2nd day, i was talking about [**Making Music with GNOME**](http://www.sli
 [More photos](https://www.flickr.com/groups/gnomeasia2015/)
 
 Articles from awesome speakers:
+
 * [https://www.gnome.org/news/2015/05/gnome-asia-summit-2015-have-started/](https://www.gnome.org/news/2015/05/gnome-asia-summit-2015-have-started/)
 
 * [https://www.gnome.org/news/2015/05/gnome-asia-summit-2015-concludes/](https://www.gnome.org/news/2015/05/gnome-asia-summit-2015-concludes/)

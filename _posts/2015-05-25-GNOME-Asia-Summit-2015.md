@@ -3,7 +3,7 @@ layout: post
 title: "GNOME.Asia Summit 2015"
 description: "GNOME.Asia Summit 2015"
 comments: false
-keywords: "GNOME.Asia Summit 2015, FOSS, music, "
+keywords: "GNOME.Asia Summit 2015, FOSS, GNOME, Ardour"
 ---
 
 ![GAS2015](http://2015.gnome.asia/media/1stdaysummit.jpg)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Parade Software Merdeka Report"
+title: "Parade Software Merdeka"
 description: "Parade Software Merdeka"
 comments: false
 keywords: "Parade Software Merdeka, FOSS"

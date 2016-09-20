@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Maleo on Fedora"
+description: "Maleo on Fedora"
+comments: false
+keywords: "Maleo, Fedora, HTML5"
+---
+After read about [FUDCon APAC 2016 in Phnom Penh](https://fedoramagazine.org/chomreabsuor-phnom-penh-fudcon-apac-is-coming/), i decided to submit call for papers. I challenge myself to try building Maleo on Fedora. After build in Debian, Maleo also succesfully [build in openSUSE](https://gist.github.com/diorahman/6d9315a5bad51a5763f0). Based on this reference, i try to build Maleo on Fedora step by step.
+
+So, here is the steps: [https://gist.github.com/cho2/bcf5874fb4385b8fe855ecdb6bff35d0](https://gist.github.com/cho2/bcf5874fb4385b8fe855ecdb6bff35d0)
+
+Finally, Maleo running well on Fedora 24.
+
+![Maleo on Fedora][https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/14329957_10207142717543185_4581624988683873220_n.jpg?oh=06ef80b8b3ad2dcc936f0c48d27d3da3&oe=586C62D9]

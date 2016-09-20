@@ -11,4 +11,4 @@ So, here is the steps: [https://gist.github.com/cho2/bcf5874fb4385b8fe855ecdb6bf
 
 Finally, Maleo running well on Fedora 24.
 
-![Maleo on Fedora][https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/14329957_10207142717543185_4581624988683873220_n.jpg?oh=06ef80b8b3ad2dcc936f0c48d27d3da3&oe=586C62D9]
+![Maleo on Fedora](https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/14329957_10207142717543185_4581624988683873220_n.jpg?oh=06ef80b8b3ad2dcc936f0c48d27d3da3&oe=586C62D9)

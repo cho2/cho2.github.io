@@ -35,7 +35,7 @@ Now i have friends from Japan. From L to R: Takeyama, Omo, me, Hatochan.
 Nice chit-chat with Doug and Omo when we had dinner.
 
 ![https://c7.staticflickr.com/6/5586/30008973142_8ed26ca1db_h.jpg](https://c7.staticflickr.com/6/5586/30008973142_8ed26ca1db_h.jpg)
-Me and Edwin Zakaria, the man behind the gun. Nephew and uncle? :D
+Me and Edwin Zakaria, the man behind the gun.
 
 ![https://c2.staticflickr.com/9/8414/30039331001_14e2b34f33_b.jpg](https://c2.staticflickr.com/9/8414/30039331001_14e2b34f33_b.jpg)
 Took photo together with Hatochan and [GLiBogor](http://glibogor.or.id/). From L to R: Alin, Ary, Moko, Hatochan, Levay, me, Dendy, Umul.

@@ -27,4 +27,6 @@ Well, remember that openSUSE Tumbleweed overwrite the default EFI boot manager. 
 
 Reboot and rEFInd back again.
 
+![https://scontent-sin6-1.xx.fbcdn.net/t31.0-8/14707965_10207384100657612_3320847370470581971_o.jpg](https://scontent-sin6-1.xx.fbcdn.net/t31.0-8/14707965_10207384100657612_3320847370470581971_o.jpg)
+
 There is instruction from openSUSE about [installation on a Mac](https://en.opensuse.org/SDB:Installation_on_a_Mac). You should follow those instruction if you never install GNU/Linux on Mac. Good luck.

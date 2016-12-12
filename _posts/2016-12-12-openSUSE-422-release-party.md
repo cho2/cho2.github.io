@@ -12,10 +12,10 @@ Yesterday, [openSUSE-ID](https://opensuse.id/) together with [GLiB](http://glibo
 
 I was doing Facebook Live through [openSUSE Asia.Summit 2016 Facebook Page](https://www.facebook.com/opensuseasiasummit2016/). (Some videos may be in bad quality due to weak connection)
 
-* Introduction by Edwin Zakaria https://www.facebook.com/opensuseasiasummit2016/videos/384835048529021/
-* What's New in openSUSE 42.2 by M. Dhenandi https://www.facebook.com/opensuseasiasummit2016/videos/384844541861405/
-* Cinder - OpenStack Block Storage on openSUSE by Saputro Aryulianto https://www.facebook.com/opensuseasiasummit2016/videos/384859821859877/
-* GNU Health by Jati Nurohman https://www.facebook.com/opensuseasiasummit2016/videos/384870588525467/
+* [Introduction by Edwin Zakaria]( https://www.facebook.com/opensuseasiasummit2016/videos/384835048529021/)
+* [What's New in openSUSE 42.2 by M. Dhenandi]( https://www.facebook.com/opensuseasiasummit2016/videos/384844541861405/)
+* [Cinder - OpenStack Block Storage on openSUSE by Saputro Aryulianto]( https://www.facebook.com/opensuseasiasummit2016/videos/384859821859877/)
+* [GNU Health by Jati Nurohman]( https://www.facebook.com/opensuseasiasummit2016/videos/384870588525467/)
 
 ![https://c6.staticflickr.com/6/5610/31578247805_df440fb7cb_k.jpg](https://c6.staticflickr.com/6/5610/31578247805_df440fb7cb_k.jpg)
 

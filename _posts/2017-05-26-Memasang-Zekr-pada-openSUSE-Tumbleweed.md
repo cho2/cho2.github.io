@@ -18,7 +18,7 @@ keywords: "openSUSE, Tumbleweed, Zekr"
 <pre>./zekr.sh</pre>
 </li>
 </ul>
-<img class="alignnone size-full wp-image-1208" src="https://opensuse.id/wp-content/uploads/2017/05/VirtualBox_Tumbleweed_25_05_2017_20_17_13.png" alt="" width="1920" height="970" />
+<img src="https://opensuse.id/wp-content/uploads/2017/05/VirtualBox_Tumbleweed_25_05_2017_20_17_13.png" />
 <ul>
  	<li>Untuk memasang translasi Bahasa Indonesia, unduh translasinya <a href="http://zekr.org/resources.html#translation">disini</a>. Untuk Bahasa Indonesia sendiri ada 3, yaitu:
 <ul>
@@ -31,11 +31,11 @@ keywords: "openSUSE, Tumbleweed, Zekr"
  	<li>Salin atau pindahkan berkas unduhan tersebut ke dalam direktori <em>/home/userAnda/zekr/res/text/trans</em>.</li>
  	<li>Jalankan Zekr, pilih menu <strong>View, </strong>lalu<strong> Translation, </strong>kemudian<strong> </strong>pilih<strong> [in] unknown</strong>.</li>
 </ul>
-<img class="alignnone size-full wp-image-1212" src="https://opensuse.id/wp-content/uploads/2017/05/VirtualBox_Tumbleweed_25_05_2017_20_31_45.png" alt="" width="1920" height="970" />
+<img src="https://opensuse.id/wp-content/uploads/2017/05/VirtualBox_Tumbleweed_25_05_2017_20_31_45.png" />
 <ul>
  	<li>Translasi akan berubah ke Bahasa Indonesia sekarang.</li>
 </ul>
-<img class="alignnone size-full wp-image-1213" src="https://opensuse.id/wp-content/uploads/2017/05/VirtualBox_Tumbleweed_25_05_2017_20_31_55.png" alt="" width="1920" height="970" />
+<img src="https://opensuse.id/wp-content/uploads/2017/05/VirtualBox_Tumbleweed_25_05_2017_20_31_55.png" />
 <div>
 <div>Akhir kata, selamat menunaikan ibadah puasa.</div>
 </div>

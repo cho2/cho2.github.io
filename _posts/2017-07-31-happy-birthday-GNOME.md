@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Happy Birthday GNOME - 2- Years Strong"
+title: "Happy Birthday GNOME - 20 Years Strong"
 description: "Happy Birthday GNOME"
 comments: false
 keywords: "GNOME"
 ---
-
-# Happy Birthday GNOME!
 
 The GNOME community is proud to celebrate 20 years of GNOME!
 

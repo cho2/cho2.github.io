@@ -6,7 +6,7 @@ comments: false
 keywords: "openSUSE, Tumbleweed"
 ---
 
-![assets/img/2017-09-15.png](assets/img/2017-09-15.png)
+![/assets/img/2017-09-15.png](/assets/img/2017-09-15.png)
 
 Jadi ceritanya mumpung [GNOME 3.26](https://www.gnome.org/news/2017/09/gnome-3-26-released/) baru rilis dan bosen dengan Debian Sid, juga kerjaan lagi nunggu umpan lambung dari pemrogram yang tadi sore hampir gagal masak Indomie gara-gara gas habis serta kantor lagi beberes untuk acara [Kerja Bakti GCompris](https://www.facebook.com/photo.php?fbid=1870140546344409&set=a.234793976545749.66457.100000454449972&type=3&theater), maka sore ini saya memutuskan memasang openSUSE Tumbleweed pada [Lenovo Thinkpad X1 Carbon](https://www.cnet.com/products/lenovo-thinkpad-x1-carbon-3rd-generation-intel-core-i7-5600u-2-60ghz-1600mhz-4mb/specs/) yang beli borongan 5 biji, 3 bji diantaranya sudah masuk servisan.
 

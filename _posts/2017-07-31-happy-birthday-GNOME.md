@@ -17,23 +17,23 @@ I'm a long time GNOME user since GNOME 2.18 on Ubuntu 7.04. Although in early ve
 
 Today i'm found above tweet and visited [http://happybirthdaygnome.org](http://happybirthdaygnome.org). At the [timeline](http://happybirthdaygnome.org/#timeline) part i found [GNOME 1.4](http://happybirthdaygnome.org/#timeline) virtual machine. I'm really surprised. I never even used GNOME earlier versions. So here is the screenshot. GNOME 1.4 running on Red Hat Linux 7.2 with Kernel 2.4.7-10.
 
-![https://scontent.fjkt1-1.fna.fbcdn.net/v/t1.0-9/20525242_10209632362462752_7072468499146452326_n.jpg?oh=19fb6fe93e9fc6912c8997b28a34126e&oe=59EFA6A8](https://scontent.fjkt1-1.fna.fbcdn.net/v/t1.0-9/20525242_10209632362462752_7072468499146452326_n.jpg?oh=19fb6fe93e9fc6912c8997b28a34126e&oe=59EFA6A8)
+![https://gitlab.com/cho2/blog-images/raw/master/2017-07-31/1-GRUB%200.90.jpg](https://gitlab.com/cho2/blog-images/raw/master/2017-07-31/1-GRUB%200.90.jpg)
 GRUB 0.90
 
-![https://scontent.fjkt1-1.fna.fbcdn.net/v/t31.0-8/20449280_10209632363702783_6022960984840942837_o.jpg?oh=8a6079f6b0d2f22bffa38a3dce5e73c4&oe=59EAA02E](https://scontent.fjkt1-1.fna.fbcdn.net/v/t31.0-8/20449280_10209632363702783_6022960984840942837_o.jpg?oh=8a6079f6b0d2f22bffa38a3dce5e73c4&oe=59EAA02E)
+![https://gitlab.com/cho2/blog-images/raw/master/2017-07-31/2-Login.jpg](https://gitlab.com/cho2/blog-images/raw/master/2017-07-31/2-Login.jpg)
 Login
 
-![https://scontent.fjkt1-1.fna.fbcdn.net/v/t31.0-8/20424187_10209632365022816_5462218998417988855_o.jpg?oh=fefa3b14b2f1fa0229113ccba8ead470&oe=5A035617](https://scontent.fjkt1-1.fna.fbcdn.net/v/t31.0-8/20424187_10209632365022816_5462218998417988855_o.jpg?oh=fefa3b14b2f1fa0229113ccba8ead470&oe=5A035617)
+![https://gitlab.com/cho2/blog-images/raw/master/2017-07-31/3-GNOME%201.4.jpg](https://gitlab.com/cho2/blog-images/raw/master/2017-07-31/3-GNOME%201.4.jpg)
 GNOME 1.4
 
-![https://scontent.fjkt1-1.fna.fbcdn.net/v/t31.0-8/20451810_10209632365382825_6195856501420142497_o.jpg?oh=9d885b663a2e8d2c8ff10efb159fdf6f&oe=5A37723E](https://scontent.fjkt1-1.fna.fbcdn.net/v/t31.0-8/20451810_10209632365382825_6195856501420142497_o.jpg?oh=9d885b663a2e8d2c8ff10efb159fdf6f&oe=5A37723E)
+![https://gitlab.com/cho2/blog-images/raw/master/2017-07-31/4-Nautilus%201.4.jpg](https://gitlab.com/cho2/blog-images/raw/master/2017-07-31/4-Nautilus%201.4.jpg)
 Nautilus 1.4
 
-![https://scontent.fjkt1-1.fna.fbcdn.net/v/t31.0-8/20507147_10209632366342849_1771969866541523610_o.jpg?oh=df18b5e26d61a196dd780165a8f7c6bf&oe=5A393F38](https://scontent.fjkt1-1.fna.fbcdn.net/v/t31.0-8/20507147_10209632366342849_1771969866541523610_o.jpg?oh=df18b5e26d61a196dd780165a8f7c6bf&oe=5A393F38)
+![https://gitlab.com/cho2/blog-images/raw/master/2017-07-31/5-Mozilla%200.9.2.1.jpg](https://gitlab.com/cho2/blog-images/raw/master/2017-07-31/5-Mozilla%200.9.2.1.jpg)
 Mozilla 0.9.2.1
 
-![https://scontent.fjkt1-1.fna.fbcdn.net/v/t31.0-8/20507397_10209632366662857_9186579612918777961_o.jpg?oh=7a38fb8c619971c00485b92ed33db55f&oe=5A30115F](https://scontent.fjkt1-1.fna.fbcdn.net/v/t31.0-8/20507397_10209632366662857_9186579612918777961_o.jpg?oh=7a38fb8c619971c00485b92ed33db55f&oe=5A30115F)
+![https://gitlab.com/cho2/blog-images/raw/master/2017-07-31/6-GIMP%201.2.1.jpg](https://gitlab.com/cho2/blog-images/raw/master/2017-07-31/6-GIMP%201.2.1.jpg)
 GIMP 1.2.1
 
-![https://scontent.fjkt1-1.fna.fbcdn.net/v/t31.0-8/20449161_10209632442024741_5854090421902113522_o.jpg?oh=7ab3e40caaec0fd4ec3df5e34086b4e3&oe=59FFA43B](https://scontent.fjkt1-1.fna.fbcdn.net/v/t31.0-8/20449161_10209632442024741_5854090421902113522_o.jpg?oh=7ab3e40caaec0fd4ec3df5e34086b4e3&oe=59FFA43B)
+![https://gitlab.com/cho2/blog-images/raw/master/2017-07-31/7-System%20Information.jpg](https://gitlab.com/cho2/blog-images/raw/master/2017-07-31/7-System%20Information.jpg)
 System Information

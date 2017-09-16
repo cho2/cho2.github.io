@@ -5,6 +5,6 @@ description: "Parade Software Merdeka"
 comments: false
 keywords: "Parade Software Merdeka, FOSS"
 ---
-![http://www.codepolitan.com/wp-content/uploads/2015/08/Poster.jpg](http://www.codepolitan.com/wp-content/uploads/2015/08/Poster.jpg)
+![https://gitlab.com/cho2/blog-images/raw/master/2015-08-30/poster.png](https://gitlab.com/cho2/blog-images/raw/master/2015-08-30/poster.png)
 
 This is pre-event before Indonesia Linux Conference 2015. My talk on Parade Software Merdeka was [**GNOME Desktop for Everyone**](http://www.slideshare.net/cho2marsmellow/gnometm-desktop-for-everyone)

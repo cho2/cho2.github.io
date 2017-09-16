@@ -6,7 +6,7 @@ comments: false
 keywords: "openSUSE, Tumbleweed, MacBook Air"
 ---
 
-![https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/14690862_10207368452346414_1439740797160973501_n.jpg?oh=3c68b5821d029640e747d263e099930b&oe=58AA84EB](https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/14690862_10207368452346414_1439740797160973501_n.jpg?oh=3c68b5821d029640e747d263e099930b&oe=58AA84EB)
+![https://gitlab.com/cho2/blog-images/raw/master/2016-10-17/install.jpg](https://gitlab.com/cho2/blog-images/raw/master/2016-10-17/install.jpg)
 
 My MacBook Air model is [MacBook Air 5.1](https://support.apple.com/kb/SP650?locale=en_US&viewlocale=en_US). Previously, this Mac system are dualboot containing Mac OS Sierra and BlankOn (with [rEFInd](http://www.rodsbooks.com/refind/)). After i got ThinkPad X1 Carbon, i decided to install BlankOn on it. So, i backup up my data and move them to X1 Carbon. Then trying to install openSUSE Tumbleweed on my MacBook Air.
 
@@ -26,7 +26,5 @@ Well, remember that openSUSE Tumbleweed overwrite the default EFI boot manager. 
 * `#  efibootmgr -c -l \\EFI\\refind\\refind_x64.efi -L rEFInd`
 
 Reboot and rEFInd back again.
-
-![https://scontent-sin6-1.xx.fbcdn.net/t31.0-8/14707965_10207384100657612_3320847370470581971_o.jpg](https://scontent-sin6-1.xx.fbcdn.net/t31.0-8/14707965_10207384100657612_3320847370470581971_o.jpg)
 
 There is instruction from openSUSE about [installation on a Mac](https://en.opensuse.org/SDB:Installation_on_a_Mac). You should follow those instruction if you never install GNU/Linux on Mac. Good luck.

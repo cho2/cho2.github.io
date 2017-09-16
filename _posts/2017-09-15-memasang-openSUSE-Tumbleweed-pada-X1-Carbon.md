@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Memasang openSUSE Tumbleweed pada Lenovo Thinkpad X1 Carbon"
-description: "Memasang openSUSE Tumbleweed pada Lenovo Thinkpad X1 Carbon"
+title: "Memasang openSUSE Tumbleweed Pada Lenovo Thinkpad X1 Carbon"
+description: "Memasang openSUSE Tumbleweed Pada Lenovo Thinkpad X1 Carbon"
 comments: false
 keywords: "openSUSE, Tumbleweed"
 ---

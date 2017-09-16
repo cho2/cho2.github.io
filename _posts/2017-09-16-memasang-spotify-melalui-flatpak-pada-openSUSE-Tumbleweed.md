@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Memasang Spotify melalui Flatpak pada openSUSE Tumbleweed"
-description: "Memasang Spotify melalui Flatpak pada openSUSE Tumbleweed"
+title: "Memasang Spotify Melalui Flatpak Pada openSUSE Tumbleweed"
+description: "Memasang Spotify Melalui Flatpak Pada openSUSE Tumbleweed"
 comments: false
 keywords: "openSUSE, Tumbleweed, Spotify, Flatpak"
 ---

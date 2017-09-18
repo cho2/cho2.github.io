@@ -10,7 +10,7 @@ keywords: "GCompris, Hackathon"
 
 ![https://gitlab.com/cho2/blog-images/raw/master/2017-09-18/gcompris.jpg](https://gitlab.com/cho2/blog-images/raw/master/2017-09-18/gcompris.jpg)
 
-```
+
 A two-day sprint for translating GCompris, the high quality software designed for young children, held on September 16 and 17 in KodeKreatif Labs – a working space that often use for open source contribution in Indonesia – at Bogor, West Java.
 
 The organizer of the sprint is Ahmad Haris, one of KDE Indonesia localization team.  He's also ex-Release Manager of the BlankOn project, an Indonesian Linux distribution derived from Debian Sid.  Besides BlankOn, Haris has contributed to many FOSS projects like Ridon (Android with Local Taste), openSUSE, GNOME, LibreOffice and so on.  Also, he cooperates deeply with the ezgo team – another Linux distribution full of open educational resources – in Taiwan.  Having the third baby born recently, he would like to introduce GCompris to more young kids in Indonesia, to improve pre-school education environment with FOSS.
@@ -21,7 +21,7 @@ This event also sponsored by Fans Shoes (shoes factory that 100% use BlankOn Lin
 
 The big next step for GCompris Indonesia Community are adding local contents to GCompris applications. The community will communicate with GCompris Developers to make this dream come true.
 
-```
+
 
 ## Pictures
 

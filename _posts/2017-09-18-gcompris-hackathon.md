@@ -15,7 +15,7 @@ A two-day sprint for translating GCompris, the high quality software designed fo
 
 The organizer of the sprint is Ahmad Haris, one of KDE Indonesia localization team.  He's also ex-Release Manager of the BlankOn project, an Indonesian Linux distribution derived from Debian Sid.  Besides BlankOn, Haris has contributed to many FOSS projects like Ridon (Android with Local Taste), openSUSE, GNOME, LibreOffice and so on.  Also, he cooperates deeply with the ezgo team – another Linux distribution full of open educational resources – in Taiwan.  Having the third baby born recently, he would like to introduce GCompris to more young kids in Indonesia, to improve pre-school education environment with FOSS.
 
-There has been 20 people from 3 provinces joining to this event. In this sprint, GCompris translation already reach 100%, and audio localization are on going.  Everyone enjoy fHAPPY BIRTHDAYood and drinks and contribute to open source together.
+There has been 20 people from 3 provinces joining to this event. In this sprint, GCompris translation already reach 100%, and audio localization are on going.  Everyone enjoy food and drinks and contribute to open source together.
 
 This event also sponsored by Fans Shoes (shoes factory that 100% use BlankOn Linux and Inkscape as base of their daily productivity), Ridon (Android with Indonesia local taste) Community and Istana Media (open source book publisher).
 

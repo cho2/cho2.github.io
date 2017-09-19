@@ -59,7 +59,7 @@ Recording Session
 Me as sound enginner on GCompris Voices recording. Check my work [here](https://github.com/cho2/GCompris-voices-ID).
 
 ![https://gitlab.com/cho2/blog-images/raw/master/2017-09-18/11.jpg](https://gitlab.com/cho2/blog-images/raw/master/2017-09-18/11.jpg)
-PS: Because we also use and contribute to GNOME desktop, so we would like to say HAPPY BIRTHDAY GNOME and Congratulations of GNOME 3.26 Release.
+PS: Because we also use and contribute to GNOME desktop, so we would like to say HAPPY BIRTHDAY GNOME and Congratulations for GNOME 3.26 Release.
 
 
 Photo Courtesy:

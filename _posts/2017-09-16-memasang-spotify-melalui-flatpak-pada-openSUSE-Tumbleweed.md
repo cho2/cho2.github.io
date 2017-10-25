@@ -22,18 +22,19 @@ keywords: "openSUSE, Tumbleweed, Spotify, Flatpak"
 * Jalankan Spotify
 `flatpak run com.spotify.Client`
 
-Sayangnya, metode pemasangan dengan Flatpak ini, kita harus menjalankan perintah untuk memanggil program tersebut. Untuk mengakalinya, maka kita perlu membuat pintasan (*shortcut*) untuk mempermudah memanggil program. Pada destop GNOME, referensinya adalah [ini](https://developer.gnome.org/integration-guide/stable/desktop-files.html.en).
 
-* Masuk ke direktori ~/.local/share/applications 
-`cd ~/.local/share/applications`
+~~Sayangnya, metode pemasangan dengan Flatpak ini, kita harus menjalankan perintah untuk memanggil program tersebut. Untuk mengakalinya, maka kita perlu membuat pintasan (*shortcut*) untuk mempermudah memanggil program. Pada destop GNOME, referensinya adalah [ini](https://developer.gnome.org/integration-guide/stable/desktop-files.html.en).~~
 
-* Buat berkas spotify-flatpak.desktop
-`touch spotify-flatpak.desktop`
+* ~~Masuk ke direktori ~/.local/share/applications 
+`cd ~/.local/share/applications`~~
 
-* Sunting berkas spotify-flatpak.desktop
-`gedit spotify-flatpak.desktop`
+* ~~Buat berkas spotify-flatpak.desktop
+`touch spotify-flatpak.desktop`~~
 
-* Isikan berkas tersebut seperti berikut
+* ~~Sunting berkas spotify-flatpak.desktop
+`gedit spotify-flatpak.desktop`~~
+
+* ~~Isikan berkas tersebut seperti berikut~~
 ```
 [Desktop Entry]
 Name=Spotify
@@ -42,7 +43,10 @@ Icon=/usr/share/icons/Moka/256x256@2x/web/spotify-client.png
 Type=Application
 Categories=Music;
 ```
-Untuk bagian ikon, pastikan Anda telah memiliki ikon Spotify dan mengarahkannya ke berkas ikon tersebut, dalam contoh ini, saya menggunakan ikon Moka. Bila dicari dengan mengetikkan Spotify, akan muncul seperti berikut.
+~~Untuk bagian ikon, pastikan Anda telah memiliki ikon Spotify dan mengarahkannya ke berkas ikon tersebut, dalam contoh ini, saya menggunakan ikon Moka. Bila dicari dengan mengetikkan Spotify, akan muncul seperti berikut.~~
+
+
+Update: Saat ini, saat memasang melalui Flatpak, desktop entry sudah otomatis terbuat
 
 ![https://opensuse.id/wp-content/uploads/2017/09/Cuplikan-layar-dari-2017-09-16-17-56-44.png](https://opensuse.id/wp-content/uploads/2017/09/Cuplikan-layar-dari-2017-09-16-17-56-44.png)
 

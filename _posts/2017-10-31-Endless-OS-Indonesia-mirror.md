@@ -3,7 +3,7 @@ layout: post
 title: "Endless OS Indonesia Mirror"
 description: "Endless OS Indonesia Mirror"
 comments: false
-keywords: "Endless OS Indonesia Mirror"
+keywords: "Endless"
 ---
 
 Now we have two mirrors in Indonesia for download [Endless OS](https://endlessos.com/) .iso files

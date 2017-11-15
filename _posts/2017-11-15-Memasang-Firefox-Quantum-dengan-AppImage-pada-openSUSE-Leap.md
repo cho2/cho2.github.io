@@ -29,10 +29,10 @@ Sudah tidak sabar mencoba Firefox Quantum?
 ![https://opensuse.id/wp-content/uploads/2017/11/VirtualBox_Leap-42.3_15_11_2017_13_25_35.png](https://opensuse.id/wp-content/uploads/2017/11/VirtualBox_Leap-42.3_15_11_2017_13_25_35.png)
 
 
-**NB**: Ini bukan AppImage resmi dari Mozilla - jika Anda menginginkannya, pastikan untuk mengomentari pada https://bugzilla.mozilla.org/show_bug.cgi?id=1249971
+**NB**: Ini bukan AppImage resmi dari Mozilla - jika Anda menginginkannya, pastikan untuk mengomentari pada [https://bugzilla.mozilla.org/show_bug.cgi?id=1249971](https://bugzilla.mozilla.org/show_bug.cgi?id=1249971)
 
 **Referensi**:
 
-https://twitter.com/probonopd/status/930527138943569926
-https://twitter.com/probonopd/status/930528209749372928
-https://twitter.com/probonopd/status/930528463836057600
+[https://twitter.com/probonopd/status/930527138943569926](https://twitter.com/probonopd/status/930527138943569926)
+[https://twitter.com/probonopd/status/930528209749372928](https://twitter.com/probonopd/status/930528209749372928)
+[https://twitter.com/probonopd/status/930528463836057600](https://twitter.com/probonopd/status/930528463836057600)

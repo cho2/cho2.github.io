@@ -28,7 +28,7 @@ Can't wait Firefox Quantum on Endless OS?
 ![https://gitlab.com/cho2/blog-images/raw/master/2017-11-15/4.png](https://gitlab.com/cho2/blog-images/raw/master/2017-11-15/4.png)
 
 
-**PS**: This is not an official AppImage from Mozilla - if you want it, be sure to comment on it [https://bugzilla.mozilla.org/show_bug.cgi?id=1249971](https://bugzilla.mozilla.org/show_bug.cgi?id=1249971)
+**PS**: This is not an official AppImage from Mozilla - if you want it, be sure to comment on [https://bugzilla.mozilla.org/show_bug.cgi?id=1249971](https://bugzilla.mozilla.org/show_bug.cgi?id=1249971)
 
 **Reference**:
 

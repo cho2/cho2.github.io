@@ -13,7 +13,7 @@ After apllied it, an email from Michael Hall came. Then i interviewed by Michael
 ![https://gitlab.com/cho2/blog-images/raw/master/2017-11-14/cosimo.jpg](https://gitlab.com/cho2/blog-images/raw/master/2017-11-14/cosimo.jpg)
 Me with Cosimo
 
-Four days after i arrived from openSUSE Asia Summit 2017 in Tokyo, Nuritzi and Michael invited brunch with an Ambassador from Jakarta (Jabodetabek i mean) and Endless Developer. I'm very surprised that Endless Developer came to Indonesia. It was nice to meet [Cosimo Cecchi](https://github.com/cosimoc) who also GNOME board, [Srdjan Grubor](https://github.com/sgnn7), Robin Tafel, Sam, Katie, Emmanuelle, Septira, and the others. 
+Four days after i arrived from openSUSE Asia Summit 2017 in Tokyo, Nuritzi and Michael invited brunch with an Ambassador from Jakarta (Jabodetabek i mean) and Endless Developer. I'm very surprised that Endless Developer came to Indonesia. It was nice to meet [Cosimo Cecchi](https://github.com/cosimoc) who also GNOME board, [Srdjan Grubor](https://github.com/sgnn7), [Robin Tafel](http://robintafel.com/), [Sam Spilsburry](https://github.com/smspillaz), Katie, Emmanuelle, Septira, and the others. 
 
 ![https://gitlab.com/cho2/blog-images/raw/master/2017-11-14/lunch.jpg](https://gitlab.com/cho2/blog-images/raw/master/2017-11-14/lunch.jpg)
 Brunch with Endless

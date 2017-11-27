@@ -43,4 +43,4 @@ After got headache with the [first experiment](https://github.com/cho2/firefox-q
 ![https://gitlab.com/cho2/blog-images/raw/master/2017-11-22/Ubuntu.png](https://gitlab.com/cho2/blog-images/raw/master/2017-11-22/Ubuntu.png)
 
 ### Issue
-* Icon doesn't appear
+* ~~Icon doesn't appear~~ fix on this [pull request](https://github.com/cho2/org.mozilla.Firefox/pull/1)

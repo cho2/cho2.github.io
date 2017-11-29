@@ -32,6 +32,6 @@ Can't wait Firefox Quantum on Endless OS?
 
 **Reference**:
 
-[https://twitter.com/probonopd/status/930527138943569926](https://twitter.com/probonopd/status/930527138943569926)
-[https://twitter.com/probonopd/status/930528209749372928](https://twitter.com/probonopd/status/930528209749372928)
-[https://twitter.com/probonopd/status/930528463836057600](https://twitter.com/probonopd/status/930528463836057600)
+* [https://twitter.com/probonopd/status/930527138943569926](https://twitter.com/probonopd/status/930527138943569926)
+* [https://twitter.com/probonopd/status/930528209749372928](https://twitter.com/probonopd/status/930528209749372928)
+* [https://twitter.com/probonopd/status/930528463836057600](https://twitter.com/probonopd/status/930528463836057600)

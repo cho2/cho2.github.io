@@ -21,7 +21,7 @@ Install latest node
 ```
 nvm install node
 ```
-or Install LTS node
+or install LTS node
 ```
 nvm install --lts
 ```

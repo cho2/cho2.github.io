@@ -11,7 +11,7 @@ keywords: "Endless, WPS Office"
 * Download [http://kdl1.cache.wps.com/ksodl/download/linux/a21//wps-office_10.1.0.5707~a21_x86_64.tar.xz](http://kdl1.cache.wps.com/ksodl/download/linux/a21//wps-office_10.1.0.5707~a21_x86_64.tar.xz)
 ![https://gitlab.com/cho2/blog-images/raw/master/2018-01-12/1.png](https://gitlab.com/cho2/blog-images/raw/master/2018-01-12/1.png)
 
-* Extract `wps-office_10.1.0.5707~a21_x86_64.tar.xz` and 
+* Extract `wps-office_10.1.0.5707~a21_x86_64.tar.xz` 
 ![https://gitlab.com/cho2/blog-images/raw/master/2018-01-12/2.png](https://gitlab.com/cho2/blog-images/raw/master/2018-01-12/2.png)
 
 * Enter WPS folder with command 

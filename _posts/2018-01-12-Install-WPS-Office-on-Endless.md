@@ -25,7 +25,7 @@ cd wps-office_10.1.0.5707~a21_x86_64
     * For WPS Office Spreadsheets, type `./et`
 ![https://gitlab.com/cho2/blog-images/raw/master/2018-01-12/3.png](https://gitlab.com/cho2/blog-images/raw/master/2018-01-12/3.png)
 
-* Accept End User Agreement
+* Accept End User License Agreement
 ![https://gitlab.com/cho2/blog-images/raw/master/2018-01-12/4.png](https://gitlab.com/cho2/blog-images/raw/master/2018-01-12/4.png)
 
 * WPS Writer

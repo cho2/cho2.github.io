@@ -33,3 +33,4 @@ cd wps-office_10.1.0.5707~a21_x86_64
 
 
 IMHO, WPS still in Alpha for several years, why people still use WPS rather than LibreOffice?
+Send your opinion at [kukuh@syafaat.id](mailto:kukuh@syafaat.id)

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Cangkruan KLAS: Berkenalan dengan Endless OS (Photo)"
-description: "Cangkruan KLAS: Berkenalan dengan Endless OS (Photo)"
+title: "Cangkruan KLAS: Berkenalan dengan Endless OS (Report and Photo)"
+description: "Cangkruan KLAS: Berkenalan dengan Endless OS (Report and Photo)"
 comments: false
 keywords: "Cangkruan KLAS, Endless"
 ---

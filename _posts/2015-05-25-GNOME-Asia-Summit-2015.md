@@ -6,7 +6,7 @@ comments: false
 keywords: "GNOME.Asia Summit 2015, FOSS, GNOME, Ardour"
 ---
 
-![GAS2015](http://2015.gnome.asia/media/1stdaysummit.jpg)
+![GAS2015](https://gitlab.com/cho2/blog-images/raw/0892bfbeb2a4ccf02d6e10a92d8cd881b17ba4b9/2015-05-25/1stdaysummit.jpg)
 
 [GNOME.Asia Summit 2015](http://2015.gnome.asia/) attended by more than 322 people, among them users, developers, business professionals, media, students and government officials, including 48 speakers from all over the world.
 

@@ -1,7 +1,7 @@
 
 # SEO settings
-title: "blog.kukuh.syafaat.id"
-title2: "space" # default: ""
+title: "blog.kukuh."
+title2: "syafaat.id" # default: ""
 description: "blog.kukuh.syafaat.id"
 keywords: "cho2, Kukuh Syafaat, blog.kukuh.syafaat.id"
 url: http://blog.kukuh.syafaat.id/ # site url
@@ -34,7 +34,7 @@ author:
   bio      : "Free/Open Source Software Enthusiast & Part-Time Musician"
   thumb    : /images/author.jpg
   email    : kukuh@syafaat.id
-  url      : http://syafaat.id
+  url      : https://kukuh.syafaat.id
   github   : https://github.com/cho2
   twitter  : https://twitter.com/cho2MLHC
   facebook : https://www.facebook.com/cho2mlhc

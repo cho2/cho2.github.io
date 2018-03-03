@@ -7,6 +7,7 @@ keywords: "GNOME, Recipes, hackfest"
 ---
 
 <img src="https://gitlab.com/cho2/blog-images/raw/master/recipes-sticker/recipes-sticker.png" style="width:50%;display:block;margin-left:auto;margin-right:auto;"> 
+<br>
 
 ## The Day Before Hackfest
 Actually i don't have plan to attend [GNOME Recipes Hackfest](https://wiki.gnome.org/Hackfests/Recipes2018) until i woke up on Saturday, February 24, i became a member two GNOME telegram group. The first one is GNOME (general i think) and the second one is GNOME Engagement. Nuritzi invited me. She told me that hopefully me and Haris can meet Matthias and Umang when they're in Indonesia for the GNOME Recipes Hackfest. Then me and Haris prepared all the stuff quickly such as our transportation and lodging.  
@@ -14,22 +15,16 @@ Actually i don't have plan to attend [GNOME Recipes Hackfest](https://wiki.gnome
 ## Hackfest Day 0
 Day 0 was February 27, me and Haris still in Jakarta in the morning, we arrived in Yogyakarta on the evening by train. So i don't know how about the activities on that day. The place is in Amikom University. They posted the photos on their [instagram](https://www.instagram.com/p/BfzT9Deh0Ft/) account about the day 0 event. 
 
-<img src="https://gitlab.com/cho2/blog-images/raw/master/2018-03-03/amikom-instagram-1.jpg" style="width:75%;display:block;margin-left:auto;margin-right:auto;"> 
 
 ## Hackfest Day 1
 Day 1 started with defining the goals of hackfest then discussed about recipes pack, like "How do we get local recipes" especially for Indonesian recipes. We will have a contest or hackfest to collect Indonesian recipes soon. 
 
-<img src="https://gitlab.com/cho2/blog-images/raw/master/2018-03-03/IMG_20180228_125822.jpg" style="width:75%;display:block;margin-left:auto;margin-right:auto;"> 
-<p style="text-align: center;">Nasi Padang for Lunch Day 1<p>
 
 For me, the interesting part when [Philip](https://github.com/ptomato) gave us a demo with [hatch](https://github.com/endlessm/hatch-previewer) and [ingester](http://endlessm.github.io/eos-knowledge-lib/docs/master/tutorial/ingester.html). Philip is Endless developer and i know him from [Endless Community Forum](https://community.endlessos.com/). 
 
-<img src="https://gitlab.com/cho2/blog-images/raw/master/2018-03-03/IMG_20180228_171134.jpg" style="width:75%;display:block;margin-left:auto;margin-right:auto;"> 
 
 On day 1, i'm also meet Matt Dalio (Endless CEO) when we had a dinner for the second time, and he told me that Endless will be have a small game app. The game was developed from game developers that we met on BEKRAF Developer Day in Bandung last year.
 
-<img src="https://gitlab.com/cho2/blog-images/raw/master/2018-03-03/IMG_20180303_064103_732.jpg" style="width:75%;display:block;margin-left:auto;margin-right:auto;"> 
-<p style="text-align: center;">Dinner Day 1<p>
 
 [Day 1 note](https://wiki.gnome.org/Hackfests/Recipes2018/Day1)
 
@@ -48,26 +43,14 @@ On day 2, hackfest discussed about layout/card. [Emmanuele](https://github.com/e
 * Does he use recipes at all?
 * How did you learn to cook?
 
-<img src="https://gitlab.com/cho2/blog-images/raw/master/2018-03-03/IMG_20180301_102217.jpg" style="width:75%;display:block;margin-left:auto;margin-right:auto;"> 
 
 After Hackfest, me and Haris (as Endless Ambassador) met Renato from Endless. We discussed about new Endless direct sales program in Indonesia and he also said that Endless will have new operation office in Bali.
 
-<img src="https://gitlab.com/cho2/blog-images/raw/master/2018-03-03/IMG_20180301_230958_104.jpg" style="width:75%;display:block;margin-left:auto;margin-right:auto;"> 
-<p style="text-align: center;">Dinner Day 2<p>
 
 [Day 2 note](https://wiki.gnome.org/Hackfests/Recipes2018/Day2)
 
 ## Hackfest Day 3
 Day 3 was demo time. [Martin](https://github.com/tchx84) demoed recipes with Endless templates, [Cosimo](https://github.com/cosimoc) showed an [karaoke app](https://github.com/gyunaev/spivak) that will be in Flathub soon, [Matthias](https://github.com/matthiasclasen) showed Halal category in Recipes (it's cool).
-
-<img src="https://gitlab.com/cho2/blog-images/raw/master/2018-03-03/IMG_20180302_111315.jpg" style="width:75%;display:block;margin-left:auto;margin-right:auto;"> 
-<p style="text-align: center;">Halal category<p>
-
-<img src="https://gitlab.com/cho2/blog-images/raw/master/2018-03-03/IMG_20180302_105041.jpg" style="width:75%;display:block;margin-left:auto;margin-right:auto;"> 
-<p style="text-align: center;">Karaoke App<p>
-
-<img src="https://gitlab.com/cho2/blog-images/raw/master/2018-03-03/IMG_20180303_005456_197.jpg" style="width:75%;display:block;margin-left:auto;margin-right:auto;"> 
-<p style="text-align: center;">Dinner Day 3<p>
 
 [Day 3 note](https://wiki.gnome.org/Hackfests/Recipes2018/Day3)
 

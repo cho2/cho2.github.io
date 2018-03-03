@@ -15,7 +15,6 @@ Actually i don't have plan to attend [GNOME Recipes Hackfest](https://wiki.gnome
 Day 0 was February 27, me and Haris still in Jakarta in the morning, we arrived in Yogyakarta on the evening by train. So i don't know how about the activities on that day. The place is in Amikom University. They posted the photos on their [instagram](https://www.instagram.com/p/BfzT9Deh0Ft/) account about the day 0 event. 
 
 <img src="https://gitlab.com/cho2/blog-images/raw/master/2018-03-03/amikom-instagram-1.jpg" style="width:75%;display:block;margin-left:auto;margin-right:auto;"> 
-<p style="text-align: center;"><p>
 
 ## Hackfest Day 1
 Day 1 started with defining the goals of hackfest then discussed about recipes pack, like "How do we get local recipes" especially for Indonesian recipes. We will have a contest or hackfest to collect Indonesian recipes soon. 
@@ -26,7 +25,6 @@ Day 1 started with defining the goals of hackfest then discussed about recipes p
 For me, the interesting part when [Philip](https://github.com/ptomato) gave us a demo with [hatch](https://github.com/endlessm/hatch-previewer) and [ingester](http://endlessm.github.io/eos-knowledge-lib/docs/master/tutorial/ingester.html). Philip is Endless developer and i know him from [Endless Community Forum](https://community.endlessos.com/). 
 
 <img src="https://gitlab.com/cho2/blog-images/raw/master/2018-03-03/IMG_20180228_171134.jpg" style="width:75%;display:block;margin-left:auto;margin-right:auto;"> 
-<p style="text-align: center;"><p>
 
 On day 1, i'm also meet Matt Dalio (Endless CEO) when we had a dinner for the second time, and he told me that Endless will be have a small game app. The game was developed from game developers that we met on BEKRAF Developer Day in Bandung last year.
 
@@ -51,7 +49,6 @@ On day 2, hackfest discussed about layout/card. [Emmanuele](https://github.com/e
 * How did you learn to cook?
 
 <img src="https://gitlab.com/cho2/blog-images/raw/master/2018-03-03/IMG_20180301_102217.jpg" style="width:75%;display:block;margin-left:auto;margin-right:auto;"> 
-<p style="text-align: center;"><p>
 
 After Hackfest, me and Haris (as Endless Ambassador) met Renato from Endless. We discussed about new Endless direct sales program in Indonesia and he also said that Endless will have new operation office in Bali.
 

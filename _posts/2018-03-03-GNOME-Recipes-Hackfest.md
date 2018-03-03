@@ -26,13 +26,10 @@ On day 1, i'm also meet Matt Dalio (Endless CEO) when we had a dinner for the se
 [Day 1 note](https://wiki.gnome.org/Hackfests/Recipes2018/Day1)
 
 <img src="https://gitlab.com/cho2/blog-images/raw/master/2018-03-03/IMG_20180228_125822.jpg" style="width:75%;display:block;margin-left:auto;margin-right:auto;">
-<p style="text-align: center;">Nasi Padang for Lunch Day 1<p>
 
 <img src="https://gitlab.com/cho2/blog-images/raw/master/2018-03-03/IMG_20180228_171134.jpg" style="width:75%;display:block;margin-left:auto;margin-right:auto;">
-<p style="text-align: center;">Example of Card UI in Endless explained by Martin<p> 
 
 <img src="https://gitlab.com/cho2/blog-images/raw/master/2018-03-03/IMG_20180303_064103_732.jpg" style="width:75%;display:block;margin-left:auto;margin-right:auto;">
-<p style="text-align: center;">Dinner Day 1<p> 
 
 ## Hackfest Day 2
 On day 2, hackfest discussed about layout/card. [Emmanuele](https://github.com/ebassi) showed [AutoLayout.js](https://rawgit.com/IjzerenHein/visualformat-editor/master/dist/index.html?vfl=example) and [Emeus](https://ebassi.github.io/emeus/). [Cosimo](https://github.com/cosimoc) showed [Patterns Of Card UI Design](https://vimeo.com/120858063). [Emel](https://about.me/emelelvin) and [Rama](https://github.com/raniaamina) (the Indonesian GNOME newcomer) interviewed students from [Yogyakarta State University Department of Hospitality & Clothing](http://pendidikan-teknik-bogabusana.ft.uny.ac.id/) some question like:
@@ -54,10 +51,8 @@ After Hackfest, me and Haris (as Endless Ambassador) met Renato from Endless. We
 [Day 2 note](https://wiki.gnome.org/Hackfests/Recipes2018/Day2)
 
 <img src="https://gitlab.com/cho2/blog-images/raw/master/2018-03-03/IMG_20180301_102217.jpg" style="width:75%;display:block;margin-left:auto;margin-right:auto;">
-<p style="text-align: center;">Emanuelle explained AutoLayout.js<p>
 
 <img src="https://gitlab.com/cho2/blog-images/raw/master/2018-03-03/IMG_20180301_230958_104.jpg" style="width:75%;display:block;margin-left:auto;margin-right:auto;">
-<p style="text-align: center;">Dinner Day 2<p>
 
 ## Hackfest Day 3
 Day 3 was demo time. [Martin](https://github.com/tchx84) demoed recipes with Endless templates, [Cosimo](https://github.com/cosimoc) showed an [karaoke app](https://github.com/gyunaev/spivak) that will be in Flathub soon, [Matthias](https://github.com/matthiasclasen) showed Halal category in Recipes (it's cool).
@@ -65,13 +60,10 @@ Day 3 was demo time. [Martin](https://github.com/tchx84) demoed recipes with End
 [Day 3 note](https://wiki.gnome.org/Hackfests/Recipes2018/Day3)
 
 <img src="https://gitlab.com/cho2/blog-images/raw/master/2018-03-03/IMG_20180302_111315.jpg" style="width:75%;display:block;margin-left:auto;margin-right:auto;">
-<p style="text-align: center;">Matthias showed halal category<p>
 
 <img src="https://gitlab.com/cho2/blog-images/raw/master/2018-03-03/IMG_20180302_105041.jpg" style="width:75%;display:block;margin-left:auto;margin-right:auto;">
-<p style="text-align: center;">Cosimo showed karaoke app<p>
 
 <img src="https://gitlab.com/cho2/blog-images/raw/master/2018-03-03/IMG_20180303_005456_197.jpg" style="width:75%;display:block;margin-left:auto;margin-right:auto;">
-<p style="text-align: center;">Dinner Day 3<p>
 
 ## Epilog
 This was my first hackfest. The things that i can get from this hackfest, now i know about GNOME and Endless development tools behind GNOME Recipes and Endless Cooking app, know about card UI, know how to gathering idea about Recipes, and met new people from around the world, here, in Indonesia. For the next project, we in Indonesia will collect Indonesian recipes for GNOME Recipes. It will be challenging because translating recipes from Indonesian to English isn't easy since not all ingredients available in English. Thanks to Matthias, Cossimo, Jonathan, Emel, Philip, Martin, Emanuelle, Umang and Ekta. Well, see you all soon guys.

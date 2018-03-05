@@ -70,5 +70,5 @@ This was my first hackfest. The things that i can get from this hackfest, now i 
 
 Thanks to GNOME Foundation and Endless
 
-![https://gitlab.com/cho2/blog-images/raw/master/gnome-foundation-badge/sponsored-badge-simple.png](https://gitlab.com/cho2/blog-images/raw/master/gnome-foundation-badge/sponsored-badge-simple.png)
+![https://gitlab.com/cho2/blog-images/raw/master/gnome-foundation-badge/sponsored-by-foundation.png](https://gitlab.com/cho2/blog-images/raw/master/gnome-foundation-badge/sponsored-by-foundation.png)
 

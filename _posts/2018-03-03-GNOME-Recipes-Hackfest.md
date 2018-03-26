@@ -72,4 +72,4 @@ Thanks to GNOME Foundation and Endless
 
 ![https://gitlab.com/cho2/blog-images/raw/master/gnome-foundation-badge/sponsored-by-foundation.png](https://gitlab.com/cho2/blog-images/raw/master/gnome-foundation-badge/sponsored-by-foundation.png)
 
-*some photos courtesy of GNOME Recipes Telegram Group*
+*some photos courtesy of GNOME Recipes Telegram Group and AMIKOM*

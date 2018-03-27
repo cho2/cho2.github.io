@@ -47,6 +47,8 @@ I think i can claim that [LibreOffice Conference Indonesia 2018](https://libreof
 
 * The exhibitor probably will have booth again in iCrOSS 2018 on Spetember.
 
+* Last but not least, [KDE Indonesia Telegram Group](https://t.me/kdeid).
+
 I would like to say thank you to all commitee, sponsors, speakers, participant, exhibitor and all of you that supported this event.
 
 PS: Find the photos gallery [here](https://www.flickr.com/groups/3951337@N22/).

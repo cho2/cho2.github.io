@@ -53,4 +53,6 @@ I would like to say thank you to all commitee, sponsors, speakers, participant, 
 
 PS: Find the photos gallery [here](https://www.flickr.com/groups/3951337@N22/).
 
+![https://raw.githubusercontent.com/cho2/libreoffice-id/master/media-promosi/flyer/sponsored-by-libreoffice.png](https://raw.githubusercontent.com/cho2/libreoffice-id/master/media-promosi/flyer/sponsored-by-libreoffice.png)
+
 ![https://raw.githubusercontent.com/cho2/libreoffice-id/master/media-promosi/flyer/badge.png](https://raw.githubusercontent.com/cho2/libreoffice-id/master/media-promosi/flyer/badge.png)

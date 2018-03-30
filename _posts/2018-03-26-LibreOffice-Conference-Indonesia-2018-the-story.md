@@ -41,11 +41,11 @@ I think i can claim that [LibreOffice Conference Indonesia 2018](https://libreof
 
 * When had dinner on day 1, me, [Andika](https://i14i.andika.info) and [Rizki](http://kelimuttu.github.io) had a small discussion about translation, Javanese locale, `jv_JV`, and the possibility of Translation Summit/Conference/Hackfest.
 
-* [Siska](https://twitter.com/halosiska) will lead KLUWEK ( [Kelompok Linux Cewek Indonesia](http://archive.linux.or.id/node/2052) ).  
+* [Siska](https://twitter.com/halosiska) will lead KLUWEK ([Kelompok Linux Cewek Indonesia](http://archive.linux.or.id/node/2052)).  
 
 * The 11th edition of [BlankOn](https://www.blankonlinux.or.id/), codename Uluwatu, will released (if not postponed, again and again).
 
-* The exhibitor probably will have booth again in iCrOSS 2018 on Spetember.
+* The exhibitor probably will have booth again in iCrOSS 2018 on September.
 
 * Last but not least, [KDE Indonesia Telegram Group](https://t.me/kdeid).
 

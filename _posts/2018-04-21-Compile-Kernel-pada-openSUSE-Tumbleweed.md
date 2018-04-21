@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Compile Kernel Pada openSUSE TUmbleweed"
-description: "Compile Kernel Pada openSUSE TUmbleweed"
+title: "Compile Kernel Pada openSUSE Tumbleweed"
+description: "Compile Kernel Pada openSUSE Tumbleweed"
 comments: false
 keywords: "openSUSE, Tumbleweed, Kernel"
 ---

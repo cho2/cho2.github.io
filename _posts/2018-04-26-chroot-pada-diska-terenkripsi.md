@@ -29,7 +29,7 @@ sudo mount -t proc proc /mnt/proc
 sudo mount -t sysfs sys /mnt/sys
 sudo mount -o bind /dev /mnt/dev
 sudo mount -o bind /run /mnt/run
-mount -t devpts pts /mnt/dev/pts/
+sudo mount -t devpts pts /mnt/dev/pts/
 cp /etc/resolv.conf /mnt/etc/resolv.conf
 ```
 

@@ -6,7 +6,7 @@ comments: false
 keywords: "Flatpak"
 ---
 
-> Referensi utama ada di https://blogs.gnome.org/alexl/2017/02/10/maintaining-a-flatpak-repository/. Silakan pelajari dengan baik
+> Referensi utama ada di [https://blogs.gnome.org/alexl/2017/02/10/maintaining-a-flatpak-repository/](https://blogs.gnome.org/alexl/2017/02/10/maintaining-a-flatpak-repository/). Silakan pelajari dengan baik
 
 ## Hello World
 Buat aplikasi kecil Hello World kemudian buat reponya. Saya coba dengan langkah-langkah berikut dengan mengikuti tautan diatas.
@@ -67,6 +67,8 @@ $ sudo flatpak install firefox org.mozilla.Firefox
 # jalankan aplikasinya
 $ flatpak run org.mozilla.Firefox
 ```
+
+Sampai tulisan ini ditulis, versi Firefox adalah 61.0.
 
 Catatan: Pada saat memasang aplikasi menggunakan `sudo` karena `--no-gpg-verify`
 

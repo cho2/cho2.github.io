@@ -17,17 +17,17 @@ Saya mewakili openSUSE-ID, kebetulan tidak ada yang bisa mengisi materi akhirnya
 
 Lebih lanjut mengenai Transactional Updates dapat dilihat pada tautan berikut:
 
-* https://kubic.opensuse.org/blog/2018-04-04-transactionalupdates/
+* [https://kubic.opensuse.org/blog/2018-04-04-transactionalupdates/](https://kubic.opensuse.org/blog/2018-04-04-transactionalupdates/)
 
-* https://kubic.opensuse.org/blog/2018-04-20-transactionalupdates2/
+* [https://kubic.opensuse.org/blog/2018-04-20-transactionalupdates2/](https://kubic.opensuse.org/blog/2018-04-20-transactionalupdates2/)
 
-* https://speakerdeck.com/sysrich/kubic-opensuses-container-starship
+* [https://speakerdeck.com/sysrich/kubic-opensuses-container-starship](https://speakerdeck.com/sysrich/kubic-opensuses-container-starship)
 
-* https://speakerdeck.com/sysrich/atomic-bonds-opensuse-kubic-and-suse-caasp
+* [https://speakerdeck.com/sysrich/atomic-bonds-opensuse-kubic-and-suse-caasp](https://speakerdeck.com/sysrich/atomic-bonds-opensuse-kubic-and-suse-caasp)
 
-Foto-foto: https://www.flickr.com/photos/140648184@N07/sets/72157670739423188/
+Foto-foto: [https://www.flickr.com/photos/140648184@N07/sets/72157670739423188/](https://www.flickr.com/photos/140648184@N07/sets/72157670739423188/)
 
-Ulasan lain: https://dhenandi.web.id/pesta-rilis-opensuse-leap-15-bogor/
+Ulasan lain: [https://dhenandi.web.id/pesta-rilis-opensuse-leap-15-bogor/](https://dhenandi.web.id/pesta-rilis-opensuse-leap-15-bogor/)
 
 Terima kasih kepada openSUSE-ID, GLiB, NolSatu, dan Kolaborato.
 Sampai jumpa pada acara berikutnya.

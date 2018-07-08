@@ -27,7 +27,12 @@ Lebih lanjut mengenai Transactional Updates dapat dilihat pada tautan berikut:
 
 Foto-foto: [https://www.flickr.com/photos/140648184@N07/sets/72157670739423188/](https://www.flickr.com/photos/140648184@N07/sets/72157670739423188/)
 
-Ulasan lain: [https://dhenandi.web.id/pesta-rilis-opensuse-leap-15-bogor/](https://dhenandi.web.id/pesta-rilis-opensuse-leap-15-bogor/)
+Ulasan lain: 
+
+* [https://dhenandi.web.id/pesta-rilis-opensuse-leap-15-bogor/](https://dhenandi.web.id/pesta-rilis-opensuse-leap-15-bogor/)
+
+* [https://glibogor.or.id/pesta-rilis-opensuse-15-2018/](https://glibogor.or.id/pesta-rilis-opensuse-15-2018/)
+
 
 Terima kasih kepada openSUSE-ID, GLiB, NolSatu, dan Kolaborato.
 Sampai jumpa pada acara berikutnya.

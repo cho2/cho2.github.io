@@ -1,18 +1,20 @@
 
 # SEO settings
-title: "blog.kukuh."
-title2: "syafaat.id" # default: ""
-description: "blog.kukuh.syafaat.id"
-keywords: "cho2, Kukuh Syafaat, blog.kukuh.syafaat.id"
-url: http://blog.kukuh.syafaat.id/ # site url
-# baseurl: "/thinkspace" # apply repo name if use it under gh-pages branch
-baseurl: null # apply null if repo name is something like username.github.io
+title_left    : "blog.kukuh."
+title_right   : "syafaat.id" # default: ""
+description   : "blog.kukuh.syafaat.id"
+keywords      : "cho2, Kukuh Syafaat, blog.kukuh.syafaat.id"
+url           : http://blog.kukuh.syafaat.id/ # site url
+baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
+cover         : "" # image uri like logo/cover image for site seo
 
-google_analytics: UA-XXXXX-XX
-repo: http://github.com/cho2/cho2.github.io
-disqus_shortname: ""
-twitter_username: "cho2MLHC"
-comments: false
+
+google_analytics  : UA-XXXXX-XX
+repo              : http://github.com/cho2/cho2.github.io
+twitter_username  : "cho2MLHC"
+comments_enabled  : false # if enabled (set to true), please provide your disqus_username
+disqus_shortname  : ""
+postshare_enabled : false
 
 # Build settings
 permalink   : /:year/:title/

@@ -45,7 +45,8 @@ og_locale: "en_US"
 twitter_card: "summary_large_image"
 twitter_site: "@cho2MLHC"
 
-gems:
+plugins:
+  - jekyll-sitemap
   - bourbon
   - jekyll-paginate
 
@@ -56,4 +57,4 @@ navbar:
   - slug : blog
     title: Blog
 
-exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md", "script"]

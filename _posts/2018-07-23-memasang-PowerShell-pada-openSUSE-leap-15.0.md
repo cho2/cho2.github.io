@@ -33,7 +33,7 @@ Berikut ini cara memasangnya pada openSUSE Leap 15.0.
 	sudo snap install powershell --classic
 	```
 
-* Jalankan PowerSHell
+* Jalankan PowerShell
 
     ```
     snap run powershell

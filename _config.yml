@@ -14,7 +14,7 @@ repo              : http://github.com/cho2/cho2.github.io
 twitter_username  : "cho2MLHC"
 comments_enabled  : false # if enabled (set to true), please provide your disqus_username
 disqus_shortname  : ""
-postshare_enabled : false
+postshare_enabled : true
 
 # Build settings
 permalink   : /:year/:title/

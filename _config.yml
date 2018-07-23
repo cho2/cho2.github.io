@@ -4,7 +4,7 @@ title_left    : "blog.kukuh."
 title_right   : "syafaat.id" # default: ""
 description   : "blog.kukuh.syafaat.id"
 keywords      : "cho2, Kukuh Syafaat, blog.kukuh.syafaat.id"
-url           : https://blog.kukuh.syafaat.id/ # site url
+url           : https://blog.kukuh.syafaat.id # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 

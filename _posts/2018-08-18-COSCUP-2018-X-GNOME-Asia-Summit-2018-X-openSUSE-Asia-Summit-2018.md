@@ -10,7 +10,7 @@ keywords: "COSCUP, GNOME, openSUSE"
 
 *Me with the boards of director. L to R: Nuritzi Sanchez (GNOME), me, Ekaterina Gerasimova (GNOME), Ana Maria Martinez Gomez (openSUSE).*
 
-This conference was special because it combined COSCUP, GNOME.Asia and openSUSE.Asia in one place. The conference was held in [NTUST](http://www-e.ntust.edu.tw/), Taipei City, Taiwan on August 11th-12th. The attendance numbers was 1364 people on day one and 784 on day two. For me, it's my second time for GNOME.Asia Summit and third time for openSUSE.Asia Summit. I gave two talks, one on [GNOME.Asia track](https://www.slideshare.net/cho2marsmellow/gnome-recipes-local-wisdom) , one on [openSUSE.Asia Summit track](https://www.slideshare.net/cho2marsmellow/opensuse-leap-flatpak). We from Indonesia had a large number of people including from openSUSE, GNOME and LibreOffice-ID about 15 people.
+This conference was special because it combined COSCUP, GNOME.Asia and openSUSE.Asia in one place. The conference was held in [NTUST](http://www-e.ntust.edu.tw/), Taipei City, Taiwan on August 11th-12th. The attendance numbers was 1364 people on day one and 784 on day two. For me, it's my second time for GNOME.Asia Summit and third time for openSUSE.Asia Summit. I gave two talks, one on [GNOME.Asia track](https://www.slideshare.net/cho2marsmellow/gnome-recipes-local-wisdom), one on [openSUSE.Asia Summit track](https://www.slideshare.net/cho2marsmellow/opensuse-leap-flatpak). We from Indonesia had a large number of people including from openSUSE, GNOME and LibreOffice-ID about 15 people.
 
 ## Day 0
 

@@ -23,3 +23,8 @@ keywords: "LibreOffice, Mendeley Desktop, Flatpak"
 * Install it
 
 * Have fun :D
+
+Reference:
+
+* [https://github.com/flathub/com.elsevier.MendeleyDesktop/issues/11](https://github.com/flathub/com.elsevier.MendeleyDesktop/issues/11)
+* [https://github.com/flathub/org.libreoffice.LibreOffice/issues/7](https://github.com/flathub/org.libreoffice.LibreOffice/issues/7)

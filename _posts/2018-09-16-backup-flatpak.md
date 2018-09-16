@@ -23,6 +23,6 @@ But, when i tried to update, the problem arose. It ends with
 ```
 OSTree:ERROR:src/libostree/ostree-repo.c:3729:ostree_repo_load_file: assertion failed: (S_ISREG (stbuf.st_mode))
 ```
-Tried to updating flatpak to 1.0.0 but the problem still happened. The problem already reported on [GitHub issue](https://github.com/flatpak/flatpak/issues/1343#issuecomment-421693387). I think this is a problem with `ostree`. Ostree is just like git, zypper said that "Git for operating system binaries". Maybe command like `git stash` or someting like that on ostree will fix the problem (?).
+Tried to updating flatpak to 1.0.0 but the problem still happened. The problem already reported on [GitHub issue](https://github.com/flatpak/flatpak/issues/1343#issuecomment-421693387). I think this is a problem with `ostree`. Ostree is just like git, zypper said that "Git for operating system binaries". Maybe command like `git stash` or something like that on ostree will fix the problem (?).
 
 By the way, about backup flatpak or copy flatpak to another disk, you should check this [post](https://treitter.livejournal.com/16005.html). The idea is similar, instead of downlading the same apps and runtimes, we can just copy it to the disk and install it. 

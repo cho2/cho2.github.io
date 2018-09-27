@@ -26,3 +26,5 @@ keywords: "Vivaldi, openSUSE"
     ```
     sudo zypper in vivaldi-stable
     ```
+
+Ada masalah dengan *codecs*? Silakan pasang dengan petunjuk [disini](https://gist.github.com/cho2/998073bb6567581846a09295ba1ae814).

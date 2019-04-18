@@ -13,7 +13,7 @@ Apa itu *transactional updates*?
 > *   *is atomic – the update does not influence your running system*
 > *   *can be rolled back – if the upgrade fails or if the newer software version is not compatible with your infrastructure, you can quickly restore the situation as it was before the upgrade.*
 > 
-> (https://github.com/openSUSE/transactional-update)
+> [(https://github.com/openSUSE/transactional-update)](https://github.com/openSUSE/transactional-update)
 
 Dengan kata lain, *transactional updates* adalah pemutakhiran secara atomic yang tidak akan langsung menyentuh sistem yang sedang berjalan. *Transactional update* juga dapat di-*roll back*/kembalikan ke situasi sebelum pemutakhiran apabila setelah pemutakhiran ternyata ada galat.
 

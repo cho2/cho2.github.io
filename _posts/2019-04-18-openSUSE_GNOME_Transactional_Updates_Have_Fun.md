@@ -50,7 +50,7 @@ Karena kita menggunakan sistem *transactional updates*, maka kita tidak dapat me
 | Memasang Paket | `zypper in` | `transactional-update pkg in` |
 || Contoh: `zypper in vim` | Contoh: `transactional-update pkg in vim` |
 | Menghapus Paket | `zypper rm`  | `transactional-update pkg rm` |
-|| Contoh: `zypper in rm` | Contoh: `transactional-update pkg vim`|
+|| Contoh: `zypper in rm` | Contoh: `transactional-update pkg rm vim`|
 
 Setelah menjalankan perintah pada *transactional updates*, jangan lupa untuk menyalakan ulang *(reboot)* sistem. Apabila setelah menyalakan ulang *(reboot)* terdapat galat, pengguna dapat kembali pada snapshot sebelumnya dengan perintah `transactional-update rollback`.
 

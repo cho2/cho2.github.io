@@ -27,4 +27,4 @@ Tomaž Vajngerl on Signing Document Feauture (Photo by me)
 
 The second day only focuses on Business Workshop / ビジネスワークショップ, Certification interviews / 認定面接, and CJK HackFest. I only attended the first business workshop with Italo and Lothar. Actually, it just like a discussion and sharing session about, for example, LibreOffice migration. Mostly, Italo and Lothar tell about their experience in Italy, Germany, and Europe.
 
-Last but not least, i would like to say thank you to The Document Foundation, LibreOffice Japan (Naruhiko-san and Enoki-san), Iwan Tahari from FANS, and the LibreOffice-ID team. See you in the next conference. 
+Last but not least, i would like to say thank you to The Document Foundation, LibreOffice Japan (Naruhiko-san and Enoki-san), Iwan Tahari from FANS, and the LibreOffice-ID team also [Fadlun AKbar](https://github.com/alunux) who also [KLiM](https://www.klim.or.id/) member and now work in Japan. See you in the next conference. 

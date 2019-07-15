@@ -19,41 +19,64 @@ GNOME.Asia Summit 2019 will invite talks relevant to GNOME and FLOSS. We welcome
 #### **Contributing to GNOME**
 
 *   Latest developments
+
 *   Writing applications for GNOME 3
+
 *   UI design
+
 *   QA and testing
+
 *   Accessibility
+
 *   Human Interface Engineering (Icons and Graphic Design)
+
 *   Marketing/Engagement
+
 *   Asia success stories / Local GNOME Projects
+
 *   GNOME and Education
+
 *   FOSS outreach programs, including Google Summer of Code
+
 *   Developing GNOME on mobile devices (smart phones, tablets)
+
 *   Developing GNOME on embedded systems or open hardware
 
 #### **Contributing to Linux and FLOSS**
 
 *   Linux kernel and development
+
 *   The development and promotion of open-source operating systems
+
 *   About Debian, Fedora, openSUSE, Ubuntu, FreeBSD, and other distributions
 *   The development and promotion of other open-source projects
 
 #### **Open Source Enlightenment and Related Story**
 
 *   The Knowledge and Spirit of Open Source
+
 *   Open Source stories of your own
+
 *   How to optimize the process and improve efficiency with the help of open-source tools
+
 *   How to engage non-technical lightning talks contributors in Open Source Projects
+
 *   How to engage more female contributors in Open Source Projects
 
 #### **Emerging Technologies**
 
 *   Artificial Intelligence
+
 *   DevOps with AI
+
 *   Deep Learning
+
 *   AR & VR
+
 *   Big Data
+
 *   Distributed systems
+
 *   Open Source DevOps
 
 We are also interested in other topics related to Free/Libre and Open Source Software which are not listed above.
@@ -63,6 +86,7 @@ We are also interested in other topics related to Free/Libre and Open Source Sof
 You can choose from the following types of session:
 
 *   **Standard session** . Standard session will be scheduled for 45 minutes (35 minutes talk + 10 minutes Q&A). The session could be a technical talk, panel discussion, or BOF. If you need more time or additional resources, feel free to get in touch with the organizing team.
+
 *   **Lightning talk session** . This session is a 5 minutes presentation for demonstrating your work or promoting an interesting topic.
 
 ### Submission Criteria
@@ -72,6 +96,7 @@ Please provide a short abstract of your paper (under 200 words). Include your na
 The reviewers team will evaluate the entries based on the submitted abstracts and available time by following the schedule.
 
 *   Submission timeline: July 15th to August 15th 2019
+
 *   Confirmation of paper acceptance: August, 20th 2019
 
 ### Travel Support

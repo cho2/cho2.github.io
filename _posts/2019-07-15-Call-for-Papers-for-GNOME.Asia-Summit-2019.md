@@ -6,8 +6,6 @@ comments: false
 keywords: "GNOME, GNOME.Asia"
 ---
 
-<div class="entry-content">
-
 ![https://gitlab.com/cho2/blog-images/raw/master/2019-07-15/cfp.png](https://gitlab.com/cho2/blog-images/raw/master/2019-07-15/cfp.png)
 
 GNOME.Asia Summit 2019 invites you to participate as a speaker at the conference on the 12th and 13th of October 2019 in Gresik, Indonesia.
@@ -81,5 +79,3 @@ The reviewers team will evaluate the entries based on the submitted abstracts an
 There will be an opportunity for speakers and GNOME Foundation members to request travel support by the GNOME Foundation. Please submit your application to the GNOME Travel Committee. For further information please [refer to this guides](https://wiki.gnome.org/Travel). All interested contributors are highly encouraged to send in talks.
 
 More information about GNOME.Asia Summit 2019 is available at [https://asiasummit.gnome.id](https://asiasummit.gnome.id/).
-
-</div>

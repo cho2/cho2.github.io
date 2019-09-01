@@ -11,9 +11,12 @@ keywords: "openSUSE, openSUSE.Asia Summit"
 Daftar segera di [https://daftar-osas.opensuse.id/](https://daftar-osas.opensuse.id/) 
 
 Harga Tiket:
-- Pelajar IDR 50K
-- Umum IDR 100K
+– Pelajar/Mahasiswa IDR 50K
+– Umum IDR 100K
+Tidak ada tiket on the spot
 
-Tempat terbatas! 
+Dapatkan *cashback* 100% untuk tiket pelajar/mahasiswa dan *cashback* 50% untuk tiket umum.
 
-Pendaftaran akan ditutup apabila kuota terpenuhi.
+Tempat terbatas!
+
+Lihat jadwal openSUSE.Asia Summit di [https://events.opensuse.org/conferences/summitasia19/schedule](https://events.opensuse.org/conferences/summitasia19/schedule)

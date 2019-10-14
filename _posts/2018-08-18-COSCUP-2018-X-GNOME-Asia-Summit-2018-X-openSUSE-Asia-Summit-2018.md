@@ -6,7 +6,7 @@ comments: false
 keywords: "COSCUP, GNOME, openSUSE"
 ---
 
-![https://scontent-sit4-1.cdninstagram.com/vp/d3f8c6e9596e8f4b49698e5ac77eea09/5C110C94/t51.2885-15/e35/39056926_303932497025227_1665793827278946304_n.jpg](https://scontent-sit4-1.cdninstagram.com/vp/d3f8c6e9596e8f4b49698e5ac77eea09/5C110C94/t51.2885-15/e35/39056926_303932497025227_1665793827278946304_n.jpg)
+![https://gitlab.com/cho2/blog-images/raw/master/2018-08-18/39056926_303932497025227_1665793827278946304_n.jpg](https://gitlab.com/cho2/blog-images/raw/master/2018-08-18/39056926_303932497025227_1665793827278946304_n.jpg)
 
 *Me with the boards of director. L to R: Nuritzi Sanchez (GNOME), me, Ekaterina Gerasimova (GNOME), Ana Maria Martinez Gomez (openSUSE).*
 
@@ -43,7 +43,7 @@ Day 3 was one day tour. The first destination was National Palace Museum. I foun
 
 In the evening i had last dinner with Franklin Weng and Eric Sun from [Ezgo](https://ezgolinux.org/).  
 
-![https://scontent-sit4-1.cdninstagram.com/vp/1b74b419efc77411e756f5c09465280d/5C076CCA/t51.2885-15/e35/38716099_273418220107204_3915758667726585856_n.jpg](https://scontent-sit4-1.cdninstagram.com/vp/1b74b419efc77411e756f5c09465280d/5C076CCA/t51.2885-15/e35/38716099_273418220107204_3915758667726585856_n.jpg)
+![https://gitlab.com/cho2/blog-images/raw/master/2018-08-18/38618389_1145000768988915_546579453644374016_n.jpg](https://gitlab.com/cho2/blog-images/raw/master/2018-08-18/38618389_1145000768988915_546579453644374016_n.jpg)
 *Last dinner, tired face*
 
 ## Epilog
@@ -55,7 +55,7 @@ What i expected there are GNOME booth with swag and conference t-shirt, but none
 Thank to Max Huang and team for awesome conference. Thanks to Franklin Weng and Eric Sun for dinner and ezgo t-shirt. Thanks to Nuritzi for GUADEC gift .ありがとうございました Ogasawara-san for Nikkei Linux Magz.
 Special thanks to openSUSE for sponsoring my flight and GNOME Foundation for sponsoring my lodging.
 
-![https://raw.githubusercontent.com/openSUSE/artwork/master/Logo/official-logo-color.png](https://raw.githubusercontent.com/openSUSE/artwork/master/Logo/official-logo-color.png) 
+![https://gitlab.com/cho2/blog-images/raw/master/openSUSE/logo-color.png](https://gitlab.com/cho2/blog-images/raw/master/openSUSE/logo-color.png) 
 ![https://gitlab.com/cho2/blog-images/raw/master/gnome-foundation-badge/sponsored-by-foundation.png](https://gitlab.com/cho2/blog-images/raw/master/gnome-foundation-badge/sponsored-by-foundation.png)
 
 More pictures:

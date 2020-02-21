@@ -21,7 +21,7 @@ GNOME 3.36 akan rilis sebentar lagi. Bagi yang tidak sabar, Anda bisa mencoba im
    ```
 
 
-## Mencoba image GNOME Nightly
+## Mencoba Image GNOME Nightly
 
 1. Unduh image GNOME Nightly dalam bentuk berkas [qcow2](https://gitlab.gnome.org/GNOME/gnome-build-meta/-/jobs/598561/artifacts/file/image/disk.qcow2), misalnya [GNOME 3.35.91](https://mail.gnome.org/archives/desktop-devel-list/2020-February/msg00054.html)
 

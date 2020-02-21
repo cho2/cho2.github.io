@@ -42,7 +42,7 @@ GNOME 3.36 akan rilis [11 Maret 2020](https://wiki.gnome.org/ThreePointThirtyfiv
 * Coba [tiket #2226 `gnome-shell`](https://gitlab.gnome.org/GNOME/gnome-shell/issues/2226).
 
    * Bangun [`gnome-shell` master di Fedora 31](https://gitlab.gnome.org/snippets/1017). Tidak dilanjutkan, diska penuh.
-   * Coba bangun [`gnome-shell` master di openSUSE Tumbleweed](https://gist.github.com/cho2/5c42dd7c4015ae6618d351418485c9a9). Gagal saat bangun mutter, `libpipewrire` masih jadi misteri .
+   * Coba bangun [`gnome-shell` master di openSUSE Tumbleweed](https://gist.github.com/cho2/5c42dd7c4015ae6618d351418485c9a9). Gagal saat bangun mutter, `libpipewire` masih jadi misteri .
 
 * Coba dengan unduh berkas iso [GNOME Next - openSUSE Tumbleweed](https://download.opensuse.org/repositories/GNOME:/Medias/images/iso/?P=GNOME_Next*). Berhasil.
 

@@ -14,3 +14,6 @@ flatpak install flathub org.mozilla.firefox
 ```
 
 Versi yang terpasang adalah 75.0. Selamat mencoba!
+
+Bacaan lain:
+* [Shipping official Firefox Flatpaks](https://mihaitabara.github.io/2020/04/15/shipping-official-firefox-flatpaks.html)

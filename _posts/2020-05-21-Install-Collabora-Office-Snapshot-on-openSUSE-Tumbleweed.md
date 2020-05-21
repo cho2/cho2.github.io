@@ -3,7 +3,7 @@ layout: post
 title: "Install Collabora Office (Snapshot) on openSUSE Tumbleweed"
 description: "Install Collabora Office (Snapshot) on openSUSE Tumbleweed"
 comments: false
-keywords: "openSUSE, Collabora"
+keywords: "openSUSE, Collabora Office"
 ---
 
 ![https://gitlab.com/cho2/blog-images/-/raw/master/2020-05-21/collabora-office.png](https://gitlab.com/cho2/blog-images/-/raw/master/2020-05-21/collabora-office.png)
@@ -24,11 +24,13 @@ Have you ever try Collabora Office? Let's try the latest snapshot. You can also 
     ```
 
 * Refresh
+
     ```
     sudo zypper ref
     ```
 
 * Install
+
     ```
     sudo zypper install collaboraoffice
     ```

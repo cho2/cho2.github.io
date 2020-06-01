@@ -6,8 +6,6 @@ comments: false
 keywords: "openSUSE, MicroOS"
 ---
 
-# Trying openSUSE MicroOS Desktop Alpha
-
 Tested with [GNOME Boxes](https://wiki.gnome.org/Apps/Boxes) on `Snapshot20200528`. More about [MicroOS, read on the the wiki](https://en.opensuse.org/Kubic:MicroOS).
 
 # Install

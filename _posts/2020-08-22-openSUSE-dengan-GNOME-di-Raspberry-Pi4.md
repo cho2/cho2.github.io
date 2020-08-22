@@ -54,6 +54,7 @@ Awal boot sampai tampil GDM membutuhkan waktu sangat lama (**kurang lebih 3 meni
 
     ![https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-22/08-leap-all.png](https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-22/08-leap-all.png)
 
+* Meningkatkan openSUSE Leap ke Tumbleweed
 
     Ganti repo berikut
     ```

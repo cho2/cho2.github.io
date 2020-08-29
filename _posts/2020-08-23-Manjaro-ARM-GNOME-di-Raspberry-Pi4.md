@@ -45,3 +45,5 @@ Kernel terkini `5.4.51-2`. Waktu yang dibutuhkan dari awal boot sampai tampil GD
   ![https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-23/03-gnome-xorg.png](https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-23/03-gnome-xorg.png)
 
 Sekian 
+
+Bonus: [Hardinfo](https://blog.kukuh.syafaat.id/raspi4-hardinfo-manjaro-arm-gnome/hardinfo_report.html)

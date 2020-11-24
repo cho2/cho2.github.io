@@ -30,7 +30,7 @@ Jahitan BlankOn Verbeek yang sudah dapat dipasang sudah terbit. Mari kita coba.
 * Tips
     * Unduh juga berkas `zsync`. Contoh 
         ```
-        https://cdimage.blankonlinux.or.id/blankon/jahitan-harian/20201123-1/20201123-1-live-image-amd64.hybrid.iso.zsync
+        wget -c https://cdimage.blankonlinux.or.id/blankon/jahitan-harian/20201123-1/20201123-1-live-image-amd64.hybrid.iso.zsync
         ``` 
         Sedikit penjelasan tentang `zsync`, kita tidak perlu mengunduh keseluruhan berkas iso selanjutnya (dengan kata lain, kita hanya perlu mengunduh perubahannya saja/delta). Menarik bukan?
 

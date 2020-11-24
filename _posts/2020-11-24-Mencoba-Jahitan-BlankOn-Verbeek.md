@@ -6,7 +6,7 @@ comments: false
 keywords: "BlankOn"
 ---
 
-Ya, sesuai judul, BlankOn sudah memulai lagi pengembangannya. Rasanya kangen juga dengan BlankOn. Meskipun sudah jadi [pensiunan](https://kabarlinux.id/2017/enam-pengembang-undur-diri-dari-tim-pengembang-blankon-terima-kasih-atas-kerja-kerasnya/), tetapi saya masih berkontribusi di beberapa proyek hulu, harapannya kontribusi tersebut bermanfaat BlankOn.
+Ya, sesuai judul, BlankOn sudah memulai lagi pengembangannya. Rasanya kangen juga dengan BlankOn. Meskipun sudah jadi [pensiunan](https://kabarlinux.id/2017/enam-pengembang-undur-diri-dari-tim-pengembang-blankon-terima-kasih-atas-kerja-kerasnya/), tetapi saya masih berkontribusi di beberapa proyek hulu, harapannya kontribusi tersebut bermanfaat bagi BlankOn.
 
 <blockquote class="twitter-tweet"><p lang="in" dir="ltr">Jahitan Verbeek pertama yang dapat dipasang ke komputer. 🥳🥳🥳<br><br>Jahitan harian 20201123-1 dari <a href="https://t.co/U19USX8BVW">https://t.co/U19USX8BVW</a> cabang master telah terbit. Berkas citra dapat diunduh di <a href="https://t.co/yc1TRUqNw8">https://t.co/yc1TRUqNw8</a></p>&mdash; BlankOn (@BlankOnLinux) <a href="https://twitter.com/BlankOnLinux/status/1330888111987978242?ref_src=twsrc%5Etfw">November 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

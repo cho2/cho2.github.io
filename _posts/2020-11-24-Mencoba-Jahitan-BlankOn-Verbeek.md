@@ -34,7 +34,7 @@ Jahitan BlankOn Verbeek yang sudah dapat dipasang sudah terbit. Mari kita coba.
         ``` 
         Sedikit penjelasan tentang `zsync`, kita tidak perlu mengunduh keseluruhan berkas iso selanjutnya (dengan kata lain, kita hanya perlu mengunduh perubahannya saja/delta). Menarik bukan?
 
-        Lebih lanjut, bisa membaca tulisan [berikut](https://ha.hn.web.id/2016/10/16/unduh-berkas-iso-dengan-zsync/). Jangan lupa juga untuk memasang paket `zsync` pada distro kesayangan Anda. (Disaya, cukup dengan menggetikkan `sudo zypper in zsync` di terminal).
+        Lebih lanjut, bisa membaca tulisan [berikut](https://ha.hn.web.id/2016/10/16/unduh-berkas-iso-dengan-zsync/). Jangan lupa juga untuk memasang paket `zsync` pada distro kesayangan Anda. (Pada komputer Saya, cukup dengan mengetikkan `sudo zypper in zsync` di terminal).
 
         Perintah untuk menjalankan `zsync` adalah sebagai berikut
         ```

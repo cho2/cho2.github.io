@@ -25,22 +25,11 @@ Jahitan BlankOn Verbeek yang sudah dapat dipasang sudah terbit. Mari kita coba.
 * Kesimpulan:
     - Destop yang digunakan Xfce
     - Pemasang (*installer*) menggunakan Calamares
-    - Branding masih menggunakan Debian Bullseye/Sid
+    - *Branding* masih menggunakan Debian Bullseye/Sid
 
-* Tips
-    * Unduh juga berkas `zsync`. Contoh 
-        ```
-        wget -c https://cdimage.blankonlinux.or.id/blankon/jahitan-harian/20201123-1/20201123-1-live-image-amd64.hybrid.iso.zsync
-        ``` 
-        Sedikit penjelasan tentang `zsync`, kita tidak perlu mengunduh keseluruhan berkas iso selanjutnya (dengan kata lain, kita hanya perlu mengunduh perubahannya saja/delta). Menarik bukan?
-
-        Lebih lanjut, bisa membaca tulisan [berikut](https://ha.hn.web.id/2016/10/16/unduh-berkas-iso-dengan-zsync/). Jangan lupa juga untuk memasang paket `zsync` pada distro kesayangan Anda. (Pada komputer Saya, cukup dengan mengetikkan `sudo zypper in zsync` di terminal).
-
-        Perintah untuk menjalankan `zsync` adalah sebagai berikut
-        ```
-        zsync 20201123-1-live-image-amd64.hybrid.iso.zsync
-        ```
-
+* Tips (`zsync`)
+  Sedikit penjelasan tentang `zsync`, kita tidak perlu mengunduh keseluruhan berkas iso selanjutnya (dengan kata lain, kita hanya perlu mengunduh perubahannya saja/delta). Menarik bukan? Lebih lanjut, bisa membaca tulisan [berikut](https://ha.hn.web.id/2016/10/16/unduh-berkas-iso-dengan-zsync/). Jangan lupa juga untuk memasang paket `zsync` pada distro kesayangan Anda. (Pada komputer Saya, cukup dengan mengetikkan `sudo zypper in zsync` di terminal).
+ 
 O iya, BlankOn juga mengadakan urunan, silakan berdonasi pada tautan [berikut](https://kitabisa.com/campaign/urunanpengembanganblankon).
 
 Selamat ngoprek!

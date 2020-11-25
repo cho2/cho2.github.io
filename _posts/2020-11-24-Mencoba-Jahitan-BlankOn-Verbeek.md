@@ -28,6 +28,7 @@ Jahitan BlankOn Verbeek yang sudah dapat dipasang sudah terbit. Mari kita coba.
     - *Branding* masih menggunakan Debian Bullseye/Sid
 
 * Tips (`zsync`)
+
   Sedikit penjelasan tentang `zsync`, kita tidak perlu mengunduh keseluruhan berkas iso selanjutnya (dengan kata lain, kita hanya perlu mengunduh perubahannya saja/delta). Menarik bukan? Lebih lanjut, bisa membaca tulisan [berikut](https://ha.hn.web.id/2016/10/16/unduh-berkas-iso-dengan-zsync/). Jangan lupa juga untuk memasang paket `zsync` pada distro kesayangan Anda. (Pada komputer Saya, cukup dengan mengetikkan `sudo zypper in zsync` di terminal).
  
 O iya, BlankOn juga mengadakan urunan, silakan berdonasi pada tautan [berikut](https://kitabisa.com/campaign/urunanpengembanganblankon).

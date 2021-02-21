@@ -41,7 +41,7 @@ sudo apparmor_parser -r /var/lib/snapd/apparmor/profiles/snap-confine*
 ```
 Jalankan ulang lewat terminal
 ```
-snap install poedit
+snap run poedit
 ```
 Aapbila menemukan galat seperti gambar berikut ini,
 ![https://gitlab.com/cho2/blog-images/-/raw/master/2021-02-16/1.png](https://gitlab.com/cho2/blog-images/-/raw/master/2021-02-16/1.png)
@@ -53,7 +53,7 @@ fc-cache -r
 ```
 Jalankan ulang lagi lewat terminal
 ```
-snap install poedit
+snap run poedit
 ```
 Hasilnya 
 

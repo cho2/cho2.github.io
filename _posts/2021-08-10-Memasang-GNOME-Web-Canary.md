@@ -17,5 +17,5 @@ flatpak --user install https://nightly.gnome.org/repo/appstream/org.gnome.Epipha
 Selamat mencoba!
 
 Referensi:
-- https://news.itsfoss.com/gnome-web-canary/
-- https://base-art.net/Articles/introducing-the-gnome-web-canary-flavor/
+- [https://news.itsfoss.com/gnome-web-canary/](https://news.itsfoss.com/gnome-web-canary/)
+- [https://base-art.net/Articles/introducing-the-gnome-web-canary-flavor/](https://base-art.net/Articles/introducing-the-gnome-web-canary-flavor/)

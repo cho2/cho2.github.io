@@ -7,7 +7,7 @@ keywords: "Flatpak, Elementary OS"
 ---
 
 Elementary OS 6 Odin baru dirilis. Tahukah Anda bahwa AppCenter (Pusat Aplikasi) sekarang berisi aplikasi yang sudah dikurasi dan dikemas dalam 
-format Flatpak? Daftar antriannya dapat Anda simak [disini](https://github.com/elementary/appcenter-reviews/pulls). Daftar aplikasi yang sudah masuk, dapat Anda lihat [disini](https://github.com/elementary/appcenter-reviews/tree/main/applications).
+format Flatpak? Daftar antriannya dapat Anda simak [disini](https://github.com/elementary/appcenter-reviews/pulls). Daftar aplikasi yang sudah masuk, dapat Anda lihat [disini](https://github.com/elementary/appcenter-reviews/tree/main/applications). AppCenter (Pusat Aplikasi) juga daapt diakses melalui antarmuka web pada [https://appcenter.elementary.io/](https://appcenter.elementary.io/).
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just approved the 20th Flatpak app in the new AppCenter. 195 to go!</p>&mdash; Daniel Foré (@DanielFore) <a href="https://twitter.com/DanielFore/status/1425573230689931267?ref_src=twsrc%5Etfw">August 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

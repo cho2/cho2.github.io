@@ -1,0 +1,884 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "blog.kukuh.syafaat.id",
+    "home_page_url": "https://blog.kukuh.syafaat.id/",
+    "feed_url": "https://blog.kukuh.syafaat.id/feed.json",
+    "description": "blog blog blog",
+    "icon": "https://blog.kukuh.syafaat.id/apple-touch-icon.png",
+    "favicon": "https://blog.kukuh.syafaat.id/favicon.ico",
+    "expired": false,
+    
+    "author":  {
+        "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+        "url": null,
+        "avatar": null
+    },
+    
+"items": [
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2021/GNOME-41/",
+            "title": "GNOME 41",
+            "summary": "GNOME 41",
+            "content_text": "  Catatan rilis  VideoSelamat!",
+            "content_html": "<p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-09-23/41-fullcolor.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-09-23/41-fullcolor.png\" /></p><ul>  <li><a href=\"https://help.gnome.org/misc/release-notes/41.0/\">Catatan rilis</a></li>  <li><a href=\"https://youtu.be/V5jP1ym7nhM\">Video</a></li></ul><p>Selamat!</p>",
+            "url": "https://blog.kukuh.syafaat.id/2021/GNOME-41/",
+            
+            
+            
+            
+            
+            "date_published": "2021-09-23T00:00:00+07:00",
+            "date_modified": "2021-09-23T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2021/GNOME-41-beta/",
+            "title": "GNOME 41 Beta",
+            "summary": "GNOME 41 Beta",
+            "content_text": "GNOME 41 Beta dirilis. Anda bisa mencobanya di GNOME OS, Fedora Rawhide, dan openSUSE Tumbleweed GNOME Next. Selamat mencoba!GNOME 41 Beta di GNOME OSGNOME 41 Beta di Fedora RawhideGNOME 41 Beta di openSUSE Tumbleweed GNOME NextReferensi lain:  First Look: Top Features of GNOME 41  GNOME 41 Desktop Environment Enters Beta Testing with New Apps, Better Wayland Support  No place like GNOME: 41 in beta, features frozen for forthcoming release  GNOME 41 Beta is Now Available",
+            "content_html": "<p><a href=\"https://mail.gnome.org/archives/devel-announce-list/2021-August/msg00002.html\">GNOME 41 Beta dirilis</a>. Anda bisa mencobanya di <a href=\"https://os.gnome.org/download/41.beta/gnome_os_installer_41.beta.iso\">GNOME OS</a>, <a href=\"https://dl.fedoraproject.org/pub/fedora/linux/development/rawhide/Workstation/x86_64/iso/\">Fedora Rawhide</a>, dan openSUSE Tumbleweed <a href=\"https://download.opensuse.org/repositories/GNOME:/Medias/images/iso/?P=GNOME_Next*\">GNOME Next</a>. Selamat mencoba!</p><p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-08-29/41-beta-gnome-os.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-08-29/41-beta-gnome-os.png\" /></p><p>GNOME 41 Beta di GNOME OS</p><p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-08-29/41-beta-rawhide.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-08-29/41-beta-rawhide.png\" /></p><p>GNOME 41 Beta di Fedora Rawhide</p><p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-08-29/41-beta-tumbleweed.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-08-29/41-beta-tumbleweed.png\" /></p><p>GNOME 41 Beta di openSUSE Tumbleweed GNOME Next</p><p>Referensi lain:</p><ul>  <li><a href=\"https://www.omgubuntu.co.uk/2021/08/gnome-41-features-and-changes\">First Look: Top Features of GNOME 41</a></li>  <li><a href=\"https://9to5linux.com/gnome-41-desktop-environment-enters-beta-testing-with-new-apps-better-wayland-support\">GNOME 41 Desktop Environment Enters Beta Testing with New Apps, Better Wayland Support</a></li>  <li><a href=\"https://www.theregister.com/2021/08/24/gnome_41_beta/\">No place like GNOME: 41 in beta, features frozen for forthcoming release</a></li>  <li><a href=\"https://www.linux-magazine.com/Online/News/GNOME-41-Beta-is-Now-Available\">GNOME 41 Beta is Now Available</a></li></ul>",
+            "url": "https://blog.kukuh.syafaat.id/2021/GNOME-41-beta/",
+            
+            
+            
+            
+            
+            "date_published": "2021-08-29T00:00:00+07:00",
+            "date_modified": "2021-08-29T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2021/Memasang-Akira/",
+            "title": "Memasang Akira",
+            "summary": "Memasang Akira",
+            "content_text": "Ada dua cara untuk memasang Akira melalui FlatpakFlathub BetaSeperti dijelaskan pada github-nya Akira, pengguna dapat memasang menggunakan remote flathub-betaflatpak remote-add flathub-beta https://flathub.org/beta-repo/flathub-beta.flatpakrepoflatpak install akiraElementaryMasih merupakan kelanjutan dari pos Menambahkan Elementary Flatpak Remote, Akira ternyata sudah tersedia juga pada AppCenter-nya Elementary. Dengan menggunakan cara pada pos sebelumnya, cukup jalankanflatpak remote-add elementary https://flatpak.elementary.io/repo.flatpakrepo --userflatpak install akiraYou don&#39;t need to be on elementary to try shiny brand new elementary 6 and akira:$ flatpak remote-add --if-not-exists --system elementary-appcenter https://t.co/Hsxut7vWks$ flatpak install akira@akiraux @FlatpakApps @elementary&mdash; Alberto Fanjul (@albfanjul) August 20, 2021Sampai saat pos ini ditulis, AKira masih dalam versi alpha 0.0.16.Selamat mencoba!",
+            "content_html": "<p>Ada dua cara untuk memasang <a href=\"https://github.com/akiraux/Akira\">Akira</a> melalui Flatpak</p><h1 id=\"flathub-beta\">Flathub Beta</h1><p>Seperti dijelaskan pada <a href=\"https://github.com/akiraux/Akira#flathub-beta\">github-nya Akira</a>, pengguna dapat memasang menggunakan remote <code class=\"language-plaintext highlighter-rouge\">flathub-beta</code></p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>flatpak remote-add flathub-beta https://flathub.org/beta-repo/flathub-beta.flatpakrepoflatpak install akira</code></pre></div></div><h1 id=\"elementary\">Elementary</h1><p>Masih merupakan kelanjutan dari pos <a href=\"https://blog.kukuh.syafaat.id/2021/Menambahkan-Elementary-Flatpak/\">Menambahkan Elementary Flatpak Remote</a>, Akira ternyata sudah tersedia juga pada <a href=\"https://appcenter.elementary.io/com.github.akiraux.akira/\">AppCenter-nya Elementary</a>. Dengan menggunakan cara pada pos sebelumnya, cukup jalankan</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>flatpak remote-add elementary https://flatpak.elementary.io/repo.flatpakrepo --userflatpak install akira</code></pre></div></div><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">You don&#39;t need to be on elementary to try shiny brand new elementary 6 and akira:<br /><br />$ flatpak remote-add --if-not-exists --system elementary-appcenter <a href=\"https://t.co/Hsxut7vWks\">https://t.co/Hsxut7vWks</a><br />$ flatpak install akira<a href=\"https://twitter.com/akiraux?ref_src=twsrc%5Etfw\">@akiraux</a> <a href=\"https://twitter.com/FlatpakApps?ref_src=twsrc%5Etfw\">@FlatpakApps</a> <a href=\"https://twitter.com/elementary?ref_src=twsrc%5Etfw\">@elementary</a></p>&mdash; Alberto Fanjul (@albfanjul) <a href=\"https://twitter.com/albfanjul/status/1428676754663788547?ref_src=twsrc%5Etfw\">August 20, 2021</a></blockquote><script async=\"\" src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><p>Sampai saat pos ini ditulis, AKira masih dalam versi alpha 0.0.16.</p><p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-08-21/akira.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-08-21/akira.png\" /></p><p>Selamat mencoba!</p>",
+            "url": "https://blog.kukuh.syafaat.id/2021/Memasang-Akira/",
+            
+            
+            
+            
+            
+            "date_published": "2021-08-21T00:00:00+07:00",
+            "date_modified": "2021-08-21T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2021/Snap-di-openSUSE-MicroOS-Bagian-2/",
+            "title": "Snap di openSUSE MicroOS - Bagian 2",
+            "summary": "Snap di openSUSE MicroOS - Bagian 2",
+            "content_text": "Lanjutan dan pemutakhiran dari pos sebelumnya, topik ini juga saya bawakan pada openSUSE.Asia Virtual Summit 2021.Sebelumnya MicroOS Desktop menggunakan transactional-update, sekarang menggunakan tukit. Langkah pertama berubah menjadi seperti berikut$ sudo tukit --continue execute bash    # zypper addrepo --refresh https://download.opensuse.org/repositories/system:/snappy/openSUSE_Tumbleweed snappy    # zypper --gpg-auto-import-keys refresh    # zypper ref    # zypper in snapd    # exit$ sudo rebootLangkah berikutnya masih sama dengan pos sebelumnya, yaitu$ sudo mksubvolume /snap$ source /etc/profile$ sudo systemctl enable --now snapd$ sudo systemctl enable --now snapd.apparmorPada pos sebelumnya, snap bisa langsung dijalankan. Saat ini, SELinux sudah masuk di MicroOS Desktop, sehingga terdapat dua opsi  Jika Anda baru memasang MicroOS Desktop dan berencana menggunakan snap, saat pemasangan awal, pastikan Anda memilih mode disabled pada SELinux          Lihat juga berkas ini halaman 46-47        Jika Anda sudah terlanjur memasang MicroOS Desktop dengan mode SELinux enforcing atau enabled dan masih ingin menggunakan snap, maka caranya agak sedikit merepotkan.          Saat booting, pastikan pada parameter kernel terdapat selinux=1, ganti menjadi selinux=0.      Setelah berhasil booting dengan parameter kernel selinux=0, buka terminal, periksa dengan perintah sestatus untuk mengetahui status SELinux. Jika keluarannya disabled, maka bisa lanjut.      Lebih lanjut, lihat juga berkas ini halaman 48-51      Proses dapat dilanjutkan dengan memasang aplikasi snap. Anda bisa memasang hello-world sebagai percobaan dengan perintah snap install hello-world dan jalankan dengan perintah snap run hello-world.Topik ini akan dibawakan kembali pada Ubucon Asia 2021. Sebagai tambahan informasi, snap tidak didukung resmi pada openSUSE MicroOS Desktop. Risiko pemasangan ditanggung pengguna!",
+            "content_html": "<p><a href=\"https://blog.kukuh.syafaat.id/2021/Snap-di-openSUSE-MicroOS/\">Lanjutan dan pemutakhiran dari pos sebelumnya</a>, topik ini juga saya bawakan pada <a href=\"https://events.opensuse.org/conferences/oSAS21/program/proposals/3635\">openSUSE.Asia Virtual Summit 2021</a>.</p><p>Sebelumnya MicroOS Desktop menggunakan <code class=\"language-plaintext highlighter-rouge\">transactional-update</code>, sekarang menggunakan <code class=\"language-plaintext highlighter-rouge\">tukit</code>. Langkah pertama berubah menjadi seperti berikut</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>$ sudo tukit --continue execute bash    # zypper addrepo --refresh https://download.opensuse.org/repositories/system:/snappy/openSUSE_Tumbleweed snappy    # zypper --gpg-auto-import-keys refresh    # zypper ref    # zypper in snapd    # exit$ sudo reboot</code></pre></div></div><p>Langkah berikutnya masih sama dengan pos sebelumnya, yaitu</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>$ sudo mksubvolume /snap$ source /etc/profile$ sudo systemctl enable --now snapd$ sudo systemctl enable --now snapd.apparmor</code></pre></div></div><p>Pada pos sebelumnya, snap bisa langsung dijalankan. Saat ini, SELinux sudah masuk di MicroOS Desktop, sehingga terdapat dua opsi</p><ol>  <li>Jika Anda baru memasang MicroOS Desktop dan berencana menggunakan snap, saat pemasangan awal, pastikan Anda memilih mode <code class=\"language-plaintext highlighter-rouge\">disabled</code> pada SELinux    <ul>      <li><a href=\"https://blog.kukuh.syafaat.id/slides/oSAVS-2021/snap-microos-desktop.pdf\">Lihat juga berkas ini halaman 46-47</a></li>    </ul>  </li>  <li>Jika Anda sudah terlanjur memasang MicroOS Desktop dengan mode SELinux <code class=\"language-plaintext highlighter-rouge\">enforcing</code> atau <code class=\"language-plaintext highlighter-rouge\">enabled</code> dan masih ingin menggunakan snap, maka caranya agak sedikit merepotkan.    <ul>      <li>Saat booting, pastikan pada parameter kernel terdapat <code class=\"language-plaintext highlighter-rouge\">selinux=1</code>, ganti menjadi <code class=\"language-plaintext highlighter-rouge\">selinux=0</code>.</li>      <li>Setelah berhasil booting dengan parameter kernel <code class=\"language-plaintext highlighter-rouge\">selinux=0</code>, buka terminal, periksa dengan perintah <code class=\"language-plaintext highlighter-rouge\">sestatus</code> untuk mengetahui status SELinux. Jika keluarannya <code class=\"language-plaintext highlighter-rouge\">disabled</code>, maka bisa lanjut.</li>      <li><a href=\"https://blog.kukuh.syafaat.id/slides/oSAVS-2021/snap-microos-desktop.pdf\">Lebih lanjut, lihat juga berkas ini halaman 48-51</a></li>    </ul>  </li></ol><p>Proses dapat dilanjutkan dengan memasang aplikasi snap. Anda bisa memasang hello-world sebagai percobaan dengan perintah <code class=\"language-plaintext highlighter-rouge\">snap install hello-world</code> dan jalankan dengan perintah <code class=\"language-plaintext highlighter-rouge\">snap run hello-world</code>.</p><p>Topik ini akan dibawakan kembali pada <a href=\"https://2021.ubucon.asia/id/\">Ubucon Asia 2021</a>. Sebagai tambahan informasi, snap tidak didukung resmi pada openSUSE MicroOS Desktop. Risiko pemasangan ditanggung pengguna!</p>",
+            "url": "https://blog.kukuh.syafaat.id/2021/Snap-di-openSUSE-MicroOS-Bagian-2/",
+            
+            
+            
+            
+            
+            "date_published": "2021-08-17T00:00:00+07:00",
+            "date_modified": "2021-08-17T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2021/GNOME-40-Debian-11/",
+            "title": "GNOME 40 di Debian 11",
+            "summary": "GNOME 40 di Debian 11",
+            "content_text": "Debian 11 baru saja dirilis, tetapi versi GNOME yang digunakan masih GNOME 3.38. Bagaimana caranya agar bisa menggunakan GNOME 40 di Debian 11?  Buka sources.list     sudo nano /etc/apt/sources.list        Tambahkan repo Debian Experimental seperti berikut (Jadinya Debian Experimental, bukan Debian 11 :p)     deb http://deb.debian.org/debian experimental main        atau bisa juga menggunakan cermin experimental terdekat seperti Kartolo dari Data Utama     deb http://kartolo.sby.datautama.net.id/debian/ experimental main        Update     sudo apt update        Pasang paket-paketnya     sudo apt -t experimental install gnome-shell gnome-backgrounds gnome-applets gnome-control-center mutter gjs gnome-session        Nyalakan ulangSelamat mencoba!Referensi: https://www.itsfoss.net/how-to-install-gnome-40-on-debian-11-bullseye/",
+            "content_html": "<p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-08-16/debian.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-08-16/debian.png\" /></p><p>Debian 11 baru saja <a href=\"https://www.debian.org/News/2021/20210814\">dirilis</a>, tetapi versi GNOME yang digunakan masih GNOME 3.38. Bagaimana caranya agar bisa menggunakan GNOME 40 di Debian 11?</p><ol>  <li>Buka <code class=\"language-plaintext highlighter-rouge\">sources.list</code>    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code> sudo nano /etc/apt/sources.list</code></pre></div>    </div>  </li>  <li>Tambahkan repo Debian Experimental seperti berikut (Jadinya Debian Experimental, bukan Debian 11 :p)    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code> deb http://deb.debian.org/debian experimental main</code></pre></div>    </div>    <p>atau bisa juga menggunakan cermin experimental terdekat seperti Kartolo dari Data Utama</p>    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code> deb http://kartolo.sby.datautama.net.id/debian/ experimental main</code></pre></div>    </div>  </li>  <li>Update    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code> sudo apt update</code></pre></div>    </div>  </li>  <li>Pasang paket-paketnya    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code> sudo apt -t experimental install gnome-shell gnome-backgrounds gnome-applets gnome-control-center mutter gjs gnome-session</code></pre></div>    </div>  </li>  <li>Nyalakan ulang</li></ol><p>Selamat mencoba!</p><p>Referensi: <a href=\"https://www.itsfoss.net/how-to-install-gnome-40-on-debian-11-bullseye/\">https://www.itsfoss.net/how-to-install-gnome-40-on-debian-11-bullseye/</a></p>",
+            "url": "https://blog.kukuh.syafaat.id/2021/GNOME-40-Debian-11/",
+            
+            
+            
+            
+            
+            "date_published": "2021-08-16T00:00:00+07:00",
+            "date_modified": "2021-08-16T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2021/Menambahkan-Elementary-Flatpak/",
+            "title": "Menambahkan Elementary Flatpak Remote",
+            "summary": "Menambahkan Elementary Flatpak Remote",
+            "content_text": "Elementary OS 6 Odin baru dirilis. Tahukah Anda bahwa AppCenter (Pusat Aplikasi) sekarang berisi aplikasi yang sudah dikurasi dan dikemas dalam format Flatpak? Daftar antriannya dapat Anda simak disini. Daftar aplikasi yang sudah masuk, dapat Anda lihat disini. AppCenter (Pusat Aplikasi) juga daapt diakses melalui antarmuka web pada https://appcenter.elementary.io/.Just approved the 20th Flatpak app in the new AppCenter. 195 to go!&mdash; Daniel Foré (@DanielFore) August 11, 2021Anda dapat memeriksa pada sistem Elementary OS Anda dengan perintah berikut pada terminal.      flatpak remotes untuk mengetahui remote apa saja yang digunakan di Elementary OS.            flatpak remote-ls appcenter untuk mengetahui aplikasi mana saja yang dapat dipasang melalui remote milik elementary ini.            Anda dapat juga mengetahui informasi lebih lanjut remote appcenter ini seperti pada gambar berikut.      Flatpak Elementary OS ini memiliki alamat repo di https://flatpak.elementary.io/. Kita dapat menambahkan remote ini pada sistem operasi lain selain Elementary OS. Jadi kita masih dapat memasang atau menggunakan aplikasi khas Elementary di sistem operasi lain. Caranya:  Tambahkan remote elementary seperti berikut (pada contoh ini, saya memasangnya di --user dan menggunakan nama elementary alih-alih appcenter agar mudah dikenali)     flatpak remote-add elementary https://flatpak.elementary.io/repo.flatpakrepo --user        Jalankan perintah berikut untuk untuk mengetahui aplikasi mana saja yang dapat dipasang melalui remote elementary ini.     flatpak remote-ls elementary            Pasang salah satu aplikasi, contoh Palet     flatpak install --user elementary com.github.cassidyjames.palette                Jalankan aplikasi tersebut      Selamat mencoba!",
+            "content_html": "<p>Elementary OS 6 Odin baru dirilis. Tahukah Anda bahwa AppCenter (Pusat Aplikasi) sekarang berisi aplikasi yang sudah dikurasi dan dikemas dalam format Flatpak? Daftar antriannya dapat Anda simak <a href=\"https://github.com/elementary/appcenter-reviews/pulls\">disini</a>. Daftar aplikasi yang sudah masuk, dapat Anda lihat <a href=\"https://github.com/elementary/appcenter-reviews/tree/main/applications\">disini</a>. AppCenter (Pusat Aplikasi) juga daapt diakses melalui antarmuka web pada <a href=\"https://appcenter.elementary.io/\">https://appcenter.elementary.io/</a>.</p><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Just approved the 20th Flatpak app in the new AppCenter. 195 to go!</p>&mdash; Daniel Foré (@DanielFore) <a href=\"https://twitter.com/DanielFore/status/1425573230689931267?ref_src=twsrc%5Etfw\">August 11, 2021</a></blockquote><script async=\"\" src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><p>Anda dapat memeriksa pada sistem Elementary OS Anda dengan perintah berikut pada terminal.</p><ol>  <li>    <p><code class=\"language-plaintext highlighter-rouge\">flatpak remotes</code> untuk mengetahui remote apa saja yang digunakan di Elementary OS.</p>    <p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-08-13/1.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-08-13/1.png\" /></p>  </li>  <li>    <p><code class=\"language-plaintext highlighter-rouge\">flatpak remote-ls appcenter</code> untuk mengetahui aplikasi mana saja yang dapat dipasang melalui remote milik elementary ini.</p>    <p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-08-13/2.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-08-13/2.png\" /></p>  </li>  <li>    <p>Anda dapat juga mengetahui informasi lebih lanjut remote <code class=\"language-plaintext highlighter-rouge\">appcenter</code> ini seperti pada gambar berikut.</p>    <p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-08-13/3.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-08-13/3.png\" /></p>  </li></ol><p>Flatpak Elementary OS ini memiliki alamat repo di <a href=\"https://flatpak.elementary.io/\">https://flatpak.elementary.io/</a>. Kita dapat menambahkan remote ini pada sistem operasi lain selain Elementary OS. Jadi kita masih dapat memasang atau menggunakan aplikasi khas Elementary di sistem operasi lain. Caranya:</p><ol>  <li>Tambahkan remote <code class=\"language-plaintext highlighter-rouge\">elementary</code> seperti berikut (pada contoh ini, saya memasangnya di <code class=\"language-plaintext highlighter-rouge\">--user</code> dan menggunakan nama <code class=\"language-plaintext highlighter-rouge\">elementary</code> alih-alih <code class=\"language-plaintext highlighter-rouge\">appcenter</code> agar mudah dikenali)    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code> flatpak remote-add elementary https://flatpak.elementary.io/repo.flatpakrepo --user</code></pre></div>    </div>  </li>  <li>Jalankan perintah berikut untuk untuk mengetahui aplikasi mana saja yang dapat dipasang melalui remote <code class=\"language-plaintext highlighter-rouge\">elementary</code> ini.    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code> flatpak remote-ls elementary</code></pre></div>    </div>    <p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-08-13/4.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-08-13/4.png\" /></p>  </li>  <li>Pasang salah satu aplikasi, contoh Palet    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code> flatpak install --user elementary com.github.cassidyjames.palette</code></pre></div>    </div>    <p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-08-13/5.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-08-13/5.png\" /></p>  </li>  <li>    <p>Jalankan aplikasi tersebut</p>    <p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-08-13/6.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-08-13/6.png\" /></p>  </li></ol><p>Selamat mencoba!</p>",
+            "url": "https://blog.kukuh.syafaat.id/2021/Menambahkan-Elementary-Flatpak/",
+            
+            
+            
+            
+            
+            "date_published": "2021-08-13T00:00:00+07:00",
+            "date_modified": "2021-08-13T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2021/Mencoba-ChromeOS-Cloudready-di-Virtualbox/",
+            "title": "Mencoba Chrome OS Cloudready di Virtualbox",
+            "summary": "Mencoba Chrome OS Cloudready di Virtualbox",
+            "content_text": "Sedang rame-rame Chromebook, tidak lengkap tanpa membahas sistem operasi yang digunakan di Chromebook secara bawaan, yaitu Chrome OS. Sebenarnya ChromeOS dapat dipasang di komputer selain Chromebook. Jadi, komputer bekas dengan spek terbatas yang masih layak digunakan, dapat digunakan dengan baik apabila dipasang Chrome OS ini dengan adanya Cloudready.Kali ini, kita coba memasang Chrome OS Cloudready di Virtualbox.  Unduh berkas ova di https://cloudreadykb.neverware.com/s/article/Download-CloudReady-Image-For-VMware  Buka Virtualbox, lalu File &gt; Import Appliance  Pilih berkas .ova yang sudah diunduh  Tekan Next, akan muncul Appliance settings, lalu tekan Import  Tunggu sampai proses impor selesai  Jalankan Cloudready di VirtualboxSelamat mencoba!  NB: Masih mentok di logo CloudreadyReferensi:  https://gist.github.com/gerarldlee/57b5467d25f5e9129abe5c4d1881a745  https://www.digitaltrends.com/computing/how-to-run-chrome-os-in-virtualbox/",
+            "content_html": "<p>Sedang rame-rame Chromebook, tidak lengkap tanpa membahas sistem operasi yang digunakan di Chromebook secara bawaan, yaitu Chrome OS. Sebenarnya ChromeOS dapat dipasang di komputer selain Chromebook. Jadi, komputer bekas dengan spek terbatas yang masih layak digunakan, dapat digunakan dengan baik apabila dipasang Chrome OS ini dengan adanya <a href=\"https://chromeenterprise.google/cloudready/\">Cloudready</a>.</p><p>Kali ini, kita coba memasang Chrome OS Cloudready di Virtualbox.</p><ol>  <li>Unduh berkas ova di <a href=\"https://cloudreadykb.neverware.com/s/article/Download-CloudReady-Image-For-VMware\">https://cloudreadykb.neverware.com/s/article/Download-CloudReady-Image-For-VMware</a></li>  <li>Buka Virtualbox, lalu File &gt; Import Appliance</li>  <li>Pilih berkas .ova yang sudah diunduh</li>  <li>Tekan Next, akan muncul Appliance settings, lalu tekan Import</li>  <li>Tunggu sampai proses impor selesai</li>  <li>Jalankan Cloudready di Virtualbox</li></ol><p>Selamat mencoba!</p><blockquote>  <p>NB: Masih mentok di logo Cloudready</p></blockquote><p>Referensi:</p><ul>  <li><a href=\"https://gist.github.com/gerarldlee/57b5467d25f5e9129abe5c4d1881a745\">https://gist.github.com/gerarldlee/57b5467d25f5e9129abe5c4d1881a745</a></li>  <li><a href=\"https://www.digitaltrends.com/computing/how-to-run-chrome-os-in-virtualbox/\">https://www.digitaltrends.com/computing/how-to-run-chrome-os-in-virtualbox/</a></li></ul>",
+            "url": "https://blog.kukuh.syafaat.id/2021/Mencoba-ChromeOS-Cloudready-di-Virtualbox/",
+            
+            
+            
+            
+            
+            "date_published": "2021-08-11T00:00:00+07:00",
+            "date_modified": "2021-08-11T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2021/Memasang-GNOME-Web-Canary/",
+            "title": "Memasang GNOME Web Canary",
+            "summary": "Memasang GNOME Web Canary",
+            "content_text": "GNOME Web, dahulu dikenal juga dengan nama Epiphany. Sekarang GNOME Web memiliki versi Canary dimana pengguna dapat menjajal fitur yang belum tersedia pada versi stabil. GNOME Web Canary dapat dipasang menggunakan Flatpak dengan cara berikut.flatpak --user remote-add --if-not-exists webkit https://software.igalia.com/flatpak-refs/webkit-sdk.flatpakrepoflatpak --user install https://nightly.gnome.org/repo/appstream/org.gnome.Epiphany.Canary.flatpakrefSelamat mencoba!Referensi:  https://news.itsfoss.com/gnome-web-canary/  https://base-art.net/Articles/introducing-the-gnome-web-canary-flavor/",
+            "content_html": "<p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-08-10/gnome-web-canary.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-08-10/gnome-web-canary.png\" /></p><p><a href=\"https://wiki.gnome.org/Apps/Web\">GNOME Web</a>, dahulu dikenal juga dengan nama Epiphany. Sekarang GNOME Web memiliki versi Canary dimana pengguna dapat menjajal fitur yang belum tersedia pada versi stabil. GNOME Web Canary dapat dipasang menggunakan Flatpak dengan cara berikut.</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>flatpak --user remote-add --if-not-exists webkit https://software.igalia.com/flatpak-refs/webkit-sdk.flatpakrepoflatpak --user install https://nightly.gnome.org/repo/appstream/org.gnome.Epiphany.Canary.flatpakref</code></pre></div></div><p>Selamat mencoba!</p><p>Referensi:</p><ul>  <li><a href=\"https://news.itsfoss.com/gnome-web-canary/\">https://news.itsfoss.com/gnome-web-canary/</a></li>  <li><a href=\"https://base-art.net/Articles/introducing-the-gnome-web-canary-flavor/\">https://base-art.net/Articles/introducing-the-gnome-web-canary-flavor/</a></li></ul>",
+            "url": "https://blog.kukuh.syafaat.id/2021/Memasang-GNOME-Web-Canary/",
+            
+            
+            
+            
+            
+            "date_published": "2021-08-10T00:00:00+07:00",
+            "date_modified": "2021-08-10T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2021/Memutar-Spotify-di-Raspberry-Pi-dengan-Spot/",
+            "title": "Memutar Spotify di Raspberry Pi dengan Spot",
+            "summary": "Memutar Spotify di Raspberry Pi dengan Spot",
+            "content_text": "  T: Memutar Spotify di Raspberry Pi? Bisa?  J: Bisa, pasti bisa!Konteksnya adalah Raspberry Pi dengan destop. Kebetulan saya menggunakan destop GNOME di Raspberry Pi 4. Sebelumnya saya pernah mencoba  Raspotify. Hanya saja ini merupakan klien Spotify Connect, jadi hanya numpang memutar audionya saja di Raspberry Pi 4, memilih lagu tetap harus melalui gawai lain.Klien Spotify di Flathub hanya mendukung arsitektur x86_64. Lalu saya menemukan aplikasi bernama Spot di Flathub. Coba pasang Raspberry Pi 4, berhasil (berarti mendukung arm64). Perintahnyaflatpak install flathub dev.alextren.SpotKemudian, masuk dengan akun Spotify, jreng!Yang perlu diperhatikan, Spot ini hanya bisa berjalan dengan akun premium saja seperti yang dijelaskan di Github.  Gtk/Rust native Spotify client for the GNOME desktop. Only works with premium accounts!Tertarik berkontribusi? Spot ini bisa dibangun dengan GNOME Builder lho!",
+            "content_html": "<blockquote>  <p>T: Memutar Spotify di Raspberry Pi? Bisa?</p></blockquote><blockquote>  <p>J: Bisa, pasti bisa!</p></blockquote><p>Konteksnya adalah Raspberry Pi dengan destop. Kebetulan saya menggunakan destop GNOME di Raspberry Pi 4. Sebelumnya saya pernah mencoba  <a href=\"https://github.com/dtcooper/raspotify\">Raspotify</a>. Hanya saja ini merupakan klien Spotify Connect, jadi hanya numpang memutar audionya saja di Raspberry Pi 4, memilih lagu tetap harus melalui gawai lain.</p><p>Klien <a href=\"https://flathub.org/apps/details/com.spotify.Client\">Spotify</a> di Flathub hanya mendukung arsitektur <a href=\"https://github.com/flathub/com.spotify.Client/blob/master/flathub.json#L2\"><code class=\"language-plaintext highlighter-rouge\">x86_64</code></a>. Lalu saya menemukan aplikasi bernama <a href=\"https://flathub.org/apps/details/dev.alextren.Spot\">Spot</a> di Flathub. Coba pasang Raspberry Pi 4, berhasil (berarti mendukung <code class=\"language-plaintext highlighter-rouge\">arm64</code>). Perintahnya</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>flatpak install flathub dev.alextren.Spot</code></pre></div></div><p>Kemudian, masuk dengan akun Spotify, jreng!</p><p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-06-15/spot.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-06-15/spot.png\" /></p><p>Yang perlu diperhatikan, Spot ini hanya bisa berjalan dengan akun premium saja seperti yang dijelaskan di <a href=\"https://github.com/xou816/spot\">Github</a>.</p><blockquote>  <p>Gtk/Rust native Spotify client for the GNOME desktop. Only works with premium accounts!</p></blockquote><p>Tertarik berkontribusi? Spot ini bisa dibangun dengan <a href=\"https://wiki.gnome.org/Apps/Builder\">GNOME Builder</a> lho!</p>",
+            "url": "https://blog.kukuh.syafaat.id/2021/Memutar-Spotify-di-Raspberry-Pi-dengan-Spot/",
+            
+            
+            
+            
+            
+            "date_published": "2021-06-15T00:00:00+07:00",
+            "date_modified": "2021-06-15T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2021/Kamera-Virtual-OBS-Studio/",
+            "title": "Kamera Virtual OBS Studio",
+            "summary": "Kamera Virtual OBS Studio",
+            "content_text": "Sempat berpikir, bagaimana caranya saat rapat daring, kamera yang menyala bukan kamera pada komputer, melainkan gambar atau video lainnya. Setelah bertanya pada mbah gugel, ternyata ada teknologi yang namanya Kamera Virtual (Virtual Camera).Sebelumnya, kamera virtual ini merupakan pengaya (plugin) pada OBS Studio. Kabar gembiranya, sejak versi 26.0.0, pengaya ini sudah jadi bawaan (default).Hal berikutnya yang perlu dilakukan adalah memasang v4l2loopback. Karena saat ini saya menggunakan MicroOS yang berbasis Tumbleweed, maka cari dulu paketnya dengan zypper search v4l2loopback. Hasilnya muncul berikut.S  | Name                     | Summary                                         | Type---+--------------------------+-------------------------------------------------+------   | v4l2loopback-autoload    | Autoload driver for V4L2 loopback devices       | paket   | v4l2loopback-kmp-default | A kernel module to create V4L2 loopback devices | paket   | v4l2loopback-kmp-pae     | A kernel module to create V4L2 loopback devices | paket   | v4l2loopback-utils       | Utils for V4L2 loopback devices                 | paketSelanjutnya pasang paket berikut (Di MicroOS, saya masuk dulu ke transactional-update shell).sudo zypper in v4l2loopback-utils v4l2loopback-kmp-default v4l2loopback-autoloadUntuk distribusi Linux lainnya, harap menyesuaikan ya, kuncinya ada di paket bernama v4l2loopback.Jika sudah, saat menyalakan OBS Studio, pastikan ada opsi “Start Virtual Camera” seperti gambar berikut.Pastikan nama kameranya adalah “OBS Virtual Camera” atau sejenisnya. Hasil uji coba di beberapa aplikasi sebagai berikut.      Jitsi (via peramban Google Chrome Flatpak)            Google Meet (via peramban Google Chrome Flatpak)            Zoom            Microsoft Teams      Contoh penggunaannya, pada OBS Studio, misal saya memasang gambar bakso sebagai berikut.Maka nanti di ruangan rapat (contoh ini pada Google Meet) akan tampil sebagai berikut. Dengan mode kamera menyala, kamera akan menampilkan gambar bakso alih-alih muka saya.Catatan: Jika gambar yang tampil terbalik, maka pada OBS Studio pada bagian Sources &gt; Image, klik kanan, pilih Transform, lalu pilih Flip Horizontal.Sebagai informasi tambahan, semua aplikasi di atas menggunakan Flatpak.  OBS Studio  Zoom  MS TeamsUntuk peramban, saya menggunakan Google Chrome Flatpak yang saya bangun (build) sendiri, bukan Google Chrome di flathub-beta. Seharusnya di peramban apapun bisa jalan dengan baik.Selamat mencoba!Referensi:  Virtual Camera di OBS Studio untuk Linux  https://opensource.com/article/20/8/obs-virtual-webcam",
+            "content_html": "<p>Sempat berpikir, bagaimana caranya saat rapat daring, kamera yang menyala bukan kamera pada komputer, melainkan gambar atau video lainnya. Setelah bertanya pada mbah gugel, ternyata ada teknologi yang namanya Kamera Virtual (<em>Virtual Camera</em>).</p><p>Sebelumnya, kamera virtual ini merupakan pengaya (<em>plugin</em>) pada OBS Studio. Kabar gembiranya, sejak versi <a href=\"https://github.com/CatxFish/obs-virtual-cam/blob/master/readme.MD\">26.0.0</a>, pengaya ini sudah jadi bawaan (<em>default</em>).</p><p>Hal berikutnya yang perlu dilakukan adalah memasang <code class=\"language-plaintext highlighter-rouge\">v4l2loopback</code>. Karena saat ini saya menggunakan <a href=\"http://microos.opensuse.org/\">MicroOS</a> yang berbasis <a href=\"https://en.opensuse.org/Portal:Tumbleweed\">Tumbleweed</a>, maka cari dulu paketnya dengan <code class=\"language-plaintext highlighter-rouge\">zypper search v4l2loopback</code>. Hasilnya muncul berikut.</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>S  | Name                     | Summary                                         | Type---+--------------------------+-------------------------------------------------+------   | v4l2loopback-autoload    | Autoload driver for V4L2 loopback devices       | paket   | v4l2loopback-kmp-default | A kernel module to create V4L2 loopback devices | paket   | v4l2loopback-kmp-pae     | A kernel module to create V4L2 loopback devices | paket   | v4l2loopback-utils       | Utils for V4L2 loopback devices                 | paket</code></pre></div></div><p>Selanjutnya pasang paket berikut (Di MicroOS, saya masuk dulu ke <code class=\"language-plaintext highlighter-rouge\">transactional-update shell</code>).</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>sudo zypper in v4l2loopback-utils v4l2loopback-kmp-default v4l2loopback-autoload</code></pre></div></div><p>Untuk distribusi Linux lainnya, harap menyesuaikan ya, kuncinya ada di paket bernama <code class=\"language-plaintext highlighter-rouge\">v4l2loopback</code>.</p><p>Jika sudah, saat menyalakan OBS Studio, pastikan ada opsi “Start Virtual Camera” seperti gambar berikut.</p><p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-06-14/obs-start.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-06-14/obs-start.png\" /></p><p>Pastikan nama kameranya adalah “OBS Virtual Camera” atau sejenisnya. Hasil uji coba di beberapa aplikasi sebagai berikut.</p><ul>  <li>    <p>Jitsi (via peramban Google Chrome Flatpak)</p>    <p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-06-14/jitsi.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-06-14/jitsi.png\" /></p>  </li>  <li>    <p>Google Meet (via peramban Google Chrome Flatpak)</p>    <p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-06-14/google-meet.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-06-14/google-meet.png\" /></p>  </li>  <li>    <p>Zoom</p>    <p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-06-14/zoom.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-06-14/zoom.png\" /></p>  </li>  <li>    <p>Microsoft Teams</p>    <p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-06-14/ms-teams.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-06-14/ms-teams.png\" /></p>  </li></ul><p>Contoh penggunaannya, pada OBS Studio, misal saya memasang gambar bakso sebagai berikut.</p><p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-06-14/obs-bakso.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-06-14/obs-bakso.png\" /></p><p>Maka nanti di ruangan rapat (contoh ini pada Google Meet) akan tampil sebagai berikut. Dengan mode kamera menyala, kamera akan menampilkan gambar bakso alih-alih muka saya.</p><p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-06-14/screenshot-meet.google.com-bakso.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-06-14/screenshot-meet.google.com-bakso.png\" /></p><p>Catatan: Jika gambar yang tampil terbalik, maka pada OBS Studio pada bagian Sources &gt; Image, klik kanan, pilih Transform, lalu pilih Flip Horizontal.</p><p>Sebagai informasi tambahan, semua aplikasi di atas menggunakan Flatpak.</p><ul>  <li><a href=\"https://flathub.org/apps/details/com.obsproject.Studio\">OBS Studio</a></li>  <li><a href=\"https://flathub.org/apps/details/us.zoom.Zoom\">Zoom</a></li>  <li><a href=\"https://flathub.org/apps/details/com.microsoft.Teams\">MS Teams</a></li></ul><p>Untuk peramban, saya menggunakan Google Chrome Flatpak yang saya bangun (<em>build</em>) sendiri, bukan Google Chrome di <code class=\"language-plaintext highlighter-rouge\">flathub-beta</code>. Seharusnya di peramban apapun bisa jalan dengan baik.</p><p>Selamat mencoba!</p><hr /><p>Referensi:</p><ul>  <li><a href=\"https://diskusi.tech/ariya/virtual-camera-di-obs-studio-untuk-linux-9gm\">Virtual Camera di OBS Studio untuk Linux</a></li>  <li><a href=\"https://opensource.com/article/20/8/obs-virtual-webcam\">https://opensource.com/article/20/8/obs-virtual-webcam</a></li></ul>",
+            "url": "https://blog.kukuh.syafaat.id/2021/Kamera-Virtual-OBS-Studio/",
+            
+            
+            
+            
+            
+            "date_published": "2021-06-14T00:00:00+07:00",
+            "date_modified": "2021-06-14T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2021/Inkscape-1.1-Beta-Flathub-Beta/",
+            "title": "Inkscape 1.1 Beta on Flathub Beta",
+            "summary": "Inkscape 1.1 Beta on Flathub Beta",
+            "content_text": "Calling all beta testers! Over 200 bug-fixes later, #Inkscape 1.1beta has launched and is ready for you to test away! Your help will improve the final 1.1 version that will launch later this Spring. Download it here: https://t.co/IzExthMvkT pic.twitter.com/Rv3DVeCsWa&mdash; Inkscape (@inkscape) March 31, 2021Inkscape 1.1 beta has launched. I recently push Inkscape 1.1 Beta to Flathub Beta so that people can test it through Flatpak.How to install:  Make sure flatpak is installed  Add flathub-beta repository    flatpak remote-add flathub-beta https://flathub.org/beta-repo/flathub-beta.flatpakrepo        Install Inkscape from flathub-beta    flatpak install flathub-beta org.inkscape.Inkscape      You can help test it with Testing Team’s 1.1 Blocker List. Happy testing!Our testing team needs your help to find, prioritize &amp; tackle the biggest issues in Inkscape 1.1beta. Share your feedback with us! Join the testing team&#39;s chat channel at https://t.co/NnFNdAbOU0 or comment on the issue on GitLab https://t.co/DUbGURVBYf&mdash; Inkscape (@inkscape) March 31, 2021",
+            "content_html": "<p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-04-01/banner_1.1_beta_GL0ooOP.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-04-01/banner_1.1_beta_GL0ooOP.png\" /></p><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Calling all beta testers! Over 200 bug-fixes later, <a href=\"https://twitter.com/hashtag/Inkscape?src=hash&amp;ref_src=twsrc%5Etfw\">#Inkscape</a> 1.1beta has launched and is ready for you to test away! Your help will improve the final 1.1 version that will launch later this Spring. Download it here: <a href=\"https://t.co/IzExthMvkT\">https://t.co/IzExthMvkT</a> <a href=\"https://t.co/Rv3DVeCsWa\">pic.twitter.com/Rv3DVeCsWa</a></p>&mdash; Inkscape (@inkscape) <a href=\"https://twitter.com/inkscape/status/1377055818827370497?ref_src=twsrc%5Etfw\">March 31, 2021</a></blockquote><script async=\"\" src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><p>Inkscape 1.1 beta has launched. I recently push Inkscape 1.1 Beta to Flathub Beta so that people can test it through Flatpak.</p><p>How to install:</p><ul>  <li>Make sure <code class=\"language-plaintext highlighter-rouge\">flatpak</code> is installed</li>  <li>Add <code class=\"language-plaintext highlighter-rouge\">flathub-beta</code> repository    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>flatpak remote-add flathub-beta https://flathub.org/beta-repo/flathub-beta.flatpakrepo</code></pre></div>    </div>  </li>  <li>Install Inkscape from <code class=\"language-plaintext highlighter-rouge\">flathub-beta</code>    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>flatpak install flathub-beta org.inkscape.Inkscape</code></pre></div>    </div>  </li></ul><p>You can help test it with <a href=\"https://gitlab.com/inkscape/inkscape/-/issues/2316\">Testing Team’s 1.1 Blocker List</a>. Happy testing!</p><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Our testing team needs your help to find, prioritize &amp; tackle the biggest issues in Inkscape 1.1beta. Share your feedback with us! Join the testing team&#39;s chat channel at <a href=\"https://t.co/NnFNdAbOU0\">https://t.co/NnFNdAbOU0</a> or comment on the issue on GitLab <a href=\"https://t.co/DUbGURVBYf\">https://t.co/DUbGURVBYf</a></p>&mdash; Inkscape (@inkscape) <a href=\"https://twitter.com/inkscape/status/1377229178471378948?ref_src=twsrc%5Etfw\">March 31, 2021</a></blockquote><script async=\"\" src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-04-01/splash.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-04-01/splash.png\" /></p>",
+            "url": "https://blog.kukuh.syafaat.id/2021/Inkscape-1.1-Beta-Flathub-Beta/",
+            
+            
+            
+            
+            
+            "date_published": "2021-04-01T00:00:00+07:00",
+            "date_modified": "2021-04-01T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2021/GNOME-40/",
+            "title": "GNOME 40",
+            "summary": "GNOME 40",
+            "content_text": "  Catatan rilis  VideoLihat juga https://forty.gnome.org/Selamat!",
+            "content_html": "<p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-03-25/40-fullcolor.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-03-25/40-fullcolor.png\" /></p><ul>  <li><a href=\"https://help.gnome.org/misc/release-notes/40.0/\">Catatan rilis</a></li>  <li><a href=\"https://youtu.be/vK-SwsWnEmo\">Video</a></li></ul><p>Lihat juga <a href=\"https://forty.gnome.org/\">https://forty.gnome.org/</a></p><p>Selamat!</p>",
+            "url": "https://blog.kukuh.syafaat.id/2021/GNOME-40/",
+            
+            
+            
+            
+            
+            "date_published": "2021-03-25T00:00:00+07:00",
+            "date_modified": "2021-03-25T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2021/Silverblue-33-34/",
+            "title": "Upgrade Silverblue 33 ke 34 (Beta)",
+            "summary": "Upgrade Silverblue 33 ke 34",
+            "content_text": "Tentang Silverblue bisa dibaca disini dan disini. Fedora 34 akan rilis dalam waktu dekat dan pengguna sudah bisa mencicipi versi beta dengan GNOME 40. Bagi yang sudah memasang Silverblue juga dapat melakukan peningkatan versi dari 33 ke 34 beta. Caranya$ rpm-ostree rebase fedora:fedora/34/x86_64/silverblueIngin rollback ke snapshot sebelumnya? Cukup jalankan perintah berikut$ rpm-ostree rollbackSelamat mencoba!",
+            "content_html": "<p><img src=\"https://silverblue.fedoraproject.org/public/silverblue-logo.svg\" alt=\"https://silverblue.fedoraproject.org/public/silverblue-logo.svg\" /></p><p>Tentang Silverblue bisa dibaca <a href=\"https://silverblue.fedoraproject.org/\">disini</a> dan <a href=\"https://docs.fedoraproject.org/en-US/fedora-silverblue/\">disini</a>. Fedora 34 akan rilis dalam waktu dekat dan pengguna sudah bisa mencicipi versi <a href=\"https://fedoramagazine.org/announcing-fedora-34-beta/\">beta</a> dengan <a href=\"https://fedoramagazine.org/fedora-34-feature-focus-updated-activities-overview/\">GNOME 40</a>. Bagi yang sudah memasang Silverblue juga dapat melakukan peningkatan versi dari 33 ke 34 beta. <a href=\"https://twitter.com/teamsilverblue/status/1374684955679277056\">Caranya</a></p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>$ rpm-ostree rebase fedora:fedora/34/x86_64/silverblue</code></pre></div></div><p>Ingin rollback ke snapshot sebelumnya? Cukup jalankan perintah berikut</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>$ rpm-ostree rollback</code></pre></div></div><p>Selamat mencoba!</p>",
+            "url": "https://blog.kukuh.syafaat.id/2021/Silverblue-33-34/",
+            
+            
+            
+            
+            
+            "date_published": "2021-03-24T00:00:00+07:00",
+            "date_modified": "2021-03-24T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2021/Snap-di-openSUSE-MicroOS/",
+            "title": "Snap di openSUSE MicroOS",
+            "summary": "Snap di openSUSE MicroOS",
+            "content_text": "Sekadar catatan pribadi saja, siapa tahu nanti ada yang membutuhkan juga.Pasang snap di MicroOS, jalankan$ sudo transactional-update shell  # zypper addrepo --refresh https://download.opensuse.org/repositories/system:/snappy/openSUSE_Tumbleweed snappy  # zypper --gpg-auto-import-keys refresh  # zypper ref  # zypper dup --from snappy  # zypper in snapd  # exit$ sudo rebootSetelah reboot jalankan$ sudo mksubvolume /snap$ source /etc/profile$ sudo systemctl enable --now snapd$ sudo systemctl enable --now snapd.apparmorLalu pasang aplikasi lewat snap, contoh poeditsnap install poeditJalankan lewat terminalsnap run poeditApabila menemui galat berikut snap-confine has elevated permissions and is not confined but should be. Refusing to continue to avoid permission escalation attacks, jalankansudo apparmor_parser -r /etc/apparmor.d/*snap-confine*sudo apparmor_parser -r /var/lib/snapd/apparmor/profiles/snap-confine*Jalankan ulang lewat terminalsnap run poeditAapbila menemukan galat seperti gambar berikut ini,jalankansudo rm /var/cache/fontconfig/*rm ~/.cache/fontconfig/*fc-cache -rJalankan ulang lagi lewat terminalsnap run poeditHasilnyaHave Fun!",
+            "content_html": "<p>Sekadar catatan pribadi saja, siapa tahu nanti ada yang membutuhkan juga.</p><p>Pasang <a href=\"https://snapcraft.io/\">snap</a> di <a href=\"https://microos.opensuse.org/\">MicroOS</a>, jalankan</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>$ sudo transactional-update shell  # zypper addrepo --refresh https://download.opensuse.org/repositories/system:/snappy/openSUSE_Tumbleweed snappy  # zypper --gpg-auto-import-keys refresh  # zypper ref  # zypper dup --from snappy  # zypper in snapd  # exit$ sudo reboot</code></pre></div></div><p>Setelah reboot jalankan</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>$ sudo mksubvolume /snap$ source /etc/profile$ sudo systemctl enable --now snapd$ sudo systemctl enable --now snapd.apparmor</code></pre></div></div><p>Lalu pasang aplikasi lewat snap, contoh poedit</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>snap install poedit</code></pre></div></div><p>Jalankan lewat terminal</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>snap run poedit</code></pre></div></div><p>Apabila menemui galat berikut <code class=\"language-plaintext highlighter-rouge\">snap-confine has elevated permissions and is not confined but should be. Refusing to continue to avoid permission escalation attacks</code>, jalankan</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>sudo apparmor_parser -r /etc/apparmor.d/*snap-confine*sudo apparmor_parser -r /var/lib/snapd/apparmor/profiles/snap-confine*</code></pre></div></div><p>Jalankan ulang lewat terminal</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>snap run poedit</code></pre></div></div><p>Aapbila menemukan galat seperti gambar berikut ini,<img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-02-16/1.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-02-16/1.png\" />jalankan</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>sudo rm /var/cache/fontconfig/*rm ~/.cache/fontconfig/*fc-cache -r</code></pre></div></div><p>Jalankan ulang lagi lewat terminal</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>snap run poedit</code></pre></div></div><p>Hasilnya</p><p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-02-16/2.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2021-02-16/2.png\" /></p><p>Have Fun!</p>",
+            "url": "https://blog.kukuh.syafaat.id/2021/Snap-di-openSUSE-MicroOS/",
+            
+            
+            
+            
+            
+            "date_published": "2021-02-16T00:00:00+07:00",
+            "date_modified": "2021-02-16T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2020/Memasang-GitHub-CLI-pada-openSUSE/",
+            "title": "Memasang GitHub CLI pada openSUSE",
+            "summary": "Memasang GitHub CLI pada openSUSE",
+            "content_text": "Apa itu GitHub CLI? GitHub CLI adalah fungsi GitHub di baris perintah, berupa pull request, issue, dan konsep GitHub lainnya ke terminal di tempat Anda bekerja dengan git dan kode Anda. Jadi sehabis mendorong kode ke repo, kita bisa langsung membuat pull request tanpa perlu kembali ke peramban, begitu juga ketika membuat issue, dan lain sebagainya. GitHub CLI ini dibangun untuk mengurangi context switching dari terminal ke peramban dan sebaliknya. Menarik bukan.Cara memasang di openSUSE (baik Leap maupun Tumbleweed) cukup dengan menjalankan tiga perintah berikut, yaitu menambahkan repo, menyegarkan repo, lalu memasang paket GitHub CLI.sudo zypper addrepo https://cli.github.com/packages/rpm/gh-cli.reposudo zypper refsudo zypper install ghMudah bukan? Selamat mencoba",
+            "content_html": "<p>Apa itu GitHub CLI? GitHub CLI adalah fungsi GitHub di baris perintah, berupa pull request, issue, dan konsep GitHub lainnya ke terminal di tempat Anda bekerja dengan git dan kode Anda. Jadi sehabis mendorong kode ke repo, kita bisa langsung membuat pull request tanpa perlu kembali ke peramban, begitu juga ketika membuat issue, dan lain sebagainya. GitHub CLI ini dibangun untuk mengurangi context switching dari terminal ke peramban dan sebaliknya. Menarik bukan.</p><p>Cara memasang di openSUSE (baik Leap maupun Tumbleweed) cukup dengan menjalankan tiga perintah berikut, yaitu menambahkan repo, menyegarkan repo, lalu memasang paket GitHub CLI.</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>sudo zypper addrepo https://cli.github.com/packages/rpm/gh-cli.reposudo zypper refsudo zypper install gh</code></pre></div></div><p>Mudah bukan? Selamat mencoba</p>",
+            "url": "https://blog.kukuh.syafaat.id/2020/Memasang-GitHub-CLI-pada-openSUSE/",
+            
+            
+            
+            
+            
+            "date_published": "2020-12-04T00:00:00+07:00",
+            "date_modified": "2020-12-04T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2020/Mencoba-Jahitan-BlankOn-Verbeek/",
+            "title": "Mencoba Jahitan BlankOn Verbeek",
+            "summary": "Mencoba Jahitan BlankOn Verbeek",
+            "content_text": "Ya, sesuai judul, BlankOn sudah memulai lagi pengembangannya. Rasanya kangen juga dengan BlankOn. Meskipun sudah jadi pensiunan, tetapi saya masih berkontribusi di beberapa proyek hulu, harapannya kontribusi tersebut bermanfaat bagi BlankOn.Jahitan Verbeek pertama yang dapat dipasang ke komputer. 🥳🥳🥳Jahitan harian 20201123-1 dari https://t.co/U19USX8BVW cabang master telah terbit. Berkas citra dapat diunduh di https://t.co/yc1TRUqNw8&mdash; BlankOn (@BlankOnLinux) November 23, 2020Jahitan BlankOn Verbeek yang sudah dapat dipasang sudah terbit. Mari kita coba.  Unduh dari tautan yang sudah disediakan      wget -c https://cdimage.blankonlinux.or.id/blankon/jahitan-harian/20201123-1/20201123-1-live-image-amd64.hybrid.iso            Boot iso yang sudah diunduh pada mesin virtual favorit Anda (misal menggunakan Virtualbox). Kalau Anda memiliki mesin yang nganggur, tidak ada salahnya mencoba di mesin beneran. Kali ini saya menggunakan GNOME Boxes.        Silakan nikmati video berikut        Kesimpulan:          Destop yang digunakan Xfce      Pemasang (installer) menggunakan Calamares      Branding masih menggunakan Debian Bullseye/Sid            Tips (zsync)    Sedikit penjelasan tentang zsync, kita tidak perlu mengunduh keseluruhan berkas iso selanjutnya (dengan kata lain, kita hanya perlu mengunduh perubahannya saja/delta). Menarik bukan? Lebih lanjut, bisa membaca tulisan berikut. Jangan lupa juga untuk memasang paket zsync pada distro kesayangan Anda. (Pada komputer Saya, cukup dengan mengetikkan sudo zypper in zsync di terminal).  O iya, BlankOn juga mengadakan urunan, silakan berdonasi pada tautan berikut.Selamat ngoprek!",
+            "content_html": "<p>Ya, sesuai judul, BlankOn sudah memulai lagi pengembangannya. Rasanya kangen juga dengan BlankOn. Meskipun sudah jadi <a href=\"https://kabarlinux.id/2017/enam-pengembang-undur-diri-dari-tim-pengembang-blankon-terima-kasih-atas-kerja-kerasnya/\">pensiunan</a>, tetapi saya masih berkontribusi di beberapa proyek hulu, harapannya kontribusi tersebut bermanfaat bagi BlankOn.</p><blockquote class=\"twitter-tweet\"><p lang=\"in\" dir=\"ltr\">Jahitan Verbeek pertama yang dapat dipasang ke komputer. 🥳🥳🥳<br /><br />Jahitan harian 20201123-1 dari <a href=\"https://t.co/U19USX8BVW\">https://t.co/U19USX8BVW</a> cabang master telah terbit. Berkas citra dapat diunduh di <a href=\"https://t.co/yc1TRUqNw8\">https://t.co/yc1TRUqNw8</a></p>&mdash; BlankOn (@BlankOnLinux) <a href=\"https://twitter.com/BlankOnLinux/status/1330888111987978242?ref_src=twsrc%5Etfw\">November 23, 2020</a></blockquote><script async=\"\" src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><p>Jahitan BlankOn Verbeek yang sudah dapat dipasang sudah terbit. Mari kita coba.</p><ul>  <li>Unduh dari tautan yang sudah disediakan    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>  wget -c https://cdimage.blankonlinux.or.id/blankon/jahitan-harian/20201123-1/20201123-1-live-image-amd64.hybrid.iso</code></pre></div>    </div>  </li>  <li>    <p>Boot iso yang sudah diunduh pada mesin virtual favorit Anda (misal menggunakan Virtualbox). Kalau Anda memiliki mesin yang nganggur, tidak ada salahnya mencoba di mesin beneran. Kali ini saya menggunakan <a href=\"https://wiki.gnome.org/Apps/Boxes\">GNOME Boxes</a>.</p>  </li>  <li>    <p>Silakan nikmati video berikut</p>    <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ZUvYLtjz1SM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe>  </li>  <li>Kesimpulan:    <ul>      <li>Destop yang digunakan Xfce</li>      <li>Pemasang (<em>installer</em>) menggunakan Calamares</li>      <li><em>Branding</em> masih menggunakan Debian Bullseye/Sid</li>    </ul>  </li>  <li>    <p>Tips (<code class=\"language-plaintext highlighter-rouge\">zsync</code>)</p>    <p>Sedikit penjelasan tentang <code class=\"language-plaintext highlighter-rouge\">zsync</code>, kita tidak perlu mengunduh keseluruhan berkas iso selanjutnya (dengan kata lain, kita hanya perlu mengunduh perubahannya saja/delta). Menarik bukan? Lebih lanjut, bisa membaca tulisan <a href=\"https://ha.hn.web.id/2016/10/16/unduh-berkas-iso-dengan-zsync/\">berikut</a>. Jangan lupa juga untuk memasang paket <code class=\"language-plaintext highlighter-rouge\">zsync</code> pada distro kesayangan Anda. (Pada komputer Saya, cukup dengan mengetikkan <code class=\"language-plaintext highlighter-rouge\">sudo zypper in zsync</code> di terminal).</p>  </li></ul><p>O iya, BlankOn juga mengadakan urunan, silakan berdonasi pada tautan <a href=\"https://kitabisa.com/campaign/urunanpengembanganblankon\">berikut</a>.</p><p>Selamat ngoprek!</p>",
+            "url": "https://blog.kukuh.syafaat.id/2020/Mencoba-Jahitan-BlankOn-Verbeek/",
+            
+            
+            
+            
+            
+            "date_published": "2020-11-24T00:00:00+07:00",
+            "date_modified": "2020-11-24T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2020/Mencoba-Microsoft-Edge-Dev-Pada-openSUSE-Leap/",
+            "title": "Mencoba Microsoft Edge Dev Pada openSUSE Leap",
+            "summary": "Mencoba Microsoft Edge Dev Pada openSUSE Leap",
+            "content_text": "Panduan ini dicoba pada openSUSE Leap 15.2. Langkahnya:      Tambahkan kunci dari Microsoft     sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc            Tambahkan repositori Microsoft Edge Dev     sudo zypper ar https://packages.microsoft.com/yumrepos/edge microsoft-edge-dev            Segarkan repositori     sudo zypper refresh            Pasang Microsoft Edge Dev     sudo zypper install microsoft-edge-dev      Selamat mencoba!",
+            "content_html": "<p>Panduan ini dicoba pada openSUSE Leap 15.2. Langkahnya:</p><ol>  <li>    <p>Tambahkan kunci dari Microsoft</p>    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code> sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc</code></pre></div>    </div>  </li>  <li>    <p>Tambahkan repositori Microsoft Edge Dev</p>    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code> sudo zypper ar https://packages.microsoft.com/yumrepos/edge microsoft-edge-dev</code></pre></div>    </div>  </li>  <li>    <p>Segarkan repositori</p>    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code> sudo zypper refresh</code></pre></div>    </div>  </li>  <li>    <p>Pasang Microsoft Edge Dev</p>    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code> sudo zypper install microsoft-edge-dev</code></pre></div>    </div>  </li></ol><p>Selamat mencoba!</p>",
+            "url": "https://blog.kukuh.syafaat.id/2020/Mencoba-Microsoft-Edge-Dev-Pada-openSUSE-Leap/",
+            
+            
+            
+            
+            
+            "date_published": "2020-10-21T00:00:00+07:00",
+            "date_modified": "2020-10-21T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2020/openSUSE-LibreOffice-Virtual-Conference-2020/",
+            "title": "openSUSE + LibreOffice Virtual Conference 2020",
+            "summary": "openSUSE + LibreOffice Virtual Conference 2020",
+            "content_text": "openSUSE + LibreOffice Virtual Conference 2020 started on October 15 2020. Opened by Lothar Becker (TDF Chairman). Due to some problem in platform (https://oslo.gonogo.live), the organizer moved all sessions to Jitsi on TDF infastructure (https://jitsi.documentfoundation.org).I presented “Building Upstream Contribution in Local FOSS Community” on day 2 (October 16, 2020). You can find the slide here. It was interesting that before my talk, there are three talks from the Asian side that strengthen the Asian community.  The challenge of growing the LibreOffice Japanese community through events under COVID-19 by Shinji Enoki from Japan  Building LibreOffice Korean Community and CJK’s common &amp; different issues by DaeHyun Sung from South Korea  Working with native/indigenous communities to build native language LibreOffice projects by Kuan-Ting Lin and Wang Larry from TaiwanActually, at this conference, openSUSE-ID help to live streaming some sessions because some people in Indonesia had a problem when connected to Jitsi. Though it ended with an internet connection problem in live streaming (and perhaps timezone, we are in UTC+7 so we can’t live streaming all sessions), it really helps. Here are the lists:  Day 1 part 1  Day 1 part 2  Day 2  Day 3The conference have brought together:  More than 390 participants from all over the world, 130 in parallel online  In 107 sessions during 56 hours over three days  From 2++ open source projects with common ground and roots in open source  Over 1K unique IP address connected during the three days of the conferenceItalo Vignoli, Chairman of The Document Foundation, in the closing keynote of #oSLO2020, asked participants to share comments on how to improve the conf experience, highlighting that this might not be the last virtual conf, although we all would love to have a physical conf soon. pic.twitter.com/wjyZ3BrVd0&mdash; Ish Sookun (@IshSookun) October 17, 2020Thank you to all people who make this conference happened. Personally, I hope that pandemic will end soon so that we can meet in person at the next conference.You can check the other blog post by Ish Sookun here.",
+            "content_html": "<p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-10-18/winner.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-10-18/winner.png\" /></p><p>openSUSE + LibreOffice Virtual Conference 2020 started on October 15 2020. Opened by Lothar Becker (TDF Chairman). Due to some problem in platform (https://oslo.gonogo.live), the organizer moved all sessions to Jitsi on TDF infastructure (https://jitsi.documentfoundation.org).</p><p>I presented <a href=\"https://events.opensuse.org/conferences/oSLO/program/proposals/3172\">“Building Upstream Contribution in Local FOSS Community”</a> on day 2 (October 16, 2020). You can find the slide <a href=\"https://blog.kukuh.syafaat.id/slides/oSLO-2020/oSLO-kukuh_syafaat.pdf\">here</a>. It was interesting that before my talk, there are three talks from the Asian side that strengthen the Asian community.</p><ul>  <li><a href=\"https://events.opensuse.org/conferences/oSLO/program/proposals/3238\">The challenge of growing the LibreOffice Japanese community through events under COVID-19</a> by Shinji Enoki from Japan</li>  <li><a href=\"https://events.opensuse.org/conferences/oSLO/program/proposals/3154\">Building LibreOffice Korean Community and CJK’s common &amp; different issues</a> by DaeHyun Sung from South Korea</li>  <li><a href=\"https://events.opensuse.org/conferences/oSLO/program/proposals/3349\">Working with native/indigenous communities to build native language LibreOffice projects</a> by Kuan-Ting Lin and Wang Larry from Taiwan</li></ul><p>Actually, at this conference, openSUSE-ID help to live streaming some sessions because some people in Indonesia had a problem when connected to Jitsi. Though it ended with an internet connection problem in live streaming (and perhaps timezone, we are in UTC+7 so we can’t live streaming all sessions), it really helps. Here are the lists:</p><ul>  <li><a href=\"https://www.facebook.com/watch/?v=338409560584736\">Day 1 part 1</a></li>  <li><a href=\"https://www.facebook.com/watch/?v=1074791599605638\">Day 1 part 2</a></li>  <li><a href=\"https://www.facebook.com/watch/?v=1281046975571929\">Day 2</a></li>  <li><a href=\"https://www.facebook.com/watch/?v=345199323457045\">Day 3</a></li></ul><p><a href=\"https://twitter.com/libreoffice/status/1317497959823585281\">The conference have brought together</a>:</p><ul>  <li>More than 390 participants from all over the world, 130 in parallel online</li>  <li>In 107 sessions during 56 hours over three days</li>  <li>From 2++ open source projects with common ground and roots in open source</li>  <li><a href=\"https://twitter.com/eno_eno/status/1317503585584701441/photo/2\">Over 1K unique IP address connected during the three days of the conference</a></li></ul><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Italo Vignoli, Chairman of The Document Foundation, in the closing keynote of <a href=\"https://twitter.com/hashtag/oSLO2020?src=hash&amp;ref_src=twsrc%5Etfw\">#oSLO2020</a>, asked participants to share comments on how to improve the conf experience, highlighting that this might not be the last virtual conf, although we all would love to have a physical conf soon. <a href=\"https://t.co/wjyZ3BrVd0\">pic.twitter.com/wjyZ3BrVd0</a></p>&mdash; Ish Sookun (@IshSookun) <a href=\"https://twitter.com/IshSookun/status/1317504993977462784?ref_src=twsrc%5Etfw\">October 17, 2020</a></blockquote><script async=\"\" src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><p>Thank you to all people who make this conference happened. Personally, I hope that pandemic will end soon so that we can meet in person at the next conference.</p><p>You can check the other blog post by Ish Sookun <a href=\"https://sysadmin-journal.com/opensuse-libreoffice-conference-2020/\">here</a>.</p>",
+            "url": "https://blog.kukuh.syafaat.id/2020/openSUSE-LibreOffice-Virtual-Conference-2020/",
+            
+            
+            
+            
+            
+            "date_published": "2020-10-18T00:00:00+07:00",
+            "date_modified": "2020-10-18T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2020/Silverblue-32-33/",
+            "title": "Upgrade Silverblue 32 ke 33 (Beta)",
+            "summary": "Upgrade Silverblue 32 ke 33",
+            "content_text": "Tentang Silverblue bisa dibaca disini dan disini. Fedora 33 akan rilis dalam waktu dekat dan pengguna sudah bisa mencicipi versi beta. Bagi yang sudah memasang Silverblue juga dapat melakukan peningkatan versi dari 32 ke 33 beta. Caranya$ rpm-ostree rebase fedora:fedora/33/x86_64/silverblueIngin rollback ke snapshot sebelumnya? Cukup jalankan perintah berikut$ rpm-ostree rollbackSelamat mencoba!",
+            "content_html": "<p><img src=\"https://silverblue.fedoraproject.org/public/silverblue-logo.svg\" alt=\"https://silverblue.fedoraproject.org/public/silverblue-logo.svg\" /></p><p>Tentang Silverblue bisa dibaca <a href=\"https://silverblue.fedoraproject.org/\">disini</a> dan <a href=\"https://docs.fedoraproject.org/en-US/fedora-silverblue/\">disini</a>. Fedora 33 akan rilis dalam waktu dekat dan pengguna sudah bisa mencicipi versi <a href=\"https://fedoramagazine.org/announcing-the-release-of-fedora-33-beta/\">beta</a>. Bagi yang sudah memasang Silverblue juga dapat melakukan peningkatan versi dari 32 ke 33 beta. <a href=\"https://twitter.com/teamsilverblue/status/1310828472898670592\">Caranya</a></p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>$ rpm-ostree rebase fedora:fedora/33/x86_64/silverblue</code></pre></div></div><p>Ingin rollback ke snapshot sebelumnya? Cukup jalankan perintah berikut</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>$ rpm-ostree rollback</code></pre></div></div><p>Selamat mencoba!</p>",
+            "url": "https://blog.kukuh.syafaat.id/2020/Silverblue-32-33/",
+            
+            
+            
+            
+            
+            "date_published": "2020-09-30T00:00:00+07:00",
+            "date_modified": "2020-09-30T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2020/GNOME-3.38/",
+            "title": "GNOME 3.38",
+            "summary": "GNOME 3.38",
+            "content_text": "  Berita  Catatan rilis  VideoSelamat!",
+            "content_html": "<p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-09-17/338-fullcolor.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-09-17/338-fullcolor.png\" /></p><ul>  <li><a href=\"https://www.gnome.org/news/2020/09/gnome-3-38-released/\">Berita</a></li>  <li><a href=\"https://help.gnome.org/misc/release-notes/3.38/\">Catatan rilis</a></li>  <li><a href=\"http://www.youtube.com/watch?v=DZ_P5W9r2JY\">Video</a></li></ul><p>Selamat!</p>",
+            "url": "https://blog.kukuh.syafaat.id/2020/GNOME-3.38/",
+            
+            
+            
+            
+            
+            "date_published": "2020-09-17T00:00:00+07:00",
+            "date_modified": "2020-09-17T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2020/Menuju-GNOME-3.38/",
+            "title": "Menuju GNOME 3.38",
+            "summary": "Menuju GNOME 3.38",
+            "content_text": "GNOME 3.38 dengan kode “Orbis” akan dirilis bulan September ini sebentar lagi. Apa saja yang baru?GNOME TurOpsi Mulai Ulang di Menu SistemDialog Cuplikan LayarPerbaikan GNOME PetaPerbaikan GNOME Webdan masih banyak lagi.Bacaan lain:  The Road to Mutter &amp; GNOME Shell 3.38  GNOME 3.38 Desktop Promises Better Multi-Monitor Support, Customizable App Grid  First Look: 10 New Features in GNOME 3.38, Out Next Week  Grouped Notifications Are Coming to GNOME Shell",
+            "content_html": "<p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-09-11/01-gnome-3.37.92-tumbleweed.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-09-11/01-gnome-3.37.92-tumbleweed.png\" /></p><p>GNOME 3.38 dengan kode “Orbis” akan dirilis <del>bulan September ini</del> sebentar lagi. Apa saja yang baru?</p><h2 id=\"gnome-tur\"><a href=\"https://gitlab.gnome.org/GNOME/gnome-tour/\">GNOME Tur</a></h2><p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-09-11/02-tur.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-09-11/02-tur.png\" /></p><h2 id=\"opsi-mulai-ulang-di-menu-sistem\">Opsi Mulai Ulang di Menu Sistem</h2><p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-09-11/03-mulai-ulang.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-09-11/03-mulai-ulang.png\" /></p><h2 id=\"dialog-cuplikan-layar\">Dialog Cuplikan Layar</h2><p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-09-11/04-cuplikan-layar.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-09-11/04-cuplikan-layar.png\" /></p><h2 id=\"perbaikan-gnome-peta\">Perbaikan GNOME Peta</h2><p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-09-11/05-peta.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-09-11/05-peta.png\" /></p><h2 id=\"perbaikan-gnome-web\">Perbaikan GNOME Web</h2><p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-09-11/06-web.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-09-11/06-web.png\" /></p><p>dan masih banyak lagi.</p><p>Bacaan lain:</p><ol>  <li><a href=\"https://blogs.gnome.org/shell-dev/2020/09/08/the-road-to-mutter-gnome-shell-3-38/\">The Road to Mutter &amp; GNOME Shell 3.38</a></li>  <li><a href=\"https://9to5linux.com/gnome-3-38-desktop-promises-better-multi-monitor-support-customizable-app-grid\">GNOME 3.38 Desktop Promises Better Multi-Monitor Support, Customizable App Grid</a></li>  <li><a href=\"https://www.omgubuntu.co.uk/2020/09/gnome-3-38-new-features\">First Look: 10 New Features in GNOME 3.38, Out Next Week</a></li>  <li><a href=\"https://www.omgubuntu.co.uk/2020/09/grouped-notifications-gnome-shell-gsoc\">Grouped Notifications Are Coming to GNOME Shell</a></li></ol>",
+            "url": "https://blog.kukuh.syafaat.id/2020/Menuju-GNOME-3.38/",
+            
+            
+            
+            
+            
+            "date_published": "2020-09-11T00:00:00+07:00",
+            "date_modified": "2020-09-11T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2020/Manjaro-ARM-GNOME-di-Raspberry-Pi4/",
+            "title": "Manjaro ARM GNOME di Raspberry Pi4",
+            "summary": "Manjaro ARM GNOME di Raspberry Pi4",
+            "content_text": "Pada pos sebelumnya sudah dibahas mengenai GNOME di Raspberry Pi4 dengan menggunakan openSUSE. Kali ini kita coba dengan Manjaro. Manjaro memiliki beberapa varian ARM selain Raspberry Pi4, salah satunya Pinebook Pro yang sedang hangat dikalangan pengembang Linux di luar sana. Sayangnya pada versi ARM 20.06, Manjaro hanya menyediakan destop XFCE, KDE dan i3 (hanya untuk Pinebook dan Pinebook Pro). Baru di versi 20.08 menyediakan dukungan i3 dan Sway untuk beberapa perangkat ARM. Tidak ada GNOME disitu, tapi itu bukan penghalang.Image yang digunakan kali ini adalah Manjaro ARM XFCE 20.06. Setelah berhasil dipasang, salah satu isu sebelumya berhasil diatasi, yaitu audio. Selanjutnya adalah memasang GNOME. Jalankan perintah berikutsudo pacman -S gnomesetelah selesai, aktifkan GDM sebagai bawaaansystemctl enable gdm.service --forceMulai ulang dan GNOME berhasil dipasang. Sampai pada tahapan ini, kernel yang digunakan adalah 4.19.127-1 selaras dengan rilis 20.06. GNOME dapat berjalan dengan baik di Wayland maupun Xorg. (Sampai tahapan ini atau sebelum kernel ditingkatkan, semua cuplikan layar lupa diambil, mohon maaf). Agar selaras dengan 20.08 dan mendapatkan pemutakhiran terkini, jalankansudo pacman -SyuKernel terkini 5.4.51-2. Waktu yang dibutuhkan dari awal boot sampai tampil GDM hanya 30 detik. Pada Wayland, terdapat masalah ketika papan tik tidak dapat digunakan dalam aplikasi (misal mengetik di terminal atau gedit), tetapi dapat digunakan untuk mengetik pencarian di gnome-shell. Menggunakan papan tik virtual pun tidak menyelesaikan masalah ini. Beralih menggunakan xorg, semuanya lancar tanpa hambatan.      Penggunaan memori awal (xorg)            Skor glmark2 (xorg)              Catatan: Skor kali ini lebih tinggi daripada skor yang dituliskan di pos sebelumnya            GNOME 3.36.5 Wayland            GNOME 3.36.5 Xorg      SekianBonus: Hardinfo",
+            "content_html": "<p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-23/05-neofetch-gnome.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-23/05-neofetch-gnome.png\" /></p><p>Pada <a href=\"https://blog.kukuh.syafaat.id/2020/openSUSE-dengan-GNOME-di-Raspberry-Pi4/\">pos sebelumnya</a> sudah dibahas mengenai GNOME di Raspberry Pi4 dengan menggunakan openSUSE. Kali ini kita coba dengan Manjaro. Manjaro memiliki beberapa varian ARM selain Raspberry Pi4, salah satunya <a href=\"https://www.pine64.org/pinebook-pro/\">Pinebook Pro</a> yang sedang hangat dikalangan pengembang Linux di luar sana. Sayangnya pada versi ARM <a href=\"https://forum.manjaro.org/t/manjaro-arm-20-06-released/112\">20.06</a>, Manjaro hanya menyediakan destop XFCE, KDE dan i3 (hanya untuk Pinebook dan Pinebook Pro). Baru di versi <a href=\"https://forum.manjaro.org/t/manjaro-arm-20-08-released/1516\">20.08</a> menyediakan dukungan i3 dan Sway untuk beberapa perangkat ARM. Tidak ada GNOME disitu, tapi itu bukan penghalang.</p><p>Image yang digunakan kali ini adalah <a href=\"https://osdn.net/projects/manjaro-arm/storage/rpi4/xfce/20.06/\">Manjaro ARM XFCE 20.06</a>. Setelah berhasil dipasang, salah satu isu sebelumya berhasil diatasi, yaitu audio. Selanjutnya adalah memasang GNOME. Jalankan perintah berikut</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>sudo pacman -S gnome</code></pre></div></div><p>setelah selesai, aktifkan GDM sebagai bawaaan</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>systemctl enable gdm.service --force</code></pre></div></div><p>Mulai ulang dan GNOME berhasil dipasang. Sampai pada tahapan ini, kernel yang digunakan adalah <code class=\"language-plaintext highlighter-rouge\">4.19.127-1</code> selaras dengan rilis <a href=\"https://forum.manjaro.org/t/manjaro-arm-20-06-released/112\">20.06</a>. GNOME dapat berjalan dengan baik di Wayland maupun Xorg. (Sampai tahapan ini atau sebelum kernel ditingkatkan, semua cuplikan layar lupa diambil, mohon maaf). Agar selaras dengan <a href=\"https://forum.manjaro.org/t/manjaro-arm-20-08-released/1516\">20.08</a> dan mendapatkan pemutakhiran terkini, jalankan</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>sudo pacman -Syu</code></pre></div></div><p>Kernel terkini <code class=\"language-plaintext highlighter-rouge\">5.4.51-2</code>. Waktu yang dibutuhkan dari awal boot sampai tampil GDM hanya <strong>30 detik</strong>. Pada Wayland, terdapat masalah ketika papan tik tidak dapat digunakan dalam aplikasi (misal mengetik di terminal atau gedit), tetapi dapat digunakan untuk mengetik pencarian di gnome-shell. Menggunakan papan tik virtual pun tidak menyelesaikan masalah ini. Beralih menggunakan xorg, semuanya lancar tanpa hambatan.</p><ul>  <li>    <p>Penggunaan memori awal (xorg)</p>    <p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-23/01-htop.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-23/01-htop.png\" /></p>  </li>  <li>    <p>Skor <code class=\"language-plaintext highlighter-rouge\">glmark2</code> (xorg)</p>    <p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-23/04-glmark2.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-23/04-glmark2.png\" /></p>    <ul>      <li>Catatan: Skor kali ini lebih tinggi daripada skor yang dituliskan di <a href=\"https://blog.kukuh.syafaat.id/2020/openSUSE-dengan-GNOME-di-Raspberry-Pi4/\">pos sebelumnya</a></li>    </ul>  </li>  <li>    <p>GNOME 3.36.5 Wayland</p>    <p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-23/02-gnome-wayland.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-23/02-gnome-wayland.png\" /></p>  </li>  <li>    <p>GNOME 3.36.5 Xorg</p>    <p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-23/03-gnome-xorg.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-23/03-gnome-xorg.png\" /></p>  </li></ul><p>Sekian</p><p>Bonus: <a href=\"https://blog.kukuh.syafaat.id/raspi4-hardinfo-manjaro-arm-gnome/hardinfo_report.html\">Hardinfo</a></p>",
+            "url": "https://blog.kukuh.syafaat.id/2020/Manjaro-ARM-GNOME-di-Raspberry-Pi4/",
+            
+            
+            
+            
+            
+            "date_published": "2020-08-23T00:00:00+07:00",
+            "date_modified": "2020-08-23T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2020/openSUSE-dengan-GNOME-di-Raspberry-Pi4/",
+            "title": "openSUSE dengan GNOME di Raspberry Pi4",
+            "summary": "openSUSE dengan GNOME di Raspberry Pi4",
+            "content_text": "Raspberry Pi memiliki sistem operasi bawaan, yaitu Raspberry Pi OS (sebelumnya Raspbian) berbasis Debian Buster. Karena mau antimainstream, mari kita pasang openSUSE di Raspberry Pi4. Kebetulan Raspberry Pi4 yang diuji coba memiliki RAM 8 GB, mari mencoba dengan destop GNOME yang konon katanya berat.Pada wiki Raspberry Pi4 openSUSE, tersedia pilihan openSUSE Leap dan Tumbleweed dengan berbagai macam pilihan destop (E20, XFCE, KDE, LXQT, dan X11). Tapi sampai blog ini ditulis, tidak tercantum destop GNOME disitu. Jangan khawatir, pergi ke halaman http://download.opensuse.org/ports/aarch64/distribution/leap/15.2/appliances/ dan temukan openSUSE-Leap-15.2-ARM-GNOME-raspberrypi4.aarch64.raw.xz untuk openSUSE Leap, tersedia juga image yang sama untuk Raspberry Pi3. Siapkan SD Card (direkomendasikan 8 GB dan kelas 10) dan tulis image tersebut kesitu.openSUSE Leap 15.2Awal boot sampai tampil GDM membutuhkan waktu sangat lama (kurang lebih 3 menit), tetapi setelah masuk ke destop sudah cukup responsif. Menurut wiki, ada beberapa isu yang sudah diketahui, sepertinya beberapa hal tersebut berhubungan dengan kernel. Tidak seperti di Raspbian yang memodifikasi kernelnya (dan beberapa OS lain di Raspberry Pi4 seperti Manjar0), Kernel di Raspberry Pi4 openSUSE masih menggunakan official mainline kernel dari upstream. Untuk isu tidak adanya audio, penggerak audio tidak masuk di kernel upstream dan pengembang yang terkait isu ini sedang liburan.. Perbedaan lain dengan Raspbian adalah proses boot. Pada Raspbian kernel dimuat secara langsung, sementara pada openSUSE U-Boot boot loader digunakan untuk menyediakan lingkungan boot EFI dan binari GRUB2 EFI merupakain chain-loaded untuk menyediakan layar boot grafis. Selain itu, pada openSUSE menggunakan sistem berkas Btrfs pada partisi root, kompresi diaktifkan secara bawaan untuk kinerja kartu SD yang lebih baik. Kernel pada openSUSE Leap 15.2 adalah 5.3.18.      GNOME 3.34            Penggunaan memori awal            Skor glmark2          Percobaan pertama                  Percobaan kedua                  Catatan: Sebagai bahan perbandingan, pada mesin yang sama  didapatkan skor 96 dengan menggunakan Manjaro ARM XFCE. Kemungkinan karena penggerak grafis masih menggunakan llvmpipe sehingga skor di openSUSE Leap 15.2 masih rendah.            Menjalankan LibreOffice (Flatpak)            Menjalankan Inkscape (Flatpak)            Menjalankan Gimp (rpm)            Menjalankan Chromium (rpm) 10 tab            Menjalankan LibreOffice (Flatpak), Inkscape (Flatpak), Gimp (rpm), dan Chromium (rpm) 10 tab.            Meningkatkan openSUSE Leap ke Tumbleweed    Ganti repo berikut      https://download.opensuse.org/ports/aarch64/distribution/leap/$releasever/repo/oss/  https://download.opensuse.org/ports/update/leap/$releasever/oss/        menjadi      https://download.opensuse.org/ports/aarch64/tumbleweed/repo/oss/  https://download.opensuse.org/ports/aarch64/update/tumbleweed/        Lalu jalankan perintah zypper ref dan zypper dup.        Hasilnya ada pada bagian selanjutnya.  openSUSE TumbleweedPercobaan 1Setelah berhasil meningkatkan dari openSUSE Leap ke openSUSE Tumbleweed, mari mencobanya. Waktu yang dibutuhkan dari awal boot hingga tampil GDM adalah 2,23 menit. Setelah muncul GDM, macet, tetikus dan papan tik tak dapat bergerak. Dibiarkan lama, layar menghitam. Kernel terkini pada openSUSE Tumblweed adalah 5.7.11.Percobaan 2Dicoba dengan mengunduh image openSUSE Tumbleweed GNOME Raspberry Pi4, snapshot 7 Agustus 2020. Waktu yang dibutuhkan dari awal boot hingga tampil GDM adalah 4,05 menit. Setelah muncul GDM, macet, tetikus dan papan tik tak dapat bergerak. Dibiarkan lama, layar menghitam. Kernel terkini pada openSUSE Tumblweed adalah 5.7.11.Sementara ini, openSUSE Tumbleweed masih belum bisa masuk destop. Dicoba dengan destop XFCE pun masih sama.",
+            "content_html": "<p>Raspberry Pi memiliki sistem operasi bawaan, yaitu Raspberry Pi OS (sebelumnya Raspbian) berbasis Debian Buster. Karena mau antimainstream, mari kita pasang openSUSE di Raspberry Pi4. Kebetulan Raspberry Pi4 yang diuji coba memiliki RAM 8 GB, mari mencoba dengan destop GNOME yang konon katanya berat.</p><p>Pada wiki <a href=\"https://en.opensuse.org/HCL:Raspberry_Pi4\">Raspberry Pi4 openSUSE</a>, tersedia pilihan openSUSE Leap dan Tumbleweed dengan berbagai macam pilihan destop (E20, XFCE, KDE, LXQT, dan X11). Tapi sampai blog ini ditulis, tidak tercantum destop GNOME disitu. Jangan khawatir, pergi ke halaman <a href=\"http://download.opensuse.org/ports/aarch64/distribution/leap/15.2/appliances/\">http://download.opensuse.org/ports/aarch64/distribution/leap/15.2/appliances/</a> dan temukan <a href=\"http://download.opensuse.org/ports/aarch64/distribution/leap/15.2/appliances/openSUSE-Leap-15.2-ARM-GNOME-raspberrypi4.aarch64.raw.xz\">openSUSE-Leap-15.2-ARM-GNOME-raspberrypi4.aarch64.raw.xz</a> untuk openSUSE Leap, tersedia juga image yang sama untuk Raspberry Pi3. Siapkan SD Card (direkomendasikan 8 GB dan kelas 10) dan tulis image tersebut kesitu.</p><h1 id=\"opensuse-leap-152\">openSUSE Leap 15.2</h1><p>Awal boot sampai tampil GDM membutuhkan waktu sangat lama (<strong>kurang lebih 3 menit</strong>), tetapi setelah masuk ke destop sudah cukup responsif. Menurut <a href=\"https://en.opensuse.org/HCL:Raspberry_Pi4\">wiki</a>, ada beberapa isu yang sudah diketahui, sepertinya beberapa hal tersebut berhubungan dengan kernel. Tidak seperti di Raspbian yang memodifikasi kernelnya (dan beberapa OS lain di Raspberry Pi4 seperti Manjar0), Kernel di Raspberry Pi4 openSUSE masih menggunakan official mainline kernel dari upstream. Untuk isu tidak adanya audio, <a href=\"https://lists.opensuse.org/opensuse-arm/2020-08/msg00003.html\">penggerak audio tidak masuk di kernel upstream dan pengembang yang terkait isu ini sedang liburan.</a>. Perbedaan lain dengan Raspbian adalah proses boot. Pada Raspbian kernel dimuat secara langsung, sementara pada openSUSE U-Boot boot loader digunakan untuk menyediakan lingkungan boot EFI dan binari GRUB2 EFI merupakain <em>chain-loaded</em> untuk menyediakan layar boot grafis. <del>Selain itu, pada openSUSE menggunakan sistem berkas Btrfs pada partisi root, kompresi diaktifkan secara bawaan untuk kinerja kartu SD yang lebih baik.</del> Kernel pada openSUSE Leap 15.2 adalah <code class=\"language-plaintext highlighter-rouge\">5.3.18</code>.</p><ul>  <li>    <p>GNOME 3.34</p>    <p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-22/02-leap-gnome.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-22/02-leap-gnome.png\" /></p>  </li>  <li>    <p>Penggunaan memori awal</p>    <p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-22/01-leap-htop.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-22/01-leap-htop.png\" /></p>  </li>  <li>    <p>Skor <code class=\"language-plaintext highlighter-rouge\">glmark2</code></p>    <ul>      <li>Percobaan pertama</li>    </ul>    <p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-22/03-leap-glmark2.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-22/03-leap-glmark2.png\" /></p>    <ul>      <li>Percobaan kedua</li>    </ul>    <p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-22/03-leap-glmark2-2.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-22/03-leap-glmark2-2.png\" /></p>    <ul>      <li>Catatan: Sebagai bahan perbandingan, pada mesin yang sama  didapatkan skor 96 dengan menggunakan <a href=\"https://manjaro.org/downloads/arm/raspberry-pi-4/arm8-raspberry-pi-4-xfce/\">Manjaro ARM XFCE</a>. Kemungkinan karena penggerak grafis masih menggunakan llvmpipe sehingga skor di openSUSE Leap 15.2 masih rendah.</li>    </ul>  </li>  <li>    <p>Menjalankan LibreOffice (Flatpak)</p>    <p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-22/04-leap-libreoffice.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-22/04-leap-libreoffice.png\" /></p>  </li>  <li>    <p>Menjalankan Inkscape (Flatpak)</p>    <p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-22/05-leap-inkscape.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-22/05-leap-inkscape.png\" /></p>  </li>  <li>    <p>Menjalankan Gimp (rpm)</p>    <p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-22/06-leap-gimp.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-22/06-leap-gimp.png\" /></p>  </li>  <li>    <p>Menjalankan Chromium (rpm) 10 tab</p>    <p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-22/07-leap-chromium.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-22/07-leap-chromium.png\" /></p>  </li>  <li>    <p>Menjalankan LibreOffice (Flatpak), Inkscape (Flatpak), Gimp (rpm), dan Chromium (rpm) 10 tab.</p>    <p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-22/08-leap-all.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-22/08-leap-all.png\" /></p>  </li>  <li>    <p>Meningkatkan openSUSE Leap ke Tumbleweed</p>    <p>Ganti repo berikut</p>    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>  https://download.opensuse.org/ports/aarch64/distribution/leap/$releasever/repo/oss/  https://download.opensuse.org/ports/update/leap/$releasever/oss/</code></pre></div>    </div>    <p>menjadi</p>    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>  https://download.opensuse.org/ports/aarch64/tumbleweed/repo/oss/  https://download.opensuse.org/ports/aarch64/update/tumbleweed/</code></pre></div>    </div>    <p>Lalu jalankan perintah <code class=\"language-plaintext highlighter-rouge\">zypper ref</code> dan <code class=\"language-plaintext highlighter-rouge\">zypper dup</code>.</p>    <p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-22/09-leap-upgrade-tumbleweed.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-08-22/09-leap-upgrade-tumbleweed.png\" /></p>    <p>Hasilnya ada pada bagian selanjutnya.</p>  </li></ul><h1 id=\"opensuse-tumbleweed\">openSUSE Tumbleweed</h1><h2 id=\"percobaan-1\">Percobaan 1</h2><p>Setelah berhasil meningkatkan dari openSUSE Leap ke openSUSE Tumbleweed, mari mencobanya. Waktu yang dibutuhkan dari awal boot hingga tampil GDM adalah <strong>2,23 menit</strong>. Setelah muncul GDM, macet, tetikus dan papan tik tak dapat bergerak. Dibiarkan lama, layar menghitam. Kernel terkini pada openSUSE Tumblweed adalah <code class=\"language-plaintext highlighter-rouge\">5.7.11</code>.</p><h2 id=\"percobaan-2\">Percobaan 2</h2><p>Dicoba dengan mengunduh image <a href=\"http://download.opensuse.org/ports/aarch64/tumbleweed/images/openSUSE-Tumbleweed-ARM-GNOME-raspberrypi4.aarch64-2020.07.28-Snapshot20200807.raw.xz\">openSUSE Tumbleweed GNOME Raspberry Pi4, snapshot 7 Agustus 2020</a>. Waktu yang dibutuhkan dari awal boot hingga tampil GDM adalah <strong>4,05 menit</strong>. Setelah muncul GDM, macet, tetikus dan papan tik tak dapat bergerak. Dibiarkan lama, layar menghitam. Kernel terkini pada openSUSE Tumblweed adalah <code class=\"language-plaintext highlighter-rouge\">5.7.11</code>.</p><p>Sementara ini, openSUSE Tumbleweed masih belum bisa masuk destop. Dicoba dengan destop XFCE pun masih sama.</p>",
+            "url": "https://blog.kukuh.syafaat.id/2020/openSUSE-dengan-GNOME-di-Raspberry-Pi4/",
+            
+            
+            
+            
+            
+            "date_published": "2020-08-22T00:00:00+07:00",
+            "date_modified": "2020-08-22T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2020/Membangun-Image-dengan-Kiwi/",
+            "title": "Membangun Image dengan Kiwi",
+            "summary": "Membangun Image dengan Kiwi",
+            "content_text": "Masih ingat SUSE Studio? SUSE Studio ini adalah salah satu perkakas daring untuk membangun image dan appliance atau dengan bahasa yang mudah adalah remaster. User Experience di SUSE Studio ini cukup baik sehingga kita bisa dengan mudah membangun atau meremaster distro berbasis openSUSE. Sayang sekali, di awal tahun 2018 SUSE Studio dimatikan. Peran SUSE Studio digantikan Studio Express yang masih dikembangkan (?).Teknologi dibelakang SUSE Studio adalah Kiwi. Kiwi juga digunakan pada Open Build Service. Dengan menggunakan Open Build Service atau OBS, kita bisa membangun paket aplikasi, tidak hanya .rpm pada openSUSE, tetapi juga mendukung Arch, Raspi, Debian, Fedora, RedHat, Centos, Ubuntu, Univention, Mageia, dan appimage. Dengan integrasi Kiwi di OBS, kita bisa juga membangun image dan appliance dalam berbagai format seperti  ISO, Live CD/DVD, PXEBoot, Hard Disk, USB, Amazon EC2 (.ami), Docker, Google Cloud Format (.gce), KVM/Qemu (.qcow2), Open Virtualization Format (.ovf, .ova), Vagrant (.vagrant), Virtualbox (.vdi), Virtual Hard Disk (.vhd), Vmware (.vmdk), dan Xen.Meremaster distro dengan OBS tidak se-user friendly SUSE Studio. Sampai saat ini saya masih gagal membangunnnya di OBS. Salah satu contoh distro berbasis openSUSE yang berhasil membangun imagenya di OBS adalah Kamarada. Proyek di OBS-nya dapat dilihat disini. Distro berbasis openSUSE lain yang cukup populer adalah Geckolinux, tetapi saya tidak dapat menemukannya di di OBS. Untungnya, kita bisa melihat berkas untuk membangun image-nya di GitHub.Dengan gagalnya saya membangun image di OBS, maka alternatif lainnya adalah membangun di lokal menggunakan Kiwi. Dokumentasinya cukup lengkap, begitu juga yang ditulis SUSE dalam bentuk pdf, Anda dapat mencetaknya bila perlu. Instalasinya pun cukup mudah, silakan diikuti. Saya mencobanya di openSUSE Leap 15.2 dengan cukup menjalankan perintah sudo zypper install python3-kiwi. Keterbatasan membangun image di lokal adalah kita hanya bisa membangun image berdasarkan versi sistem operasi yang kita pakai. Sebagai contoh, jika sistem operasi kita openSUSE Leap 15.2, maka kita hanya bisa membangun image berbasis openSUSE Leap 15.2, kita tidak bisa membangun image openSUSE Tumbleweed di atas openSUSE Leap 15.2.Sebagai langkah awal, kita bisa mencoba membangun image JeOS (Just Enough OS) dengan mengambil salah satu contoh dari sini.Contoh perintah untuk membangun imagenya adalahsudo kiwi-ng --type iso system build --description kiwi-descriptions/suse/x86_64/suse-leap-15.2-JeOS --target-dir /tmp/myimageImage yang sudah selesai dibangun akan ada pada direktori /tmp/myimage dengan ekstensi .iso. Lalu Anda dapat menjalankannya dengan perangkat lunak virtualisasi, misalnya GNOME Boxes. Contoh lainnya adalah Anda bisa coba membangun image berdasarkan skrip dari Geckolinux atau Kamarada. Inilah yang saya gunakan untuk proyek iseng iseng saya.Saya mencoba meremaster openSUSE Leap 15.2 dengan menggunakan Kiwi. Proyek iseng ini saya namakan Belajar, sebuah distribusi Linux tanpa terminal dan YaST, dalam format live, berisi aplikasi untuk pembelajaran seperti Gcompris, LibreOffice, Inkscape, dan GIMP. Tidak hanya itu, saya menyertakan buku Belajar Komputer Tingkat Dasar dan beberapa buku lainnya yang ditulis oleh Pak Sokibi seperti LibreOffice dan Inkscape. Kodenya dapat Anda lihat disini. Distro Belajar saya rilis hari ini, 17 Agustus 2020, sehingga saya beri kode rilis 20.08, Anda dapat mengunduhnya disini atau disini. Proyek iseng selanjutnya mungkin membangun Belajar di OBS, akan dilanjutkan jika ada waktu luang.Merdeka!!!",
+            "content_html": "<p>Masih ingat <a href=\"https://en.wikipedia.org/wiki/SUSE_Studio\">SUSE Studio</a>? SUSE Studio ini adalah salah satu perkakas daring untuk membangun image dan appliance atau dengan bahasa yang mudah adalah remaster. <em>User Experience</em> di SUSE Studio ini cukup baik sehingga kita bisa dengan mudah membangun atau meremaster distro berbasis openSUSE. Sayang sekali, di awal tahun 2018 SUSE Studio dimatikan. Peran SUSE Studio digantikan <a href=\"https://studioexpress.opensuse.org/\">Studio Express</a> yang masih dikembangkan (?).</p><p>Teknologi dibelakang SUSE Studio adalah <a href=\"https://en.opensuse.org/Portal:Kiwi\">Kiwi</a>. Kiwi juga digunakan pada <a href=\"https://openbuildservice.org/\">Open Build Service</a>. Dengan menggunakan Open Build Service atau OBS, kita bisa membangun paket aplikasi, tidak hanya .rpm pada openSUSE, tetapi juga mendukung Arch, Raspi, Debian, Fedora, RedHat, Centos, Ubuntu, Univention, Mageia, dan appimage. Dengan integrasi Kiwi di OBS, kita bisa juga membangun image dan appliance dalam berbagai format seperti  ISO, Live CD/DVD, PXEBoot, Hard Disk, USB, Amazon EC2 (.ami), Docker, Google Cloud Format (.gce), KVM/Qemu (.qcow2), Open Virtualization Format (.ovf, .ova), Vagrant (.vagrant), Virtualbox (.vdi), Virtual Hard Disk (.vhd), Vmware (.vmdk), dan Xen.</p><p>Meremaster distro dengan OBS tidak se-<em>user friendly</em> SUSE Studio. Sampai saat ini saya masih gagal membangunnnya di OBS. Salah satu contoh distro berbasis openSUSE yang berhasil membangun imagenya di OBS adalah <a href=\"https://kamarada.github.io/\">Kamarada</a>. Proyek di OBS-nya dapat dilihat <a href=\"https://build.opensuse.org/project/show/home:kamarada:15.2\">disini</a>. Distro berbasis openSUSE lain yang cukup populer adalah <a href=\"https://geckolinux.github.io/\">Geckolinux</a>, tetapi saya tidak dapat menemukannya di di OBS. Untungnya, kita bisa melihat berkas untuk membangun image-nya di <a href=\"https://github.com/geckolinux/geckolinux-project\">GitHub</a>.</p><p>Dengan gagalnya saya membangun image di OBS, maka alternatif lainnya adalah membangun di lokal menggunakan Kiwi. <a href=\"http://osinside.github.io/kiwi/\">Dokumentasinya</a> cukup lengkap, begitu juga yang ditulis <a href=\"https://documentation.suse.com/kiwi/9/pdf/kiwi_color_en.pdf\">SUSE</a> dalam bentuk pdf, Anda dapat mencetaknya bila perlu. Instalasinya pun cukup mudah, silakan <a href=\"http://osinside.github.io/kiwi/installation.html#installation-from-obs\">diikuti</a>. Saya mencobanya di openSUSE Leap 15.2 dengan cukup menjalankan perintah <code class=\"language-plaintext highlighter-rouge\">sudo zypper install python3-kiwi</code>. Keterbatasan membangun image di lokal adalah <a href=\"http://osinside.github.io/kiwi/building_images.html#supported-distributions\">kita hanya bisa membangun image berdasarkan versi sistem operasi yang kita pakai</a>. Sebagai contoh, jika sistem operasi kita openSUSE Leap 15.2, maka kita hanya bisa membangun image berbasis openSUSE Leap 15.2, kita tidak bisa membangun image openSUSE Tumbleweed di atas openSUSE Leap 15.2.</p><p>Sebagai langkah awal, kita bisa mencoba membangun image <a href=\"https://en.opensuse.org/Portal:JeOS\">JeOS</a> (Just Enough OS) dengan mengambil salah satu contoh dari <a href=\"https://github.com/OSInside/kiwi-descriptions\">sini</a>.Contoh perintah untuk membangun imagenya adalah</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>sudo kiwi-ng --type iso system build --description kiwi-descriptions/suse/x86_64/suse-leap-15.2-JeOS --target-dir /tmp/myimage</code></pre></div></div><p>Image yang sudah selesai dibangun akan ada pada direktori <code class=\"language-plaintext highlighter-rouge\">/tmp/myimage</code> dengan ekstensi <code class=\"language-plaintext highlighter-rouge\">.iso</code>. Lalu Anda dapat menjalankannya dengan perangkat lunak virtualisasi, misalnya <a href=\"https://wiki.gnome.org/Apps/Boxes\">GNOME Boxes</a>. Contoh lainnya adalah Anda bisa coba membangun image berdasarkan skrip dari <a href=\"https://github.com/geckolinux/geckolinux-project\">Geckolinux</a> atau <a href=\"https://build.opensuse.org/package/show/home:kamarada:15.2/Linux-Kamarada-GNOME\">Kamarada</a>. Inilah yang saya gunakan untuk proyek iseng iseng saya.</p><p>Saya mencoba meremaster openSUSE Leap 15.2 dengan menggunakan Kiwi. Proyek iseng ini saya namakan <a href=\"https://blog.kukuh.syafaat.id/belajar/\">Belajar</a>, sebuah distribusi Linux tanpa terminal dan YaST, dalam format live, berisi aplikasi untuk pembelajaran seperti Gcompris, LibreOffice, Inkscape, dan GIMP. Tidak hanya itu, saya menyertakan buku <a href=\"http://imgos-belajarlinux.blogspot.com/2020/06/buku-belajar-komputer-tingkat-dasar-5.html\">Belajar Komputer Tingkat Dasar</a> dan beberapa buku lainnya yang ditulis oleh Pak Sokibi seperti LibreOffice dan Inkscape. Kodenya dapat Anda lihat <a href=\"https://github.com/cho2/belajar/blob/20.08/kiwi-source.tar.xz\">disini</a>. Distro <a href=\"https://blog.kukuh.syafaat.id/belajar/\">Belajar</a> saya rilis hari ini, 17 Agustus 2020, sehingga saya beri kode rilis 20.08, Anda dapat mengunduhnya <a href=\"https://osdn.net/projects/belajar/downloads/73443/Belajar.x86_64-20.08.iso/\">disini</a> atau <a href=\"https://drive.google.com/file/d/1sulTJM8ybqmYpcG-A_DQAmNkRbYwfAKV/view?usp=sharing\">disini</a>. Proyek iseng selanjutnya mungkin membangun <a href=\"https://blog.kukuh.syafaat.id/belajar/\">Belajar</a> di OBS, akan dilanjutkan jika ada waktu luang.</p><p>Merdeka!!!</p>",
+            "url": "https://blog.kukuh.syafaat.id/2020/Membangun-Image-dengan-Kiwi/",
+            
+            
+            
+            
+            
+            "date_published": "2020-08-17T00:00:00+07:00",
+            "date_modified": "2020-08-17T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2020/Menurunkan-Versi-Flatpak/",
+            "title": "Menurunkan Versi Flatpak",
+            "summary": "Menurunkan Versi Flatpak",
+            "content_text": "  Pertanyaan: Bisa tidak ya aplikasi flatpak mau diturunkan versinya?  Jawaban: BisaBegitulah kira-kira pertanyaan yang pernah masuk, hari ini pertanyaan itu masuk lagi. Mari kita bedah. Studi kasusnya begini, Inkscape terkini adalah versi 1.0, lalu kita ingin mundur ke versi 0.92.x.Jalankan perintah berikut untuk melihat komit yang diinginkan, dalam hal ini 0.92.xflatpak remote-info --log flathub org.inkscape.InkscapeHasilnya akan tampil seperti berikutInkscape - Penyunting Grafik Vektor        ID: org.inkscape.Inkscape       Ref: app/org.inkscape.Inkscape/x86_64/stableArsitektur: x86_64    Cabang: stable     Versi: 1.0   Lisensi: GPL-2.0-or-later   Koleksi: org.flathub.Stable     Unduh: 73,9 MB Terpasang: 231,9 MB   Runtime: org.gnome.Platform/x86_64/3.36       Sdk: org.gnome.Sdk/x86_64/3.36     Komit: e60b4b9cc77bd6be468b80dfbf700dd4dcf6519389533d35dbbdbbc87c829e67     Induk: 90ed46765f25f7ca2427dbe3f46ba34646d84520f056a9719521a593c21bfda9    Subjek: Issue #11 - Make ICC profiles availble. (130edb6a)   Tanggal: 2020-06-24 22:00:07 +0000   Riwayat:      Komit: 90ed46765f25f7ca2427dbe3f46ba34646d84520f056a9719521a593c21bfda9    Subjek: Rename boost to boost-headers (6a046c85)   Tanggal: 2020-05-07 04:33:30 +0000     Komit: b38c93598ab25cf3a0d79311e0880cc5ef6b15f1e6254fb28c979e0ee426c137    Subjek: Update URL of tarball. sha256 unchanged (ec1522a7)   Tanggal: 2020-05-05 07:35:51 +0000     Komit: cab57e19c385bbea40f59ece27e0107a904421e59be0e265a25bba8aabef548e    Subjek: Issue #50 - Update Inkscape to 0.92.5 (9a3b86dc)   Tanggal: 2020-04-18 11:01:24 +0000     Komit: 1e3818e3854fef97387e9791daa67285029d2dd554d5a3bfa169cea4ef96e0d1    Subjek: GNOME runtime 3.36 (2dedac42)   Tanggal: 2020-04-07 22:18:05 +0000     Komit: 351ad9649e37ddb2e9fb2cd13d63038f243838c003e64bce972ca687abb5f353    Subjek: Issue #37, Issue #38 - Update and add stable package dependencies (CDR, WPG, Visio) (#40) (09370ef9)   Tanggal: 2019-09-24 07:55:58 +0000     Komit: 8b2330c5e85a60006a53eb8edd7b0b7f494ab63fa49cbfd0ff0749c23c284e66    Subjek: Fix #30: apply upstream patch (#31) (242d293c)   Tanggal: 2019-02-13 10:30:42 +0000     Komit: c1d9c90a180ced9dce0d99f27feb8e0d545ac3d9b96c915fe5b7234ce9cb0e37    Subjek: Update to 0.92.4 (#28) (8fb7e5d2)   Tanggal: 2019-01-18 09:02:09 +0000     Komit: 9e047b89712601d3633db288c46fe067dbfc499930ef20c70d5ce7eb7c2dbf2d    Subjek: Update platform to GNOME 3.30, dependencies (#25) (d80fce3c)   Tanggal: 2019-01-10 12:23:42 +0000     Komit: 309f33a9b30c457ede238564020cbb0ff4bfa94263dcf9bff72ce0560fe8b940    Subjek: Update ghostscript to 9.26 (#20) (4d9be1cd)   Tanggal: 2018-11-21 22:10:38 +0000     Komit: 87403c2e431dcafe45efea469d33e38b532c2e46702cc9802749c10ec300ef9d    Subjek: Update ghostscript to 9.25 (#18) (89cd58f2)   Tanggal: 2018-09-18 12:53:40 +0000Versi Inkscape 1.0 yang tersedia di Flatpak berarti 0.92.5 dengan komit cab57e19c385bbea40f59ece27e0107a904421e59be0e265a25bba8aabef548e.Langkah selanjutnya adalah deploy komit tersebut agar kita bisa menurunkan versi Inkscape ke 0.92.5, Jalankan perintah berikutflatpak update \\    --commit=cab57e19c385bbea40f59ece27e0107a904421e59be0e265a25bba8aabef548e \\    org.inkscape.InkscapeSetelah selesai, cobalah membuka Inkscape, apakah versinya sudah mundur ke 0.92.5 atau belum. Bisa juga dicek dengan perintahflatpak info org.inkscape.InkscapeHasilnya akan seperti berikutInkscape - Penyunting Grafik Vektor        ID: org.inkscape.Inkscape       Ref: app/org.inkscape.Inkscape/x86_64/stableArsitektur: x86_64    Cabang: stable     Versi: 0.92.5   Lisensi: GPL-2.0+      Asal: flathub   Koleksi: org.flathub.StablePemasangan: system Terpasang: 246,7 MB   Runtime: org.gnome.Platform/x86_64/3.36       Sdk: org.gnome.Sdk/x86_64/3.36     Komit: cab57e19c385bbea40f59ece27e0107a904421e59be0e265a25bba8aabef548e     Induk: 1e3818e3854fef97387e9791daa67285029d2dd554d5a3bfa169cea4ef96e0d1    Subjek: Issue #50 - Update Inkscape to 0.92.5 (9a3b86dc)   Tanggal: 2020-04-18 11:01:24 +0000Untuk mengembalikan ke versi terkini, cukup jalankanflatpak update org.inkscape.InkscapeMudah bukan? Jika Anda familiar dengan git apakah teringat dengan sesuatu?",
+            "content_html": "<ul>  <li>Pertanyaan: Bisa tidak ya aplikasi flatpak mau diturunkan versinya?</li>  <li>Jawaban: Bisa</li></ul><p>Begitulah kira-kira pertanyaan yang pernah masuk, hari ini pertanyaan itu masuk lagi. Mari kita bedah. Studi kasusnya begini, Inkscape terkini adalah versi 1.0, lalu kita ingin mundur ke versi 0.92.x.</p><p>Jalankan perintah berikut untuk melihat komit yang diinginkan, dalam hal ini 0.92.x</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>flatpak remote-info --log flathub org.inkscape.Inkscape</code></pre></div></div><p>Hasilnya akan tampil seperti berikut</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>Inkscape - Penyunting Grafik Vektor        ID: org.inkscape.Inkscape       Ref: app/org.inkscape.Inkscape/x86_64/stableArsitektur: x86_64    Cabang: stable     Versi: 1.0   Lisensi: GPL-2.0-or-later   Koleksi: org.flathub.Stable     Unduh: 73,9 MB Terpasang: 231,9 MB   Runtime: org.gnome.Platform/x86_64/3.36       Sdk: org.gnome.Sdk/x86_64/3.36     Komit: e60b4b9cc77bd6be468b80dfbf700dd4dcf6519389533d35dbbdbbc87c829e67     Induk: 90ed46765f25f7ca2427dbe3f46ba34646d84520f056a9719521a593c21bfda9    Subjek: Issue #11 - Make ICC profiles availble. (130edb6a)   Tanggal: 2020-06-24 22:00:07 +0000   Riwayat:      Komit: 90ed46765f25f7ca2427dbe3f46ba34646d84520f056a9719521a593c21bfda9    Subjek: Rename boost to boost-headers (6a046c85)   Tanggal: 2020-05-07 04:33:30 +0000     Komit: b38c93598ab25cf3a0d79311e0880cc5ef6b15f1e6254fb28c979e0ee426c137    Subjek: Update URL of tarball. sha256 unchanged (ec1522a7)   Tanggal: 2020-05-05 07:35:51 +0000     Komit: cab57e19c385bbea40f59ece27e0107a904421e59be0e265a25bba8aabef548e    Subjek: Issue #50 - Update Inkscape to 0.92.5 (9a3b86dc)   Tanggal: 2020-04-18 11:01:24 +0000     Komit: 1e3818e3854fef97387e9791daa67285029d2dd554d5a3bfa169cea4ef96e0d1    Subjek: GNOME runtime 3.36 (2dedac42)   Tanggal: 2020-04-07 22:18:05 +0000     Komit: 351ad9649e37ddb2e9fb2cd13d63038f243838c003e64bce972ca687abb5f353    Subjek: Issue #37, Issue #38 - Update and add stable package dependencies (CDR, WPG, Visio) (#40) (09370ef9)   Tanggal: 2019-09-24 07:55:58 +0000     Komit: 8b2330c5e85a60006a53eb8edd7b0b7f494ab63fa49cbfd0ff0749c23c284e66    Subjek: Fix #30: apply upstream patch (#31) (242d293c)   Tanggal: 2019-02-13 10:30:42 +0000     Komit: c1d9c90a180ced9dce0d99f27feb8e0d545ac3d9b96c915fe5b7234ce9cb0e37    Subjek: Update to 0.92.4 (#28) (8fb7e5d2)   Tanggal: 2019-01-18 09:02:09 +0000     Komit: 9e047b89712601d3633db288c46fe067dbfc499930ef20c70d5ce7eb7c2dbf2d    Subjek: Update platform to GNOME 3.30, dependencies (#25) (d80fce3c)   Tanggal: 2019-01-10 12:23:42 +0000     Komit: 309f33a9b30c457ede238564020cbb0ff4bfa94263dcf9bff72ce0560fe8b940    Subjek: Update ghostscript to 9.26 (#20) (4d9be1cd)   Tanggal: 2018-11-21 22:10:38 +0000     Komit: 87403c2e431dcafe45efea469d33e38b532c2e46702cc9802749c10ec300ef9d    Subjek: Update ghostscript to 9.25 (#18) (89cd58f2)   Tanggal: 2018-09-18 12:53:40 +0000</code></pre></div></div><p>Versi Inkscape 1.0 yang tersedia di Flatpak berarti <code class=\"language-plaintext highlighter-rouge\">0.92.5</code> dengan komit <code class=\"language-plaintext highlighter-rouge\">cab57e19c385bbea40f59ece27e0107a904421e59be0e265a25bba8aabef548e</code>.</p><p>Langkah selanjutnya adalah deploy komit tersebut agar kita bisa menurunkan versi Inkscape ke <code class=\"language-plaintext highlighter-rouge\">0.92.5</code>, Jalankan perintah berikut</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>flatpak update \\    --commit=cab57e19c385bbea40f59ece27e0107a904421e59be0e265a25bba8aabef548e \\    org.inkscape.Inkscape</code></pre></div></div><p>Setelah selesai, cobalah membuka Inkscape, apakah versinya sudah mundur ke <code class=\"language-plaintext highlighter-rouge\">0.92.5</code> atau belum. Bisa juga dicek dengan perintah</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>flatpak info org.inkscape.Inkscape</code></pre></div></div><p>Hasilnya akan seperti berikut</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>Inkscape - Penyunting Grafik Vektor        ID: org.inkscape.Inkscape       Ref: app/org.inkscape.Inkscape/x86_64/stableArsitektur: x86_64    Cabang: stable     Versi: 0.92.5   Lisensi: GPL-2.0+      Asal: flathub   Koleksi: org.flathub.StablePemasangan: system Terpasang: 246,7 MB   Runtime: org.gnome.Platform/x86_64/3.36       Sdk: org.gnome.Sdk/x86_64/3.36     Komit: cab57e19c385bbea40f59ece27e0107a904421e59be0e265a25bba8aabef548e     Induk: 1e3818e3854fef97387e9791daa67285029d2dd554d5a3bfa169cea4ef96e0d1    Subjek: Issue #50 - Update Inkscape to 0.92.5 (9a3b86dc)   Tanggal: 2020-04-18 11:01:24 +0000</code></pre></div></div><p>Untuk mengembalikan ke versi terkini, cukup jalankan</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>flatpak update org.inkscape.Inkscape</code></pre></div></div><p>Mudah bukan? Jika Anda familiar dengan <code class=\"language-plaintext highlighter-rouge\">git</code> apakah teringat dengan sesuatu?</p>",
+            "url": "https://blog.kukuh.syafaat.id/2020/Menurunkan-Versi-Flatpak/",
+            
+            
+            
+            
+            
+            "date_published": "2020-08-13T00:00:00+07:00",
+            "date_modified": "2020-08-13T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2020/Gimpscape-Artweek/",
+            "title": "Gimpscape Artweek 2020 - Survei Pengguna Inkscape",
+            "summary": "Gimpscape Artweek 2020 - Survei Pengguna Inkscape",
+            "content_text": "Sebelumnya penulis mengucapkan selamat atas terselenggaranya Gimpscape Artweek tahun ini, hal ini menunjukkan bahwa minat pengguna terhadap penggunaan perangkat lunak grafis bebas dan terbuka masih besar. Donasi yang terkumpul pada acara tersebut juga sudah didistribusikan ke beberapa proyek perangkat lunak grafis bebas dan terbuka, antara lain Inkscape, Krita, Gimp, Blender, FontForge, dan Synfig.Pada kesempatan itu, penulis berkesempatan membawakan materi Translasi Inkscape dan melakukan survei kecil-kecilan. Apakah Inkscape perlu ditranslasikan?Dari 91 responden yang masuk, 90 diantaranya merupakan pengguna Inkscape yang sebagian besar menjalankan Inkscape di sistem operasi Linux (sebesar 56,7%) serta didominasi oleh pengguna Ubuntu dan/atau turunannya (sebesar 60%). 51,5% menyatakan bahwa Inkscape perlu ditranslasikan. Bagian yang perlu ditranslasikan secara berurut yaitu:  Tutorials (87%)  Manual Pages (73,9%)  Website (63%)  Release Notes (60,9%)  User Interface (58,7%)  Keys and Mouse Preferences (45,7%)  Windows Installer (37%)  Templates (34,8%)",
+            "content_html": "<p>Sebelumnya penulis mengucapkan selamat atas terselenggaranya <a href=\"https://artweek.gimpscape.org/\">Gimpscape Artweek</a> tahun ini, hal ini menunjukkan bahwa minat pengguna terhadap penggunaan perangkat lunak grafis bebas dan terbuka masih besar. Donasi yang terkumpul pada acara tersebut juga sudah <a href=\"https://twitter.com/gimpscape/status/1278925409367650305\">didistribusikan</a> ke beberapa proyek perangkat lunak grafis bebas dan terbuka, antara lain Inkscape, Krita, Gimp, Blender, FontForge, dan Synfig.</p><p>Pada kesempatan itu, penulis berkesempatan membawakan materi <a href=\"https://blog.kukuh.syafaat.id/slides/Gimpscape-Artweek-2020/inkscape-l10n.pdf\">Translasi Inkscape</a> dan melakukan survei kecil-kecilan. Apakah Inkscape perlu ditranslasikan?</p><p>Dari 91 responden yang masuk, 90 diantaranya merupakan pengguna Inkscape yang sebagian besar menjalankan Inkscape di sistem operasi Linux (sebesar 56,7%) serta didominasi oleh pengguna Ubuntu dan/atau turunannya (sebesar 60%). 51,5% menyatakan bahwa Inkscape perlu ditranslasikan. Bagian yang perlu ditranslasikan secara berurut yaitu:</p><ol>  <li>Tutorials (87%)</li>  <li>Manual Pages (73,9%)</li>  <li>Website (63%)</li>  <li>Release Notes (60,9%)</li>  <li>User Interface (58,7%)</li>  <li>Keys and Mouse Preferences (45,7%)</li>  <li>Windows Installer (37%)</li>  <li>Templates (34,8%)</li></ol><iframe width=\"600\" height=\"450\" src=\"https://datastudio.google.com/embed/reporting/e2109c41-817e-491a-8c97-195eb57896c4/page/LXsWB\" frameborder=\"0\" style=\"border:0\" allowfullscreen=\"\"></iframe>",
+            "url": "https://blog.kukuh.syafaat.id/2020/Gimpscape-Artweek/",
+            
+            
+            
+            
+            
+            "date_published": "2020-07-05T00:00:00+07:00",
+            "date_modified": "2020-07-05T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2020/Menjalankan-Swagger-Editor-dengan-Docker/",
+            "title": "Menjalankan Swagger Editor dengan Docker",
+            "summary": "Menjalankan Swagger Editor dengan Docker",
+            "content_text": "Jadi ceritanya, ada kebutuhan membaca dokumentasi, supaya mudah membacanya  maka dokumentasi tersebut dibuka Swagger editor. Alih-alih menggunakan npm, Swagger editor dijalankan di lokal dengan menggunakan Docker.Tahapannya:  Pastikan sudah memasang docker dan service-nya jalan  Tarik image swagger-editor    docker pull swaggerapi/swagger-editor        Jalankan swagger-editor di lokal    docker run -d -p 80:8080 swaggerapi/swagger-editor        Buka alamat http://localhost di peramban kesayangan Anda  Swagger editor telah siapSelamat mencoba!Referensi: https://github.com/swagger-api/swagger-editor",
+            "content_html": "<p>Jadi ceritanya, ada kebutuhan membaca dokumentasi, supaya mudah membacanya  maka dokumentasi tersebut dibuka Swagger editor. Alih-alih menggunakan <code class=\"language-plaintext highlighter-rouge\">npm</code>, Swagger editor dijalankan di lokal dengan menggunakan Docker.</p><p>Tahapannya:</p><ul>  <li>Pastikan sudah memasang <code class=\"language-plaintext highlighter-rouge\">docker</code> dan service-nya jalan</li>  <li>Tarik image <code class=\"language-plaintext highlighter-rouge\">swagger-editor</code>    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>docker pull swaggerapi/swagger-editor</code></pre></div>    </div>  </li>  <li>Jalankan <code class=\"language-plaintext highlighter-rouge\">swagger-editor</code> di lokal    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>docker run -d -p 80:8080 swaggerapi/swagger-editor</code></pre></div>    </div>  </li>  <li>Buka alamat <code class=\"language-plaintext highlighter-rouge\">http://localhost</code> di peramban kesayangan Anda</li>  <li>Swagger editor telah siap</li></ul><p>Selamat mencoba!</p><p>Referensi: <a href=\"https://github.com/swagger-api/swagger-editor\">https://github.com/swagger-api/swagger-editor</a></p>",
+            "url": "https://blog.kukuh.syafaat.id/2020/Menjalankan-Swagger-Editor-dengan-Docker/",
+            
+            
+            
+            
+            
+            "date_published": "2020-06-26T00:00:00+07:00",
+            "date_modified": "2020-06-26T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2020/Trying-openSUSE-MicroOS-Desktop-Alpha/",
+            "title": "Trying openSUSE MicroOS Desktop Alpha",
+            "summary": "Trying openSUSE MicroOS Desktop Alpha",
+            "content_text": "Tested with GNOME Boxes on Snapshot20200528. More about MicroOS, read on the the wiki.Install  Download latest MicroOS iso.  Boot the iso.  On the System Role section, choose “MicroOS Desktop” (I choose GNOME).  Finish installation as usual, then reboot.After Install  Login (gnome-display-manager).  Desktop (gnome-shell).  About (gnome-control-center).  podman installed by default.          run hello-world.        flatpak installed by default.          got error when running flatpak remotes and flatpak list.      got error when add flatpak remotes.      add flatpak remotes with --user.      Install Firefox Flatpak.      Run Firefox Flatpak.        snapper.  zypper.      transactional-update.    After install with transactional-update, there will be new snapshot, reboot to new snapshot.    neofetch after install with transactional-update.  New snapshot after installation with transactional-update.",
+            "content_html": "<p>Tested with <a href=\"https://wiki.gnome.org/Apps/Boxes\">GNOME Boxes</a> on <code class=\"language-plaintext highlighter-rouge\">Snapshot20200528</code>. More about <a href=\"https://en.opensuse.org/Kubic:MicroOS\">MicroOS, read on the the wiki</a>.</p><h1 id=\"install\">Install</h1><ul>  <li>Download latest <a href=\"https://download.opensuse.org/tumbleweed/iso/\">MicroOS iso</a>.</li>  <li>Boot the iso.</li>  <li>On the System Role section, choose “MicroOS Desktop” (I choose GNOME).<img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/system-role.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/system-role.png\" /></li>  <li>Finish installation as usual, then reboot.</li></ul><h1 id=\"after-install\">After Install</h1><ul>  <li>Login (<code class=\"language-plaintext highlighter-rouge\">gnome-display-manager</code>).<img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/gdm.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/gdm.png\" /></li>  <li>Desktop (<code class=\"language-plaintext highlighter-rouge\">gnome-shell</code>).<img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/shell-1.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/shell-1.png\" /><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/shell-2.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/shell-2.png\" /><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/shell-menu.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/shell-menu.png\" /></li>  <li>About (<code class=\"language-plaintext highlighter-rouge\">gnome-control-center</code>).<img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/about.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/about.png\" /></li>  <li><code class=\"language-plaintext highlighter-rouge\">podman</code> installed by default.<img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/podman.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/podman.png\" />    <ul>      <li>run <code class=\"language-plaintext highlighter-rouge\">hello-world</code>.<img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/podman-hello.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/podman-hello.png\" /></li>    </ul>  </li>  <li><code class=\"language-plaintext highlighter-rouge\">flatpak</code> installed by default.<img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/flatpak.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/flatpak.png\" />    <ul>      <li>got error when running <code class=\"language-plaintext highlighter-rouge\">flatpak remotes</code> and <code class=\"language-plaintext highlighter-rouge\">flatpak list</code>.<img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/flatpak-list-remotes.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/flatpak-list-remotes.png\" /></li>      <li>got error when add flatpak remotes.<img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/flatpak-remote-add.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/flatpak-remote-add.png\" /></li>      <li>add flatpak remotes with <code class=\"language-plaintext highlighter-rouge\">--user</code>.<img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/flatpak-remote-add-user.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/flatpak-remote-add-user.png\" /></li>      <li>Install Firefox Flatpak.<img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/install-firefox-flatpak.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/install-firefox-flatpak.png\" /></li>      <li>Run Firefox Flatpak.<img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/run-firefox-flatpak.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/run-firefox-flatpak.png\" /></li>    </ul>  </li>  <li><code class=\"language-plaintext highlighter-rouge\">snapper</code>.<img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/snapper%20list.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/snapper%20list.png\" /></li>  <li><code class=\"language-plaintext highlighter-rouge\">zypper</code>.<img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/zypper.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/zypper.png\" /></li>  <li>    <p><code class=\"language-plaintext highlighter-rouge\">transactional-update</code>.<img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/transactional-update.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/transactional-update.png\" /></p>    <p>After install with <code class=\"language-plaintext highlighter-rouge\">transactional-update</code>, there will be new snapshot, reboot to new snapshot.<img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/transactional-update-2.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/transactional-update-2.png\" /></p>  </li>  <li><code class=\"language-plaintext highlighter-rouge\">neofetch</code> after install with <code class=\"language-plaintext highlighter-rouge\">transactional-update</code>.<img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/neofetch.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/neofetch.png\" /></li>  <li>New snapshot after installation with <code class=\"language-plaintext highlighter-rouge\">transactional-update</code>.<img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/snapper-list-2.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-06-01/snapper-list-2.png\" /></li></ul>",
+            "url": "https://blog.kukuh.syafaat.id/2020/Trying-openSUSE-MicroOS-Desktop-Alpha/",
+            
+            
+            
+            
+            
+            "date_published": "2020-06-01T00:00:00+07:00",
+            "date_modified": "2020-06-01T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2020/Install-Collabora-Office-Snapshot-on-openSUSE-Tumbleweed/",
+            "title": "Install Collabora Office (Snapshot) on openSUSE Tumbleweed",
+            "summary": "Install Collabora Office (Snapshot) on openSUSE Tumbleweed",
+            "content_text": "What is Collabora Office? Collabora Office is the enterprise office suite of LibreOffice, the world’s most widely used Open Source office suite.Have you ever try Collabora Office? Let’s try the latest snapshot. You can also try it on openSUSE Leap.      Download and import key      wget https://www.collaboraoffice.com/Collabora-Office-6.2-Snapshot/Linux/yum/repodata/repomd.xml.key &amp;&amp; sudo rpm --import repomd.xml.key            Add repository      sudo zypper addrepo 'https://www.collaboraoffice.com/Collabora-Office-6.2-Snapshot/Linux/yum' 'Collabora Office 6.2 Snapshot'            Refresh      sudo zypper ref            Install      sudo zypper install collaboraoffice            Enjoy!  ",
+            "content_html": "<p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-05-21/collabora-office.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-05-21/collabora-office.png\" /></p><p>What is Collabora Office? Collabora Office is the enterprise office suite of LibreOffice, the world’s most widely used Open Source office suite.</p><p>Have you ever try Collabora Office? Let’s try the latest snapshot. You can also try it on openSUSE Leap.</p><ul>  <li>    <p>Download and import key</p>    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>  wget https://www.collaboraoffice.com/Collabora-Office-6.2-Snapshot/Linux/yum/repodata/repomd.xml.key &amp;&amp; sudo rpm --import repomd.xml.key</code></pre></div>    </div>  </li>  <li>    <p>Add repository</p>    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>  sudo zypper addrepo 'https://www.collaboraoffice.com/Collabora-Office-6.2-Snapshot/Linux/yum' 'Collabora Office 6.2 Snapshot'</code></pre></div>    </div>  </li>  <li>    <p>Refresh</p>    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>  sudo zypper ref</code></pre></div>    </div>  </li>  <li>    <p>Install</p>    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>  sudo zypper install collaboraoffice</code></pre></div>    </div>  </li>  <li>    <p>Enjoy!</p>  </li></ul>",
+            "url": "https://blog.kukuh.syafaat.id/2020/Install-Collabora-Office-Snapshot-on-openSUSE-Tumbleweed/",
+            
+            
+            
+            
+            
+            "date_published": "2020-05-21T00:00:00+07:00",
+            "date_modified": "2020-05-21T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2020/Install-Katalon-Studio-on-openSUSE/",
+            "title": "Install Katalon Studio on openSUSE Leap",
+            "summary": "Install Katalon Studio on openSUSE Leap",
+            "content_text": "  Sign up to Katalon web. If you already have an account, please Sign In.  Download Katalon Studio for Linux.  The file name will be Katalon_Studio_Linux_64-{version}.tar.gz. Extract it.  Install OpenJDK (Please use OpenJDK 8 instead of 11)    sudo zypper in java-1_8_0-openjdk        Go to Katalon Studio directory    cd Katalon_Studio_Linux_64-{version}/        Run Katalon    ./katalon        Sign in with your account  Enjoy Katalon Studio  Additional set-up for Mobile and Web Services see Katalon Studio for Linux.",
+            "content_html": "<p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-05-18/katalon-leap.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-05-18/katalon-leap.png\" /></p><ul>  <li>Sign up to <a href=\"https://www.katalon.com/sign-up/\">Katalon</a> web. If you already have an account, please <a href=\"https://www.katalon.com/sign-in/\">Sign In</a>.</li>  <li>Download <a href=\"https://www.katalon.com/download/\">Katalon Studio for Linux</a>.</li>  <li>The file name will be <code class=\"language-plaintext highlighter-rouge\">Katalon_Studio_Linux_64-{version}.tar.gz</code>. Extract it.</li>  <li>Install OpenJDK (Please use <a href=\"https://forum.katalon.com/t/how-to-launch-katalon-studio-in-opensuse-15-1/33108/2\">OpenJDK 8</a> instead of 11)    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>sudo zypper in java-1_8_0-openjdk</code></pre></div>    </div>  </li>  <li>Go to Katalon Studio directory    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>cd Katalon_Studio_Linux_64-{version}/</code></pre></div>    </div>  </li>  <li>Run Katalon    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>./katalon</code></pre></div>    </div>  </li>  <li>Sign in with your account</li>  <li>Enjoy Katalon Studio</li>  <li>Additional set-up for Mobile and Web Services see <a href=\"https://docs.katalon.com/katalon-studio/docs/katalon-studio-gui-beta-for-linux.html\">Katalon Studio for Linux</a>.</li></ul>",
+            "url": "https://blog.kukuh.syafaat.id/2020/Install-Katalon-Studio-on-openSUSE/",
+            
+            
+            
+            
+            
+            "date_published": "2020-05-18T00:00:00+07:00",
+            "date_modified": "2020-05-18T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2020/Install-Pop-Shell-on-openSUSE-Tumbleweed/",
+            "title": "Install Pop Shell on openSUSE Tumbleweed",
+            "summary": "Install Pop Shell on openSUSE Tumbleweed",
+            "content_text": "  Idea: Bring Pop Shell Window Tiling Extension to openSUSE Tumbleweed  Note: It only works on Xorg (https://github.com/pop-os/shell/issues/166)  Requirements:          GNOME Shell 3.36      TypeScript 3.8      GNU Make            Install dependencies    sudo zypper in typescript make git            Build &amp; Install    git clone https://github.com/pop-os/shellcd shell./rebuild.sh       Extra: Install Pop Shell Shortcuts      Install dependencies    sudo zypper in cargo rust gtk3-devel            Build &amp; Install    git clone https://github.com/pop-os/shell-shortcutscd shell-shortcutsmakesudo make install      Extra Pt. 2: Remove Pop Shell &amp; Reset Keyboard Shortcutsrm -r ~/.local/share/gnome-shell/extensions/pop-shell@system76.comEnjoy!References:  How To Install Pop Shell Window Tiling Extension  Pop Shell Repository  Pop Shell Shortcuts",
+            "content_html": "<p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-05-07/Tumbleweed-Tiling.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-05-07/Tumbleweed-Tiling.png\" /></p><ul>  <li>Idea: Bring Pop Shell Window Tiling Extension to openSUSE Tumbleweed</li>  <li>Note: It only works on Xorg (https://github.com/pop-os/shell/issues/166)</li>  <li>Requirements:    <ul>      <li>GNOME Shell 3.36</li>      <li>TypeScript 3.8</li>      <li>GNU Make</li>    </ul>  </li>  <li>    <p>Install dependencies</p>    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>sudo zypper in typescript make git</code></pre></div>    </div>  </li>  <li>    <p>Build &amp; Install</p>    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>git clone https://github.com/pop-os/shellcd shell./rebuild.sh </code></pre></div>    </div>  </li></ul><h2 id=\"extra-install-pop-shell-shortcuts\">Extra: Install Pop Shell Shortcuts</h2><ul>  <li>    <p>Install dependencies</p>    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>sudo zypper in cargo rust gtk3-devel</code></pre></div>    </div>  </li>  <li>    <p>Build &amp; Install</p>    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>git clone https://github.com/pop-os/shell-shortcutscd shell-shortcutsmakesudo make install</code></pre></div>    </div>  </li></ul><h2 id=\"extra-pt-2-remove-pop-shell--reset-keyboard-shortcuts\">Extra Pt. 2: Remove Pop Shell &amp; Reset Keyboard Shortcuts</h2><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>rm -r ~/.local/share/gnome-shell/extensions/pop-shell@system76.com</code></pre></div></div><p><strong>Enjoy!</strong></p><hr /><p>References:</p><ul>  <li><a href=\"https://www.linuxuprising.com/2020/05/how-to-install-pop-shell-tiling.html\">How To Install Pop Shell Window Tiling Extension</a></li>  <li><a href=\"https://github.com/pop-os/shell\">Pop Shell Repository</a></li>  <li><a href=\"https://github.com/pop-os/shell-shortcuts\">Pop Shell Shortcuts</a></li></ul>",
+            "url": "https://blog.kukuh.syafaat.id/2020/Install-Pop-Shell-on-openSUSE-Tumbleweed/",
+            
+            
+            
+            
+            
+            "date_published": "2020-05-07T00:00:00+07:00",
+            "date_modified": "2020-05-07T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2020/Silverbue-31-32/",
+            "title": "Upgrade Silverblue 31 ke 32",
+            "summary": "Upgrade Silverblue 31 ke 32",
+            "content_text": "Tentang Silverblue bisa dibaca disini dan disini. Fedora 32 baru saja rilis dengan berbagai macam pemutakhiran, maka bagi yang sudah memasang Silverblue sebelumnya juga dapat melakukan peningkatan versi dari 31 ke 32 (mengikuti Fedora). Caranya:$ rpm-ostree rebase fedora/32/x86_64/silverblueSelamat memutakhirkan!",
+            "content_html": "<p><img src=\"https://silverblue.fedoraproject.org/public/silverblue-logo.svg\" alt=\"https://silverblue.fedoraproject.org/public/silverblue-logo.svg\" /></p><p>Tentang Silverblue bisa dibaca <a href=\"https://silverblue.fedoraproject.org/\">disini</a> dan <a href=\"https://docs.fedoraproject.org/en-US/fedora-silverblue/\">disini</a>. Fedora 32 baru saja <a href=\"https://fedoramagazine.org/announcing-fedora-32/\">rilis</a> dengan <a href=\"https://fedoramagazine.org/announcing-fedora-32/\">berbagai macam pemutakhiran</a>, maka bagi yang sudah memasang Silverblue sebelumnya juga dapat melakukan peningkatan versi dari 31 ke 32 (<a href=\"https://fedoramagazine.org/upgrading-fedora-31-to-fedora-32/\">mengikuti Fedora</a>). Caranya:</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>$ rpm-ostree rebase fedora/32/x86_64/silverblue</code></pre></div></div><p>Selamat memutakhirkan!</p>",
+            "url": "https://blog.kukuh.syafaat.id/2020/Silverbue-31-32/",
+            
+            
+            
+            
+            
+            "date_published": "2020-05-02T00:00:00+07:00",
+            "date_modified": "2020-05-02T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2020/KonPeTI/",
+            "title": "Konferensi Pekerja Teknologi Informasi (KonPeTI)",
+            "summary": "Konferensi Pekerja Teknologi Informasi (KonPeTI)",
+            "content_text": "Sudah mendaftar sebagai peserta di Konferensi Pekerja Teknologi Informasi (KonPeTI)?Ayo #GerakDariRumah segera daftarkan diri Anda dan sampai jumpa di udara.Agenda lengkap di: https://s.klas.or.id/konpetiagendaDaftar dan Peduli Lawan Covid-19 di: https://s.klas.or.id/konpetipepSubscribe juga gaes https://youtube.com/channel/UCCbwiY0s1XaY2iBZM6f428wKonferensi Pekerja Teknologi Informasi (KonPeTI) merupakan bagian dari kegiatan #GerakDariRumah. Kegiatan ini mempertemukan pengguna, pebisnis, pengembang, pelajar dan profesional Teknologi Informasi (TI) dari seluruh belahan dunia. Kegiatan ini dilaksanankan secara daring dengan format penyajian utama, lokakarya, penyajian paralel, bicara kilat, dan diskusi panel. Sasaran dari kegiatan ini adalah masyarakat umum Indonesia yang menginginkan pengetahuan baru seputar TI sekaligus berdonasi untuk pihak terdampak wabah COVID-19 di Indonesia. Materi yang disajikan dan dibahas mulai dari tingkat pemula sampai tingkat mahir. KonPeTI akan diselenggarakan pada Sabtu, 18 April 2020.",
+            "content_html": "<p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-04-12/poster-pendaftaran-peserta-story-size.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-04-12/poster-pendaftaran-peserta-story-size.png\" /></p><p>Sudah mendaftar sebagai peserta di Konferensi Pekerja Teknologi Informasi (KonPeTI)?</p><p>Ayo #GerakDariRumah segera daftarkan diri Anda dan sampai jumpa di udara.</p><p>Agenda lengkap di: https://s.klas.or.id/konpetiagenda</p><p>Daftar dan Peduli Lawan Covid-19 di: https://s.klas.or.id/konpetipep</p><p>Subscribe juga gaes https://youtube.com/channel/UCCbwiY0s1XaY2iBZM6f428w</p><p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-04-12/Kukuh%20Syafaat-15.00.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-04-12/Kukuh%20Syafaat-15.00.png\" /></p><p>Konferensi Pekerja Teknologi Informasi (KonPeTI) merupakan bagian dari kegiatan #GerakDariRumah. Kegiatan ini mempertemukan pengguna, pebisnis, pengembang, pelajar dan profesional Teknologi Informasi (TI) dari seluruh belahan dunia. Kegiatan ini dilaksanankan secara daring dengan format penyajian utama, lokakarya, penyajian paralel, bicara kilat, dan diskusi panel. Sasaran dari kegiatan ini adalah masyarakat umum Indonesia yang menginginkan pengetahuan baru seputar TI sekaligus berdonasi untuk pihak terdampak wabah COVID-19 di Indonesia. Materi yang disajikan dan dibahas mulai dari tingkat pemula sampai tingkat mahir. KonPeTI akan diselenggarakan pada Sabtu, 18 April 2020.</p>",
+            "url": "https://blog.kukuh.syafaat.id/2020/KonPeTI/",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-12T00:00:00+07:00",
+            "date_modified": "2020-04-12T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2020/Menjalankan-Pandoc-dengan-Docker/",
+            "title": "Menjalankan Pandoc dengan Docker",
+            "summary": "Menjalankan Pandoc dengan Docker",
+            "content_text": "Postingan sebelumnya tentang Pandoc dijalankan pada openSUSE Tumbleweed. Karena hari ini kebetulan sedang pegang komputer dengan openSUSE Leap, maka coba mengikuti panduan pada postingan tersebut dan hasilnya galat.Coba mampir ke halaman cara memasang Pandoc, ada bagian Docker. Mari kita coba saja. Pastikan Anda sudah memasang Docker dan servicenya jalan. Pada halaman tersebut, terdapat dua macam image Docker, yaitu:  The pandoc/core image contains pandoc and pandoc-citeproc.  The pandoc/latex image also contains the minimal LaTeX installation needed to produce PDFs using pandoc.Saya ambil yang kedua karena kebutuhan untuk membuat PDF. Langkahnya  Tarik image Docker pandoc/latex      docker pull pandoc/latex        Jalankan perintah sederhana untuk konversi berkas markdown ke PDF.      docker run --rm --volume \"`pwd`:/data\" --user `id -u`:`id -g` pandoc/latex berkas.md -o berkas.pdf      Voila!Selamat mencoba!–Catatan:  Yang belum dicoba, menjalankan dengan menggunakan podman alih-alih docker  Bonus:          Ekspor ke berkas PDF dengan tampilan landscape          docker run --rm --volume \"`pwd`:/data\" --user `id -u`:`id -g` pandoc/latex berkas.md -V geometry:landscape -f markdown -o berkas.pdf                    Ekspor ke berkas PDF dengan pengaturan margin          docker run --rm --volume \"`pwd`:/data\" --user `id -u`:`id -g` pandoc/latex berkas.md -V geometry:\"top=2cm, bottom=1.5cm, left=1cm, right=1cm\" -o berkas.pdf                    ",
+            "content_html": "<p><a href=\"https://blog.kukuh.syafaat.id/2020/Konversi-Berkas-Markdown-ke-PDF-dengan-Pandoc/\">Postingan sebelumnya tentang Pandoc</a> dijalankan pada <a href=\"https://software.opensuse.org/distributions/tumbleweed\">openSUSE Tumbleweed</a>. Karena hari ini kebetulan sedang pegang komputer dengan <a href=\"https://software.opensuse.org/distributions/leap\">openSUSE Leap</a>, maka coba mengikuti panduan pada postingan tersebut dan hasilnya galat.</p><p>Coba mampir ke halaman <a href=\"https://pandoc.org/installing.html\">cara memasang Pandoc</a>, ada bagian Docker. Mari kita coba saja. Pastikan Anda sudah memasang Docker dan servicenya jalan. Pada halaman tersebut, terdapat dua macam image Docker, yaitu:</p><blockquote>  <p>The <code class=\"language-plaintext highlighter-rouge\">pandoc/core</code> image contains pandoc and pandoc-citeproc.</p></blockquote><blockquote>  <p>The <code class=\"language-plaintext highlighter-rouge\">pandoc/latex</code> image also contains the minimal LaTeX installation needed to produce PDFs using pandoc.</p></blockquote><p>Saya ambil yang kedua karena kebutuhan untuk membuat PDF. Langkahnya</p><ul>  <li>Tarik image Docker <code class=\"language-plaintext highlighter-rouge\">pandoc/latex</code>    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>  docker pull pandoc/latex</code></pre></div>    </div>  </li>  <li>Jalankan perintah sederhana untuk konversi berkas markdown ke PDF.    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>  docker run --rm --volume \"`pwd`:/data\" --user `id -u`:`id -g` pandoc/latex berkas.md -o berkas.pdf</code></pre></div>    </div>  </li></ul><p>Voila!</p><p>Selamat mencoba!</p><p>–</p><p>Catatan:</p><ul>  <li>Yang belum dicoba, menjalankan dengan menggunakan <code class=\"language-plaintext highlighter-rouge\">podman</code> alih-alih <code class=\"language-plaintext highlighter-rouge\">docker</code></li>  <li>Bonus:    <ul>      <li>Ekspor ke berkas PDF dengan tampilan <em>landscape</em>        <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>  docker run --rm --volume \"`pwd`:/data\" --user `id -u`:`id -g` pandoc/latex berkas.md -V geometry:landscape -f markdown -o berkas.pdf</code></pre></div>        </div>      </li>      <li>Ekspor ke berkas PDF dengan pengaturan margin        <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>  docker run --rm --volume \"`pwd`:/data\" --user `id -u`:`id -g` pandoc/latex berkas.md -V geometry:\"top=2cm, bottom=1.5cm, left=1cm, right=1cm\" -o berkas.pdf</code></pre></div>        </div>      </li>    </ul>  </li></ul>",
+            "url": "https://blog.kukuh.syafaat.id/2020/Menjalankan-Pandoc-dengan-Docker/",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-07T00:00:00+07:00",
+            "date_modified": "2020-04-07T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2020/Firefox-Flatpak/",
+            "title": "Firefox Flatpak",
+            "summary": "",
+            "content_text": "Melanjutkan pos sebelumnya tentang Firefox Flatpak, hari ini Firefox Flatpak sudah mendarat di Flathub. Cara memasangnya, jalankanflatpak install flathub org.mozilla.firefoxVersi yang terpasang adalah 75.0. Selamat mencoba!Bacaan lain:  Shipping official Firefox Flatpaks",
+            "content_html": "<p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-04-06/firefox-flatpak.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-04-06/firefox-flatpak.png\" /></p><p>Melanjutkan pos sebelumnya tentang <a href=\"https://blog.kukuh.syafaat.id/2020/Firefox-Flatpak-Beta/\">Firefox Flatpak</a>, hari ini Firefox Flatpak sudah mendarat di <a href=\"https://flathub.org/apps/details/org.mozilla.firefox\">Flathub</a>. Cara memasangnya, jalankan</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>flatpak install flathub org.mozilla.firefox</code></pre></div></div><p>Versi yang terpasang adalah 75.0. Selamat mencoba!</p><p>Bacaan lain:</p><ul>  <li><a href=\"https://mihaitabara.github.io/2020/04/15/shipping-official-firefox-flatpaks.html\">Shipping official Firefox Flatpaks</a></li></ul>",
+            "url": "https://blog.kukuh.syafaat.id/2020/Firefox-Flatpak/",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-06T00:00:00+07:00",
+            "date_modified": "2020-04-06T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.kukuh.syafaat.id/2020/GNOME-3.36/",
+            "title": "GNOME 3.36",
+            "summary": "GNOME 3.36",
+            "content_text": "  Berita  Catatan rilisSelamat!",
+            "content_html": "<p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-03-12/336-fullcolor.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-03-12/336-fullcolor.png\" /></p><ul>  <li><a href=\"https://www.gnome.org/news/2020/03/gnome-3-36-released/\">Berita</a></li>  <li><a href=\"https://help.gnome.org/misc/release-notes/3.36/\">Catatan rilis</a></li></ul><p>Selamat!</p>",
+            "url": "https://blog.kukuh.syafaat.id/2020/GNOME-3.36/",
+            
+            
+            
+            
+            
+            "date_published": "2020-03-12T00:00:00+07:00",
+            "date_modified": "2020-03-12T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        }
+    
+    ]
+}

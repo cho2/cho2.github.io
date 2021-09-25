@@ -1,62 +1,92 @@
+site: blog.kukuh.syafaat.id
+title: blog.kukuh.syafaat.id
+greetings: blog.kukuh.syafaat.id
+description: >-
+  blog blog blog
+lang: id-ID
+timezone:  Asia/Jakarta
+#repo: https://github.com/cho2/cho2.github.io # site repo [optional]
+data-theme: light # default theme "dark" | "light"
 
-# SEO settings
-title_left    : "blog.kukuh."
-title_right   : "syafaat.id" # default: ""
-description   : "blog.kukuh.syafaat.id"
-keywords      : "cho2, Kukuh Syafaat, blog.kukuh.syafaat.id"
-url           : https://blog.kukuh.syafaat.id # site url
-baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
-cover         : "" # image uri like logo/cover image for site seo
-
-
-google_analytics  : UA-XXXXX-XX
-repo              : http://github.com/cho2/cho2.github.io
-twitter_username  : "cho2MLHC"
-comments_enabled  : false # if enabled (set to true), please provide your disqus_username
-disqus_shortname  : ""
-postshare_enabled : true
-
-# Build settings
-permalink   : /:year/:title/
-markdown    : kramdown
-highlighter : rouge
-
-source: ./
-destination: ./_site
-
-# Sass configuration
-sass:
-  sass_dir: assets/scss
-  style: compressed # expanded
-
-# Author settings
 author:
-  name     : "Kukuh Syafaat"
-  job      : ""
-  bio      : "Free/Open Source Software Enthusiast & Part-Time Musician"
-  thumb    : /images/author.jpg
-  email    : kukuh@syafaat.id
-  url      : https://kukuh.syafaat.id
-  github   : https://github.com/cho2
-  twitter  : https://twitter.com/cho2MLHC
-  facebook : https://www.facebook.com/cho2mlhc
-  linkedin : http://id.linkedin.com/in/kukuhsyafaat/
+  name: Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)
+  bio: FOSS Enthusiast & Part Time Musician
+  userpicture: https://pbs.twimg.com/profile_images/817666937068994561/WH1WefHR_400x400.jpg
+  username: cho2 # general username
+  github: cho2 # github username
+  twitter: cho2MLHC # twitter username
+  email: kukuh@syafaat.id # email adress
 
-# social settings
-og_locale: "en_US"
-twitter_card: "summary_large_image"
-twitter_site: "@cho2MLHC"
+# Font Settings
+googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900
+
+# URL settings
+url: "https://blog.kukuh.syafaat.id" # Domain Name of host. [username].github.io for github pages
+baseurl: "/" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
+permalink: pretty
+
+# local
+# url: "http://localhost:4000" # 
+# baseurl: "" # 
+
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+
+exclude:
+  - .jekyll-cache
+  - .obsidian
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+  - CONTRIBUTING.md
+  
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+
+sass:
+  sass_dir: _sass
+  style: compressed
 
 plugins:
-  - jekyll-sitemap
-  - bourbon
   - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-relative-links
 
-# navbar pages
-navbar:
-  - slug : about
-    title: About
-  - slug : blog
-    title: Blog
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:year/:title/
+  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
 
-exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md", "script"]
+relative_links:
+  enabled:     true
+  collections: false
+
+

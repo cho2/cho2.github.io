@@ -4,13 +4,47 @@
  <title>blog.kukuh.syafaat.id</title>
  <link href="https://blog.kukuh.syafaat.id//atom.xml" rel="self"/>
  <link href="https://blog.kukuh.syafaat.id//"/>
- <updated>2021-09-25T21:58:40+07:00</updated>
+ <updated>2021-10-31T14:06:24+07:00</updated>
  <id>https://blog.kukuh.syafaat.id</id>
  <author>
    <name>Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)</name>
    <email>kukuh@syafaat.id</email>
  </author>
 
+ 
+ <entry>
+   <title>Virtualbox di openSUSE MicroOS Desktop</title>
+   <link href="https://blog.kukuh.syafaat.id//2021/Virtualbox-MicroOS/"/>
+   <updated>2021-10-31T00:00:00+07:00</updated>
+   <id>https://blog.kukuh.syafaat.id/2021/Virtualbox-MicroOS</id>
+   <content type="html">&lt;p&gt;Apakah bisa memasang Virtualbox di openSUSE MicroOS Desktop? Bisa, pasti bisa.&lt;/p&gt;
+
+&lt;h1 id=&quot;memasang-virtualbox&quot;&gt;Memasang Virtualbox&lt;/h1&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sudo tukit execute bash
+    # zypper ref
+    # zypper in virtualbox-qt
+    # usermod -a -G vboxusers &amp;lt;myuser&amp;gt;
+    # exit
+$ sudo reboot
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h1 id=&quot;memasang-extension-pack&quot;&gt;Memasang Extension Pack&lt;/h1&gt;
+&lt;p&gt;Pastikan Anda sudah reboot ke snapshot terbaru setelah memasang Virtualbox pada langkah di atas.&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sudo tukit execute bash
+    # cd /tmp
+    # LatestVirtualBoxVersion=$(wget -qO - https://download.virtualbox.org/virtualbox/LATEST-STABLE.TXT) &amp;amp;&amp;amp; wget &quot;https://download.virtualbox.org/virtualbox/${LatestVirtualBoxVersion}/Oracle_VM_VirtualBox_Extension_Pack-${LatestVirtualBoxVersion}.vbox-extpack&quot;
+    # VBoxManage extpack install --replace Oracle_VM_VirtualBox_Extension_Pack-${LatestVirtualBoxVersion}.vbox-extpack
+    # exit
+$ sudo reboot
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Mudah bukan, selamat mencoba!&lt;/p&gt;
+
+&lt;p&gt;Have fun!&lt;/p&gt;
+
+&lt;p&gt;Sumber: &lt;a href=&quot;https://opensuse.github.io/openSUSE-docs-revamped-temp/microos_getting_started/#installing-virtualbox&quot;&gt;https://opensuse.github.io/openSUSE-docs-revamped-temp/microos_getting_started/#installing-virtualbox&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>GNOME 41</title>

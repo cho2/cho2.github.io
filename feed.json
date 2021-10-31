@@ -17,6 +17,30 @@
 "items": [
     
         {
+            "id": "https://blog.kukuh.syafaat.id/2021/Virtualbox-MicroOS/",
+            "title": "Virtualbox di openSUSE MicroOS Desktop",
+            "summary": "Virtualbox di openSUSE MicroOS Desktop",
+            "content_text": "Apakah bisa memasang Virtualbox di openSUSE MicroOS Desktop? Bisa, pasti bisa.Memasang Virtualbox$ sudo tukit execute bash    # zypper ref    # zypper in virtualbox-qt    # usermod -a -G vboxusers &lt;myuser&gt;    # exit$ sudo rebootMemasang Extension PackPastikan Anda sudah reboot ke snapshot terbaru setelah memasang Virtualbox pada langkah di atas.$ sudo tukit execute bash    # cd /tmp    # LatestVirtualBoxVersion=$(wget -qO - https://download.virtualbox.org/virtualbox/LATEST-STABLE.TXT) &amp;&amp; wget \"https://download.virtualbox.org/virtualbox/${LatestVirtualBoxVersion}/Oracle_VM_VirtualBox_Extension_Pack-${LatestVirtualBoxVersion}.vbox-extpack\"    # VBoxManage extpack install --replace Oracle_VM_VirtualBox_Extension_Pack-${LatestVirtualBoxVersion}.vbox-extpack    # exit$ sudo rebootMudah bukan, selamat mencoba!Have fun!Sumber: https://opensuse.github.io/openSUSE-docs-revamped-temp/microos_getting_started/#installing-virtualbox",
+            "content_html": "<p>Apakah bisa memasang Virtualbox di openSUSE MicroOS Desktop? Bisa, pasti bisa.</p><h1 id=\"memasang-virtualbox\">Memasang Virtualbox</h1><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>$ sudo tukit execute bash    # zypper ref    # zypper in virtualbox-qt    # usermod -a -G vboxusers &lt;myuser&gt;    # exit$ sudo reboot</code></pre></div></div><h1 id=\"memasang-extension-pack\">Memasang Extension Pack</h1><p>Pastikan Anda sudah reboot ke snapshot terbaru setelah memasang Virtualbox pada langkah di atas.</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>$ sudo tukit execute bash    # cd /tmp    # LatestVirtualBoxVersion=$(wget -qO - https://download.virtualbox.org/virtualbox/LATEST-STABLE.TXT) &amp;&amp; wget \"https://download.virtualbox.org/virtualbox/${LatestVirtualBoxVersion}/Oracle_VM_VirtualBox_Extension_Pack-${LatestVirtualBoxVersion}.vbox-extpack\"    # VBoxManage extpack install --replace Oracle_VM_VirtualBox_Extension_Pack-${LatestVirtualBoxVersion}.vbox-extpack    # exit$ sudo reboot</code></pre></div></div><p>Mudah bukan, selamat mencoba!</p><p>Have fun!</p><p>Sumber: <a href=\"https://opensuse.github.io/openSUSE-docs-revamped-temp/microos_getting_started/#installing-virtualbox\">https://opensuse.github.io/openSUSE-docs-revamped-temp/microos_getting_started/#installing-virtualbox</a></p>",
+            "url": "https://blog.kukuh.syafaat.id/2021/Virtualbox-MicroOS/",
+            
+            
+            
+            
+            
+            "date_published": "2021-10-31T00:00:00+07:00",
+            "date_modified": "2021-10-31T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
             "id": "https://blog.kukuh.syafaat.id/2021/GNOME-41/",
             "title": "GNOME 41",
             "summary": "GNOME 41",
@@ -846,30 +870,6 @@
             
             "date_published": "2020-04-06T00:00:00+07:00",
             "date_modified": "2020-04-06T00:00:00+07:00",
-            
-                "author":  {
-                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
-                "url": null,
-                "avatar": null
-                }
-                
-            
-        },
-    
-        {
-            "id": "https://blog.kukuh.syafaat.id/2020/GNOME-3.36/",
-            "title": "GNOME 3.36",
-            "summary": "GNOME 3.36",
-            "content_text": "  Berita  Catatan rilisSelamat!",
-            "content_html": "<p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-03-12/336-fullcolor.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-03-12/336-fullcolor.png\" /></p><ul>  <li><a href=\"https://www.gnome.org/news/2020/03/gnome-3-36-released/\">Berita</a></li>  <li><a href=\"https://help.gnome.org/misc/release-notes/3.36/\">Catatan rilis</a></li></ul><p>Selamat!</p>",
-            "url": "https://blog.kukuh.syafaat.id/2020/GNOME-3.36/",
-            
-            
-            
-            
-            
-            "date_published": "2020-03-12T00:00:00+07:00",
-            "date_modified": "2020-03-12T00:00:00+07:00",
             
                 "author":  {
                 "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",

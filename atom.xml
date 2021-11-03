@@ -4,13 +4,34 @@
  <title>blog.kukuh.syafaat.id</title>
  <link href="https://blog.kukuh.syafaat.id//atom.xml" rel="self"/>
  <link href="https://blog.kukuh.syafaat.id//"/>
- <updated>2021-10-31T14:06:24+07:00</updated>
+ <updated>2021-11-03T09:10:50+07:00</updated>
  <id>https://blog.kukuh.syafaat.id</id>
  <author>
    <name>Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)</name>
    <email>kukuh@syafaat.id</email>
  </author>
 
+ 
+ <entry>
+   <title>Upgrade Silverblue 34 ke 35</title>
+   <link href="https://blog.kukuh.syafaat.id//2021/Silverblue-34-35/"/>
+   <updated>2021-11-03T00:00:00+07:00</updated>
+   <id>https://blog.kukuh.syafaat.id/2021/Silverblue-34-35</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://silverblue.fedoraproject.org/public/silverblue-logo.svg&quot; alt=&quot;https://silverblue.fedoraproject.org/public/silverblue-logo.svg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tentang Silverblue bisa dibaca &lt;a href=&quot;https://silverblue.fedoraproject.org/&quot;&gt;disini&lt;/a&gt; dan &lt;a href=&quot;https://docs.fedoraproject.org/en-US/fedora-silverblue/&quot;&gt;disini&lt;/a&gt;. Fedora 35 sudah &lt;a href=&quot;https://fedoramagazine.org/announcing-fedora-35/&quot;&gt;rilis&lt;/a&gt;. Bagi yang sudah memasang Silverblue juga dapat melakukan peningkatan versi dari 34 ke 35. Caranya&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ rpm-ostree rebase fedora:fedora/35/x86_64/silverblue
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Ingin rollback ke snapshot sebelumnya? Cukup jalankan perintah berikut&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ rpm-ostree rollback
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Selamat mencoba!&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Virtualbox di openSUSE MicroOS Desktop</title>

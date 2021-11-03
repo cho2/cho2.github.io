@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Upgrade Silverblue 34 ke 35",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//2021/Silverblue-34-35/",
+      "date"     : "2021-11-03 00:00:00 +0700"
+    } ,
+  
+    {
       "title"    : "Virtualbox di openSUSE MicroOS Desktop",
       "category" : "",
       "tags"     : "",

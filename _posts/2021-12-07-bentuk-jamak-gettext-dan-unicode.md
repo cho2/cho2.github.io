@@ -31,7 +31,7 @@ Plural-Forms: nplurals=1; plural=0;
 - Jamak: `There are %d items bla bla bla`
 
 # Kesimpulan
-- Kembali ke nplurals=1
+- Kembali ke `nplurals=1`
 - Jika menemui kasus seperti di atas, laporkan sebagai kutu
 
 ---

@@ -4,7 +4,7 @@
  <title>blog.kukuh.syafaat.id</title>
  <link href="https://blog.kukuh.syafaat.id//atom.xml" rel="self"/>
  <link href="https://blog.kukuh.syafaat.id//"/>
- <updated>2021-11-07T09:58:25+07:00</updated>
+ <updated>2021-11-07T10:01:06+07:00</updated>
  <id>https://blog.kukuh.syafaat.id</id>
  <author>
    <name>Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)</name>
@@ -20,7 +20,7 @@
    <content type="html">&lt;p&gt;Pos ini merupakan pemutakhiran dari &lt;a href=&quot;https://blog.kukuh.syafaat.id/2019/Bentuk-Jamak-Untuk-Format-gettext/&quot;&gt;pos sebelumnya&lt;/a&gt;. Seperti saya tulis &lt;a href=&quot;https://github.com/gnome-id/l10n-plural-string#pemutakhiran-2021&quot;&gt;disini&lt;/a&gt;, ini adalah hasil diskusi singkat saya dengan Pak &lt;a href=&quot;https://www.linkedin.com/in/atriwidada/&quot;&gt;Andika Triwidada&lt;/a&gt;, di kanal telegram GNOME l10n ID. Seperti sudah ditulis &lt;a href=&quot;https://i14i.andika.info/index.php?title=Halaman_Utama#Bentuk_Jamak&quot;&gt;disini&lt;/a&gt;, mana yang benar identifikasi bentuk jamak untuk bahasa Indonesia? Apakah yang digunakan gettext? Atau Unicode?&lt;/p&gt;
 
 &lt;h1 id=&quot;gnu-gettext&quot;&gt;GNU gettext&lt;/h1&gt;
-&lt;p&gt;Lihat https://www.gnu.org/software/gettext/manual/html_node/Plural-forms.html.&lt;/p&gt;
+&lt;p&gt;Lihat &lt;a href=&quot;https://www.gnu.org/software/gettext/manual/html_node/Plural-forms.html&quot;&gt;https://www.gnu.org/software/gettext/manual/html_node/Plural-forms.html&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Two forms, singular used for one onl This is the form used in most existing programs since it is what English is using. A header entry would look like this:&lt;/p&gt;
 
@@ -30,7 +30,7 @@
 &lt;p&gt;(Note: this uses the feature of C expressions that boolean expressions have to value zero or one.) Languages with this property include: Austronesian family: Bahasa Indonesian&lt;/p&gt;
 
 &lt;h1 id=&quot;unicode&quot;&gt;Unicode&lt;/h1&gt;
-&lt;p&gt;https://unicode-org.github.io/cldr-staging/charts/37/supplemental/language_plural_rules.html&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://unicode-org.github.io/cldr-staging/charts/37/supplemental/language_plural_rules.html&quot;&gt;https://unicode-org.github.io/cldr-staging/charts/37/supplemental/language_plural_rules.html&lt;/a&gt;&lt;/p&gt;
 
 &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Plural-Forms: nplurals=1; plural=0;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;

@@ -4,7 +4,7 @@
  <title>blog.kukuh.syafaat.id</title>
  <link href="https://blog.kukuh.syafaat.id//atom.xml" rel="self"/>
  <link href="https://blog.kukuh.syafaat.id//"/>
- <updated>2021-11-07T10:09:19+07:00</updated>
+ <updated>2022-11-18T19:50:38+07:00</updated>
  <id>https://blog.kukuh.syafaat.id</id>
  <author>
    <name>Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)</name>
@@ -1310,7 +1310,7 @@ Pemasangan: system
   &lt;li&gt;
     &lt;p&gt;Add repository&lt;/p&gt;
 
-    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  sudo zypper addrepo 'https://www.collaboraoffice.com/Collabora-Office-6.2-Snapshot/Linux/yum' 'Collabora Office 6.2 Snapshot'
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  sudo zypper addrepo &apos;https://www.collaboraoffice.com/Collabora-Office-6.2-Snapshot/Linux/yum&apos; &apos;Collabora Office 6.2 Snapshot&apos;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -1860,7 +1860,7 @@ Selamat mencoba!&lt;/p&gt;
  </entry>
  
  <entry>
-   <title>Mengatasi galat invalid 'depends_on macos' value pada Brew</title>
+   <title>Mengatasi galat invalid &apos;depends_on macos&apos; value pada Brew</title>
    <link href="https://blog.kukuh.syafaat.id//2019/Mengatasi-Cask-definition-is-invalid/"/>
    <updated>2019-12-10T00:00:00+07:00</updated>
    <id>https://blog.kukuh.syafaat.id/2019/Mengatasi-Cask-definition-is-invalid</id>
@@ -1869,13 +1869,13 @@ Selamat mencoba!&lt;/p&gt;
 &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;brew cask reinstall spotify                                                                      
 ==&amp;gt; Downloading https://download.scdn.co/Spotify.dmg
 Already downloaded: /Users/cho2/Library/Caches/Homebrew/downloads/5ef9b045e7e6dfeb70b32abfa9ca2da11e85c9b27ab7f6403658ddb1fcfdc00a--Spotify.dmg
-==&amp;gt; No SHA-256 checksum defined for Cask 'spotify', skipping verification.
-Error: Cask 'spotify' definition is invalid: invalid 'depends_on macos' value: &quot;&amp;gt;= :lion&quot;
+==&amp;gt; No SHA-256 checksum defined for Cask &apos;spotify&apos;, skipping verification.
+Error: Cask &apos;spotify&apos; definition is invalid: invalid &apos;depends_on macos&apos; value: &quot;&amp;gt;= :lion&quot;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Googling kesana-kemari, solusinya jalankan&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;/usr/bin/find &quot;$(brew --prefix)/Caskroom/&quot;*'/.metadata' -type f -name '*.rb' -print0 | /usr/bin/xargs -0 /usr/bin/perl -i -pe 's/depends_on macos: \[.*?\]//gsm;s/depends_on macos: .*//g'
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;/usr/bin/find &quot;$(brew --prefix)/Caskroom/&quot;*&apos;/.metadata&apos; -type f -name &apos;*.rb&apos; -print0 | /usr/bin/xargs -0 /usr/bin/perl -i -pe &apos;s/depends_on macos: \[.*?\]//gsm;s/depends_on macos: .*//g&apos;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;seperti yang dijelaskan &lt;a href=&quot;https://github.com/Homebrew/homebrew-cask/issues/58046&quot;&gt;disini&lt;/a&gt;.&lt;/p&gt;
@@ -3325,7 +3325,7 @@ Sampai jumpa pada acara berikutnya.&lt;/p&gt;
 
 &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# helloworld dan perintilannya
 
-$ echo $'#!/bin/sh\necho hello world' &amp;gt; hello.sh
+$ echo $&apos;#!/bin/sh\necho hello world&apos; &amp;gt; hello.sh
 $ flatpak build-init appdir com.example.App \
           org.freedesktop.Sdk \
           org.freedesktop.Platform 1.6
@@ -4583,7 +4583,7 @@ Group photo at Tokyo SkyTree (photo taken from Edwin Zakaria’s Camera)&lt;/p&g
 &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo sh -c 'echo -e &quot;[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com/yumrepos/vscode\nenabled=1\ntype=rpm-md\ngpgcheck=1\ngpgkey=https://packages.microsoft.com/keys/microsoft.asc&quot; &amp;amp;gt; /etc/zypp/repos.d/vscode.repo'
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo sh -c &apos;echo -e &quot;[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com/yumrepos/vscode\nenabled=1\ntype=rpm-md\ngpgcheck=1\ngpgkey=https://packages.microsoft.com/keys/microsoft.asc&quot; &amp;amp;gt; /etc/zypp/repos.d/vscode.repo&apos;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Perbarui repositori Anda&lt;/p&gt;

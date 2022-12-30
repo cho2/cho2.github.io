@@ -4,13 +4,96 @@
  <title>blog.kukuh.syafaat.id</title>
  <link href="https://blog.kukuh.syafaat.id//atom.xml" rel="self"/>
  <link href="https://blog.kukuh.syafaat.id//"/>
- <updated>2022-11-25T11:18:30+07:00</updated>
+ <updated>2022-12-30T13:01:42+07:00</updated>
  <id>https://blog.kukuh.syafaat.id</id>
  <author>
    <name>Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)</name>
    <email>k@syafaat.id</email>
  </author>
 
+ 
+ <entry>
+   <title>Catatan Akhir Tahun 2022</title>
+   <link href="https://blog.kukuh.syafaat.id//2022/catatan-2022/"/>
+   <updated>2022-12-31T00:00:00+07:00</updated>
+   <id>https://blog.kukuh.syafaat.id/2022/catatan-2022</id>
+   <content type="html">&lt;p&gt;Ternyata sepanjang tahun 2022 ini saya tidak menulis satu pos apapaun di blog ini karena kondisi sedang tidak baik, maka di akhir tahun ini saya coba rangkum, kalau ada bagian yang terlewat, mungkin saya terlupa, mohon maaf. Berikut rangkuman kegiatan FOSS yang saya ikuti di 2022.&lt;/p&gt;
+
+&lt;h1 id=&quot;maret&quot;&gt;Maret&lt;/h1&gt;
+&lt;h2 id=&quot;gnome-42&quot;&gt;GNOME 42&lt;/h2&gt;
+&lt;p&gt;Rilis &lt;a href=&quot;https://release.gnome.org/42/&quot;&gt;GNOME 42&lt;/a&gt;, kontributor tetap di &lt;a href=&quot;https://l10n.gnome.org/teams/id/&quot;&gt;l10n&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;juni&quot;&gt;Juni&lt;/h1&gt;
+&lt;h2 id=&quot;opensuse-conference&quot;&gt;openSUSE Conference&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://events.opensuse.org/conferences/oSC22&quot;&gt;openSUSE Conference 2022&lt;/a&gt;, meramaikan daring saja.&lt;/p&gt;
+
+&lt;h1 id=&quot;juli&quot;&gt;Juli&lt;/h1&gt;
+&lt;h2 id=&quot;guadec&quot;&gt;GUADEC&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://events.gnome.org/event/77/&quot;&gt;GUADEC 2022&lt;/a&gt; berlangsung &lt;em&gt;hybrid&lt;/em&gt;, daring dan tatap muka di Guadalajara, Mexico. Hadir daring di &lt;a href=&quot;https://meet.gnome.org/&quot;&gt;meet.gnome.org&lt;/a&gt;, hanya beberapa sesi saja karena masalah zona waktu (mulai jam 21.00, selesai di 03.00 UTC+7).&lt;/p&gt;
+
+&lt;h2 id=&quot;opensuse-id&quot;&gt;openSUSE-ID&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://opensuse.id/2022/07/23/15-tahun-opensuse-id/&quot;&gt;15 tahun openSUSE-ID&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;agustus&quot;&gt;Agustus&lt;/h1&gt;
+&lt;h2 id=&quot;nest-with-fedora&quot;&gt;Nest With Fedora&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://hopin.com/events/nest-with-fedora-2022&quot;&gt;Nest with Fedora 2022&lt;/a&gt;, nongkrong-nongkrong aja di hopin.&lt;/p&gt;
+
+&lt;h2 id=&quot;libreoffice-translation--qa&quot;&gt;LibreOffice Translation &amp;amp; QA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://libreoffice.id/posts/translation-qa-2022/&quot;&gt;LibreOffice Translation &amp;amp; QA&lt;/a&gt; bersama &lt;em&gt;the one and only&lt;/em&gt; Pak Andika Triwidada selaku penerjemah FOSS seumur hidup. Nongkrong daring aja. Versi tatap mukanya ada di Bogor dan Gresik. Foto-foto lengkapnya ada &lt;a href=&quot;https://album.raniaamina.id/index.php?/category/libreoffice-id-translation-2022&quot;&gt;disini&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;september&quot;&gt;September&lt;/h1&gt;
+&lt;h2 id=&quot;opensuseasia-summit&quot;&gt;openSUSE.Asia Summit&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://events.opensuse.org/conferences/oSAS22&quot;&gt;openSUSE.Asia Summit 2022&lt;/a&gt;, kali ini meramaikan saja via daring.&lt;/p&gt;
+
+&lt;h2 id=&quot;libreoffice-conference&quot;&gt;LibreOffice Conference&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://conference.libreoffice.org/2022/&quot;&gt;LibreOffice Conference&lt;/a&gt;, &lt;em&gt;hybrid&lt;/em&gt;, tatap mukanya di Milan, Italia sono, nongkrong daring aja.&lt;/p&gt;
+
+&lt;h2 id=&quot;gnome-43&quot;&gt;GNOME 43&lt;/h2&gt;
+&lt;p&gt;Rilis &lt;a href=&quot;https://release.gnome.org/43/&quot;&gt;GNOME 43&lt;/a&gt;, (masih) kontributor tetap di &lt;a href=&quot;https://l10n.gnome.org/teams/id/&quot;&gt;l10n&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;oktober&quot;&gt;Oktober&lt;/h1&gt;
+&lt;h2 id=&quot;opensuse-id-1&quot;&gt;openSUSE-ID&lt;/h2&gt;
+&lt;p&gt;openSUSE-ID turun gunung juga akhirnya. &lt;a href=&quot;https://opensuse.id/2022/09/09/opensuse-id-meet-up/&quot;&gt;Meetup tatap muka pertama&lt;/a&gt;. Belum bisa ikutan hadir, jadi bantu-bantu saja di belakang layar. Ringkasannya ada &lt;a href=&quot;https://github.com/opensuse-id/meetups/tree/main/221001&quot;&gt;disini&lt;/a&gt;. Acara ini sebenarnya juga acara regional untuk openSUSE.Asia Summit 2022.&lt;/p&gt;
+
+&lt;h2 id=&quot;akademy&quot;&gt;Akademy&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://akademy.kde.org/2022&quot;&gt;Akademy 2022&lt;/a&gt;, &lt;em&gt;hybrid&lt;/em&gt;, tatap mukanya di Barcelona, Spanyol, nongkrong daring aja lagi.&lt;/p&gt;
+
+&lt;h1 id=&quot;november&quot;&gt;November&lt;/h1&gt;
+&lt;h2 id=&quot;fedora-37-release-party&quot;&gt;Fedora 37 Release Party&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://hopin.com/events/fedora-linux-37-release-party&quot;&gt;Fedora Linux 37 Release Party&lt;/a&gt;, nongkrong-nongkrong aja di hopin (lagi).&lt;/p&gt;
+
+&lt;h2 id=&quot;ilc&quot;&gt;ILC&lt;/h2&gt;
+
+&lt;p&gt;ILC (Indonesia Linux Conference) nongol lagi dengan segala keramaiannya, ulasan saya dapat dibaca &lt;a href=&quot;https://opensuse.id/2022/11/12/opensuse-id-di-indonesia-linux-conference-2022/&quot;&gt;disini&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;ubuntu-summit&quot;&gt;Ubuntu Summit&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://events.canonical.com/event/2/&quot;&gt;Ubuntu Summit 2022&lt;/a&gt;, ngrecokin aja perkara WSL, hehe.&lt;/p&gt;
+
+&lt;h2 id=&quot;ubucon-asia&quot;&gt;UbuCon Asia&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://2022.ubucon.asia/&quot;&gt;UbuCon Asia 2022&lt;/a&gt; tatap muka pertama nih di Seoul, Korea Selatan, &lt;em&gt;hybrid&lt;/em&gt; juga sebenernya, meramaikan daring saja karena ada pembicara dari ID.&lt;/p&gt;
+
+&lt;h1 id=&quot;desember&quot;&gt;Desember&lt;/h1&gt;
+&lt;h2 id=&quot;gnomeasia&quot;&gt;GNOME.Asia&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://events.gnome.org/event/100/&quot;&gt;GNOME Asia Summit 2022&lt;/a&gt; di KL, MY, &lt;em&gt;hybrid&lt;/em&gt;. Sepi, tidak meriah, kurang terorganisir untuk yang daring, padahal ada beberapa sesi yang menarik. meramaikan daring saja karena ada pembicara dari ID lagi.&lt;/p&gt;
+
+&lt;h2 id=&quot;opensuse-id-2&quot;&gt;openSUSE-ID&lt;/h2&gt;
+&lt;p&gt;openSUSE-ID bikin &lt;a href=&quot;https://opensuse.id/2022/12/12/opensuse-id-meet-up-desember-2022/&quot;&gt;meetup akhir tahun&lt;/a&gt;. Masih belum bisa hadir, meramaikan via YouTube saja dari jauh dan bantu-bantu di belakang layar. Ringkasannya ada &lt;a href=&quot;https://github.com/opensuse-id/meetups/tree/main/221217&quot;&gt;disini&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Btw, buat yang mau jadi pembicara atau memberikan dukungan tempat meetup, boleh kontak-kontak di &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;humas@opensuse.id&lt;/code&gt; ya.&lt;/p&gt;
+
+&lt;h1 id=&quot;lainnya&quot;&gt;Lainnya&lt;/h1&gt;
+&lt;h2 id=&quot;flatpakflathub&quot;&gt;Flatpak/Flathub&lt;/h2&gt;
+&lt;p&gt;Bantu-bantu di &lt;a href=&quot;https://github.com/flathub&quot;&gt;Flathub KDE&lt;/a&gt;, untuk KDE Edu dan Games. Juga app lain seperti Inkscape, dll.&lt;/p&gt;
+
+&lt;h2 id=&quot;l10n&quot;&gt;l10n&lt;/h2&gt;
+&lt;p&gt;Masih tetap kontribusi ke l10n di &lt;a href=&quot;https://l10n.gnome.org/teams/id/&quot;&gt;GNOME&lt;/a&gt; dan &lt;a href=&quot;https://l10n.opensuse.org/&quot;&gt;openSUSE&lt;/a&gt;. Belakangan saya baru tahu kalau termasuk &lt;a href=&quot;https://i14i.andika.info/mediawiki/index.php/Tim_Palugada&quot;&gt;Tim Palugada&lt;/a&gt; 😀.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Sampai jumpa di tahun 2023, mudah-mudahan kita semua sehat selalu!&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Bentuk Jamak gettext dan Unicode</title>

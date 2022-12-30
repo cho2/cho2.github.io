@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Catatan Akhir Tahun 2022",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//2022/catatan-2022/",
+      "date"     : "2022-12-31 00:00:00 +0700"
+    } ,
+  
+    {
       "title"    : "Bentuk Jamak gettext dan Unicode",
       "category" : "",
       "tags"     : "",

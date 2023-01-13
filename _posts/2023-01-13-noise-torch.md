@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "NoiseTorch, Nois Canceling App di Linux"
-description: "NoiseTorch, Nois Canceling App di Linux"
+title: "NoiseTorch, Noise Canceling App di Linux"
+description: "NoiseTorch, Noise Canceling App di Linux"
 comments: false
 keywords: "Linux"
 ---

@@ -4,13 +4,28 @@
  <title>blog.kukuh.syafaat.id</title>
  <link href="https://blog.kukuh.syafaat.id//atom.xml" rel="self"/>
  <link href="https://blog.kukuh.syafaat.id//"/>
- <updated>2022-12-31T09:13:12+07:00</updated>
+ <updated>2023-01-13T09:30:41+07:00</updated>
  <id>https://blog.kukuh.syafaat.id</id>
  <author>
    <name>Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)</name>
    <email>k@syafaat.id</email>
  </author>
 
+ 
+ <entry>
+   <title>NoiseTorch, Nois Canceling App di Linux</title>
+   <link href="https://blog.kukuh.syafaat.id//2023/noise-torch/"/>
+   <updated>2023-01-13T00:00:00+07:00</updated>
+   <id>https://blog.kukuh.syafaat.id/2023/noise-torch</id>
+   <content type="html">&lt;p&gt;Pernahkah Anda terganggu ketika sedang rapat daring lalu ada suara-suara nyasar? Misalnya sedang bahas topik serius lalu ada tukang bakso lewat? Kejadian begini sering Saya alami tapi di lawan bicara Saya. Scrum Master saya pada waktu itu sempat mencoba &lt;a href=&quot;https://krisp.ai/&quot;&gt;Krisp&lt;/a&gt;, tapi ternyata hanya tersedia di Mac dan Windows saja. Lalu coba cari sana-sini akhirnya menemukan &lt;a href=&quot;https://github.com/noisetorch/NoiseTorch&quot;&gt;NoiseTorch&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://gitlab.com/cho2/blog-images/-/raw/master/2023-01-13/NoiseTorch.png&quot; alt=&quot;https://gitlab.com/cho2/blog-images/-/raw/master/2023-01-13/NoiseTorch.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pemasangan &lt;a href=&quot;https://github.com/noisetorch/NoiseTorch&quot;&gt;NoiseTorch&lt;/a&gt; cukup mudah, tinggal ikuti saja &lt;a href=&quot;https://github.com/noisetorch/NoiseTorch#download--install&quot;&gt;petunjuknya&lt;/a&gt;. Tampilannya seperti pada gambar di atas. Hasilnya? Lumayan. Selamat mencoba!&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/0qlIBAIcVCQ&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Catatan Akhir Tahun 2022</title>

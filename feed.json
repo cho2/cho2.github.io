@@ -17,6 +17,30 @@
 "items": [
     
         {
+            "id": "https://blog.kukuh.syafaat.id/2023/noise-torch/",
+            "title": "NoiseTorch, Nois Canceling App di Linux",
+            "summary": "NoiseTorch, Nois Canceling App di Linux",
+            "content_text": "Pernahkah Anda terganggu ketika sedang rapat daring lalu ada suara-suara nyasar? Misalnya sedang bahas topik serius lalu ada tukang bakso lewat? Kejadian begini sering Saya alami tapi di lawan bicara Saya. Scrum Master saya pada waktu itu sempat mencoba Krisp, tapi ternyata hanya tersedia di Mac dan Windows saja. Lalu coba cari sana-sini akhirnya menemukan NoiseTorch.Pemasangan NoiseTorch cukup mudah, tinggal ikuti saja petunjuknya. Tampilannya seperti pada gambar di atas. Hasilnya? Lumayan. Selamat mencoba!",
+            "content_html": "<p>Pernahkah Anda terganggu ketika sedang rapat daring lalu ada suara-suara nyasar? Misalnya sedang bahas topik serius lalu ada tukang bakso lewat? Kejadian begini sering Saya alami tapi di lawan bicara Saya. Scrum Master saya pada waktu itu sempat mencoba <a href=\"https://krisp.ai/\">Krisp</a>, tapi ternyata hanya tersedia di Mac dan Windows saja. Lalu coba cari sana-sini akhirnya menemukan <a href=\"https://github.com/noisetorch/NoiseTorch\">NoiseTorch</a>.</p><p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2023-01-13/NoiseTorch.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2023-01-13/NoiseTorch.png\" /></p><p>Pemasangan <a href=\"https://github.com/noisetorch/NoiseTorch\">NoiseTorch</a> cukup mudah, tinggal ikuti saja <a href=\"https://github.com/noisetorch/NoiseTorch#download--install\">petunjuknya</a>. Tampilannya seperti pada gambar di atas. Hasilnya? Lumayan. Selamat mencoba!</p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/0qlIBAIcVCQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\"></iframe>",
+            "url": "https://blog.kukuh.syafaat.id/2023/noise-torch/",
+            
+            
+            
+            
+            
+            "date_published": "2023-01-13T00:00:00+07:00",
+            "date_modified": "2023-01-13T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
             "id": "https://blog.kukuh.syafaat.id/2022/catatan-2022/",
             "title": "Catatan Akhir Tahun 2022",
             "summary": "Catatan Akhir Tahun 2022",
@@ -846,30 +870,6 @@
             
             "date_published": "2020-05-07T00:00:00+07:00",
             "date_modified": "2020-05-07T00:00:00+07:00",
-            
-                "author":  {
-                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
-                "url": null,
-                "avatar": null
-                }
-                
-            
-        },
-    
-        {
-            "id": "https://blog.kukuh.syafaat.id/2020/Silverbue-31-32/",
-            "title": "Upgrade Silverblue 31 ke 32",
-            "summary": "Upgrade Silverblue 31 ke 32",
-            "content_text": "Tentang Silverblue bisa dibaca disini dan disini. Fedora 32 baru saja rilis dengan berbagai macam pemutakhiran, maka bagi yang sudah memasang Silverblue sebelumnya juga dapat melakukan peningkatan versi dari 31 ke 32 (mengikuti Fedora). Caranya:$ rpm-ostree rebase fedora/32/x86_64/silverblueSelamat memutakhirkan!",
-            "content_html": "<p><img src=\"https://silverblue.fedoraproject.org/public/silverblue-logo.svg\" alt=\"https://silverblue.fedoraproject.org/public/silverblue-logo.svg\" /></p><p>Tentang Silverblue bisa dibaca <a href=\"https://silverblue.fedoraproject.org/\">disini</a> dan <a href=\"https://docs.fedoraproject.org/en-US/fedora-silverblue/\">disini</a>. Fedora 32 baru saja <a href=\"https://fedoramagazine.org/announcing-fedora-32/\">rilis</a> dengan <a href=\"https://fedoramagazine.org/announcing-fedora-32/\">berbagai macam pemutakhiran</a>, maka bagi yang sudah memasang Silverblue sebelumnya juga dapat melakukan peningkatan versi dari 31 ke 32 (<a href=\"https://fedoramagazine.org/upgrading-fedora-31-to-fedora-32/\">mengikuti Fedora</a>). Caranya:</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>$ rpm-ostree rebase fedora/32/x86_64/silverblue</code></pre></div></div><p>Selamat memutakhirkan!</p>",
-            "url": "https://blog.kukuh.syafaat.id/2020/Silverbue-31-32/",
-            
-            
-            
-            
-            
-            "date_published": "2020-05-02T00:00:00+07:00",
-            "date_modified": "2020-05-02T00:00:00+07:00",
             
                 "author":  {
                 "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",

@@ -17,6 +17,30 @@
 "items": [
     
         {
+            "id": "https://blog.kukuh.syafaat.id/2023/PDF-watermark/",
+            "title": "Memberi Tanda Air Pada Berkas PDF",
+            "summary": "Memberi Tanda Air Pada Berkas PDF",
+            "content_text": "Karena ada kebutuhan untuk memberi tanda air (watermark) di berkas pdf tanpa dari Libreoffice, jadi cari-cari sana-sini. Ketemu caranya di tautan ini. Perkakas yang dibutuhkan adalah pdftk dan LibreOffice. pdftk digunakan untuk memberi tanda air (watermark) pada berkas pdf yang sudah ada, sementara LibreOffice digunakan untuk membuat berkas pdf berisi tanda air (watermark). Pastikan keduanya sudah terpasang ya. Selain itu, siapkan juga berkas pdf yang akan diberi tanda air (watermark). Kenapa tidak membubuhkan tanda air (watermark) di LibreOffice lalu menyimpannya dalam format pdf? Jawabannya karena bukan saya yang membuat berkas pdf tersebut, jadi saya hanya menerima berkas pdf tersebut dan ada kebutuhan untuk memberi tanda air (watermark).Pertama-tama, kita akan membuat berkas berisi tanda air (watermark). Buka LibreOffice Writer, lalu klik menu Format &gt; Watermark.Anda dapat mengatur teks yang akan muncul, jenis fonta, sudut kemiringan, tingkat transparansi, dan warna tanda air (watermark).Setelah selesai, ekspor berkas tersebut ke pdf. Beri nama misalnya berkas-tanda-air.pdf.Kemudian, siapkan berkas pdf yang akan diberi tanda air (watermark). Beri nama misalnya berkas-asal.pdf. Jalankan perintah berikut untuk membubuhkan tanda air (watermark) pada berkas pdf yang sudah disiapkan.pdftk berkas-asal.pdf background berkas-tanda-air.pdf output berkas-jadi.pdfKeterangan:  berkas-asal.pdf : Berkas pdf yang akan dibubuhkan tanda air (watermark)  background : Membuat tanda air (watermark) menjadi latar belakang  berkas-tanda-air.pdf : Berkas yang berisi gambar tanda air (watermark)  berkas-jadi.pdf : Berkas pdf yang sudah dibubuhkan tanda air (watermark)Hasilnya kira-kira seperti berikut.Selamat mencoba!",
+            "content_html": "<p>Karena ada kebutuhan untuk memberi tanda air (<em>watermark</em>) di berkas pdf tanpa dari Libreoffice, jadi cari-cari sana-sini. Ketemu caranya di tautan <a href=\"https://www.togaware.com/linux/survivor/pdf-watermarks.html\">ini</a>. Perkakas yang dibutuhkan adalah <code class=\"language-plaintext highlighter-rouge\">pdftk</code> dan <code class=\"language-plaintext highlighter-rouge\">LibreOffice</code>. <code class=\"language-plaintext highlighter-rouge\">pdftk</code> digunakan untuk memberi tanda air (<em>watermark</em>) pada berkas pdf yang sudah ada, sementara <code class=\"language-plaintext highlighter-rouge\">LibreOffice</code> digunakan untuk membuat berkas pdf berisi tanda air (<em>watermark</em>). Pastikan keduanya sudah terpasang ya. Selain itu, siapkan juga berkas pdf yang akan diberi tanda air (<em>watermark</em>). Kenapa tidak membubuhkan tanda air (<em>watermark</em>) di LibreOffice lalu menyimpannya dalam format pdf? Jawabannya karena bukan saya yang membuat berkas pdf tersebut, jadi saya hanya menerima berkas pdf tersebut dan ada kebutuhan untuk memberi tanda air (<em>watermark</em>).</p><p>Pertama-tama, kita akan membuat berkas berisi tanda air (<em>watermark</em>). Buka LibreOffice Writer, lalu klik menu Format &gt; Watermark.Anda dapat mengatur teks yang akan muncul, jenis fonta, sudut kemiringan, tingkat transparansi, dan warna tanda air (<em>watermark</em>).</p><p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2023-01-25/LO-watermark-1.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2023-01-25/LO-watermark-1.png\" /></p><p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2023-01-25/LO-watermark-2.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2023-01-25/LO-watermark-2.png\" /></p><p>Setelah selesai, ekspor berkas tersebut ke pdf. Beri nama misalnya <code class=\"language-plaintext highlighter-rouge\">berkas-tanda-air.pdf</code>.</p><p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2023-01-25/evince-watermark.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2023-01-25/evince-watermark.png\" /></p><p>Kemudian, siapkan berkas pdf yang akan diberi tanda air (<em>watermark</em>). Beri nama misalnya <code class=\"language-plaintext highlighter-rouge\">berkas-asal.pdf</code>. Jalankan perintah berikut untuk membubuhkan tanda air (<em>watermark</em>) pada berkas pdf yang sudah disiapkan.</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>pdftk berkas-asal.pdf background berkas-tanda-air.pdf output berkas-jadi.pdf</code></pre></div></div><p>Keterangan:</p><ul>  <li><code class=\"language-plaintext highlighter-rouge\">berkas-asal.pdf</code> : Berkas pdf yang akan dibubuhkan tanda air (<em>watermark</em>)</li>  <li><code class=\"language-plaintext highlighter-rouge\">background</code> : Membuat tanda air (<em>watermark</em>) menjadi latar belakang</li>  <li><code class=\"language-plaintext highlighter-rouge\">berkas-tanda-air.pdf</code> : Berkas yang berisi gambar tanda air (<em>watermark</em>)</li>  <li><code class=\"language-plaintext highlighter-rouge\">berkas-jadi.pdf</code> : Berkas pdf yang sudah dibubuhkan tanda air (<em>watermark</em>)</li></ul><p>Hasilnya kira-kira seperti berikut.</p><p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2023-01-25/evince-output.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2023-01-25/evince-output.png\" /></p><p>Selamat mencoba!</p>",
+            "url": "https://blog.kukuh.syafaat.id/2023/PDF-watermark/",
+            
+            
+            
+            
+            
+            "date_published": "2023-01-25T00:00:00+07:00",
+            "date_modified": "2023-01-25T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
             "id": "https://blog.kukuh.syafaat.id/2023/noise-torch/",
             "title": "NoiseTorch, Noise Canceling App di Linux",
             "summary": "NoiseTorch, Noise Canceling App di Linux",
@@ -846,30 +870,6 @@
             
             "date_published": "2020-05-18T00:00:00+07:00",
             "date_modified": "2020-05-18T00:00:00+07:00",
-            
-                "author":  {
-                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
-                "url": null,
-                "avatar": null
-                }
-                
-            
-        },
-    
-        {
-            "id": "https://blog.kukuh.syafaat.id/2020/Install-Pop-Shell-on-openSUSE-Tumbleweed/",
-            "title": "Install Pop Shell on openSUSE Tumbleweed",
-            "summary": "Install Pop Shell on openSUSE Tumbleweed",
-            "content_text": "  Idea: Bring Pop Shell Window Tiling Extension to openSUSE Tumbleweed  Note: It only works on Xorg (https://github.com/pop-os/shell/issues/166)  Requirements:          GNOME Shell 3.36      TypeScript 3.8      GNU Make            Install dependencies    sudo zypper in typescript make git            Build &amp; Install    git clone https://github.com/pop-os/shellcd shell./rebuild.sh       Extra: Install Pop Shell Shortcuts      Install dependencies    sudo zypper in cargo rust gtk3-devel            Build &amp; Install    git clone https://github.com/pop-os/shell-shortcutscd shell-shortcutsmakesudo make install      Extra Pt. 2: Remove Pop Shell &amp; Reset Keyboard Shortcutsrm -r ~/.local/share/gnome-shell/extensions/pop-shell@system76.comEnjoy!References:  How To Install Pop Shell Window Tiling Extension  Pop Shell Repository  Pop Shell Shortcuts",
-            "content_html": "<p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-05-07/Tumbleweed-Tiling.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-05-07/Tumbleweed-Tiling.png\" /></p><ul>  <li>Idea: Bring Pop Shell Window Tiling Extension to openSUSE Tumbleweed</li>  <li>Note: It only works on Xorg (https://github.com/pop-os/shell/issues/166)</li>  <li>Requirements:    <ul>      <li>GNOME Shell 3.36</li>      <li>TypeScript 3.8</li>      <li>GNU Make</li>    </ul>  </li>  <li>    <p>Install dependencies</p>    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>sudo zypper in typescript make git</code></pre></div>    </div>  </li>  <li>    <p>Build &amp; Install</p>    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>git clone https://github.com/pop-os/shellcd shell./rebuild.sh </code></pre></div>    </div>  </li></ul><h2 id=\"extra-install-pop-shell-shortcuts\">Extra: Install Pop Shell Shortcuts</h2><ul>  <li>    <p>Install dependencies</p>    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>sudo zypper in cargo rust gtk3-devel</code></pre></div>    </div>  </li>  <li>    <p>Build &amp; Install</p>    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>git clone https://github.com/pop-os/shell-shortcutscd shell-shortcutsmakesudo make install</code></pre></div>    </div>  </li></ul><h2 id=\"extra-pt-2-remove-pop-shell--reset-keyboard-shortcuts\">Extra Pt. 2: Remove Pop Shell &amp; Reset Keyboard Shortcuts</h2><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>rm -r ~/.local/share/gnome-shell/extensions/pop-shell@system76.com</code></pre></div></div><p><strong>Enjoy!</strong></p><hr /><p>References:</p><ul>  <li><a href=\"https://www.linuxuprising.com/2020/05/how-to-install-pop-shell-tiling.html\">How To Install Pop Shell Window Tiling Extension</a></li>  <li><a href=\"https://github.com/pop-os/shell\">Pop Shell Repository</a></li>  <li><a href=\"https://github.com/pop-os/shell-shortcuts\">Pop Shell Shortcuts</a></li></ul>",
-            "url": "https://blog.kukuh.syafaat.id/2020/Install-Pop-Shell-on-openSUSE-Tumbleweed/",
-            
-            
-            
-            
-            
-            "date_published": "2020-05-07T00:00:00+07:00",
-            "date_modified": "2020-05-07T00:00:00+07:00",
             
                 "author":  {
                 "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",

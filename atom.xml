@@ -4,13 +4,51 @@
  <title>blog.kukuh.syafaat.id</title>
  <link href="https://blog.kukuh.syafaat.id//atom.xml" rel="self"/>
  <link href="https://blog.kukuh.syafaat.id//"/>
- <updated>2023-01-13T10:25:22+07:00</updated>
+ <updated>2023-01-25T09:29:50+07:00</updated>
  <id>https://blog.kukuh.syafaat.id</id>
  <author>
    <name>Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)</name>
    <email>k@syafaat.id</email>
  </author>
 
+ 
+ <entry>
+   <title>Memberi Tanda Air Pada Berkas PDF</title>
+   <link href="https://blog.kukuh.syafaat.id//2023/PDF-watermark/"/>
+   <updated>2023-01-25T00:00:00+07:00</updated>
+   <id>https://blog.kukuh.syafaat.id/2023/PDF-watermark</id>
+   <content type="html">&lt;p&gt;Karena ada kebutuhan untuk memberi tanda air (&lt;em&gt;watermark&lt;/em&gt;) di berkas pdf tanpa dari Libreoffice, jadi cari-cari sana-sini. Ketemu caranya di tautan &lt;a href=&quot;https://www.togaware.com/linux/survivor/pdf-watermarks.html&quot;&gt;ini&lt;/a&gt;. Perkakas yang dibutuhkan adalah &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;pdftk&lt;/code&gt; dan &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;LibreOffice&lt;/code&gt;. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;pdftk&lt;/code&gt; digunakan untuk memberi tanda air (&lt;em&gt;watermark&lt;/em&gt;) pada berkas pdf yang sudah ada, sementara &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;LibreOffice&lt;/code&gt; digunakan untuk membuat berkas pdf berisi tanda air (&lt;em&gt;watermark&lt;/em&gt;). Pastikan keduanya sudah terpasang ya. Selain itu, siapkan juga berkas pdf yang akan diberi tanda air (&lt;em&gt;watermark&lt;/em&gt;). Kenapa tidak membubuhkan tanda air (&lt;em&gt;watermark&lt;/em&gt;) di LibreOffice lalu menyimpannya dalam format pdf? Jawabannya karena bukan saya yang membuat berkas pdf tersebut, jadi saya hanya menerima berkas pdf tersebut dan ada kebutuhan untuk memberi tanda air (&lt;em&gt;watermark&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;Pertama-tama, kita akan membuat berkas berisi tanda air (&lt;em&gt;watermark&lt;/em&gt;). Buka LibreOffice Writer, lalu klik menu Format &amp;gt; Watermark.
+Anda dapat mengatur teks yang akan muncul, jenis fonta, sudut kemiringan, tingkat transparansi, dan warna tanda air (&lt;em&gt;watermark&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://gitlab.com/cho2/blog-images/-/raw/master/2023-01-25/LO-watermark-1.png&quot; alt=&quot;https://gitlab.com/cho2/blog-images/-/raw/master/2023-01-25/LO-watermark-1.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://gitlab.com/cho2/blog-images/-/raw/master/2023-01-25/LO-watermark-2.png&quot; alt=&quot;https://gitlab.com/cho2/blog-images/-/raw/master/2023-01-25/LO-watermark-2.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Setelah selesai, ekspor berkas tersebut ke pdf. Beri nama misalnya &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;berkas-tanda-air.pdf&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://gitlab.com/cho2/blog-images/-/raw/master/2023-01-25/evince-watermark.png&quot; alt=&quot;https://gitlab.com/cho2/blog-images/-/raw/master/2023-01-25/evince-watermark.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Kemudian, siapkan berkas pdf yang akan diberi tanda air (&lt;em&gt;watermark&lt;/em&gt;). Beri nama misalnya &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;berkas-asal.pdf&lt;/code&gt;. Jalankan perintah berikut untuk membubuhkan tanda air (&lt;em&gt;watermark&lt;/em&gt;) pada berkas pdf yang sudah disiapkan.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;pdftk berkas-asal.pdf background berkas-tanda-air.pdf output berkas-jadi.pdf
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Keterangan:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;berkas-asal.pdf&lt;/code&gt; : Berkas pdf yang akan dibubuhkan tanda air (&lt;em&gt;watermark&lt;/em&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;background&lt;/code&gt; : Membuat tanda air (&lt;em&gt;watermark&lt;/em&gt;) menjadi latar belakang&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;berkas-tanda-air.pdf&lt;/code&gt; : Berkas yang berisi gambar tanda air (&lt;em&gt;watermark&lt;/em&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;berkas-jadi.pdf&lt;/code&gt; : Berkas pdf yang sudah dibubuhkan tanda air (&lt;em&gt;watermark&lt;/em&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hasilnya kira-kira seperti berikut.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://gitlab.com/cho2/blog-images/-/raw/master/2023-01-25/evince-output.png&quot; alt=&quot;https://gitlab.com/cho2/blog-images/-/raw/master/2023-01-25/evince-output.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Selamat mencoba!&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>NoiseTorch, Noise Canceling App di Linux</title>

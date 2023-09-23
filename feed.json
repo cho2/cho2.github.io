@@ -17,6 +17,30 @@
 "items": [
     
         {
+            "id": "https://blog.kukuh.syafaat.id/2023/GNOME-45/",
+            "title": "GNOME 45",
+            "summary": "GNOME 45",
+            "content_text": "  Catatan rilis  VideoSelamat!",
+            "content_html": "<p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2023-09-22/45.webp\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2023-09-22/45.webp\" /></p><ul>  <li><a href=\"https://release.gnome.org/45/\">Catatan rilis</a></li>  <li><a href=\"https://www.youtube.com/watch?v=47aZgF6xmS0\">Video</a></li></ul><p>Selamat!</p>",
+            "url": "https://blog.kukuh.syafaat.id/2023/GNOME-45/",
+            
+            
+            
+            
+            
+            "date_published": "2023-09-22T00:00:00+07:00",
+            "date_modified": "2023-09-22T00:00:00+07:00",
+            
+                "author":  {
+                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
             "id": "https://blog.kukuh.syafaat.id/2023/GNOME-44/",
             "title": "GNOME 44",
             "summary": "GNOME 44",
@@ -846,30 +870,6 @@
             
             "date_published": "2020-06-01T00:00:00+07:00",
             "date_modified": "2020-06-01T00:00:00+07:00",
-            
-                "author":  {
-                "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",
-                "url": null,
-                "avatar": null
-                }
-                
-            
-        },
-    
-        {
-            "id": "https://blog.kukuh.syafaat.id/2020/Install-Collabora-Office-Snapshot-on-openSUSE-Tumbleweed/",
-            "title": "Install Collabora Office (Snapshot) on openSUSE Tumbleweed",
-            "summary": "Install Collabora Office (Snapshot) on openSUSE Tumbleweed",
-            "content_text": "What is Collabora Office? Collabora Office is the enterprise office suite of LibreOffice, the world’s most widely used Open Source office suite.Have you ever try Collabora Office? Let’s try the latest snapshot. You can also try it on openSUSE Leap.      Download and import key      wget https://www.collaboraoffice.com/Collabora-Office-6.2-Snapshot/Linux/yum/repodata/repomd.xml.key &amp;&amp; sudo rpm --import repomd.xml.key            Add repository      sudo zypper addrepo 'https://www.collaboraoffice.com/Collabora-Office-6.2-Snapshot/Linux/yum' 'Collabora Office 6.2 Snapshot'            Refresh      sudo zypper ref            Install      sudo zypper install collaboraoffice            Enjoy!  ",
-            "content_html": "<p><img src=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-05-21/collabora-office.png\" alt=\"https://gitlab.com/cho2/blog-images/-/raw/master/2020-05-21/collabora-office.png\" /></p><p>What is Collabora Office? Collabora Office is the enterprise office suite of LibreOffice, the world’s most widely used Open Source office suite.</p><p>Have you ever try Collabora Office? Let’s try the latest snapshot. You can also try it on openSUSE Leap.</p><ul>  <li>    <p>Download and import key</p>    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>  wget https://www.collaboraoffice.com/Collabora-Office-6.2-Snapshot/Linux/yum/repodata/repomd.xml.key &amp;&amp; sudo rpm --import repomd.xml.key</code></pre></div>    </div>  </li>  <li>    <p>Add repository</p>    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>  sudo zypper addrepo 'https://www.collaboraoffice.com/Collabora-Office-6.2-Snapshot/Linux/yum' 'Collabora Office 6.2 Snapshot'</code></pre></div>    </div>  </li>  <li>    <p>Refresh</p>    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>  sudo zypper ref</code></pre></div>    </div>  </li>  <li>    <p>Install</p>    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>  sudo zypper install collaboraoffice</code></pre></div>    </div>  </li>  <li>    <p>Enjoy!</p>  </li></ul>",
-            "url": "https://blog.kukuh.syafaat.id/2020/Install-Collabora-Office-Snapshot-on-openSUSE-Tumbleweed/",
-            
-            
-            
-            
-            
-            "date_published": "2020-05-21T00:00:00+07:00",
-            "date_modified": "2020-05-21T00:00:00+07:00",
             
                 "author":  {
                 "name": "Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)",

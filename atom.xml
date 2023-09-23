@@ -4,13 +4,30 @@
  <title>blog.kukuh.syafaat.id</title>
  <link href="https://blog.kukuh.syafaat.id//atom.xml" rel="self"/>
  <link href="https://blog.kukuh.syafaat.id//"/>
- <updated>2023-03-28T11:18:53+07:00</updated>
+ <updated>2023-09-23T17:24:55+07:00</updated>
  <id>https://blog.kukuh.syafaat.id</id>
  <author>
    <name>Kukuh Syafaat (ꦏꦸꦏꦸꦃ شَفَٰعَةٌ)</name>
    <email>k@syafaat.id</email>
  </author>
 
+ 
+ <entry>
+   <title>GNOME 45</title>
+   <link href="https://blog.kukuh.syafaat.id//2023/GNOME-45/"/>
+   <updated>2023-09-22T00:00:00+07:00</updated>
+   <id>https://blog.kukuh.syafaat.id/2023/GNOME-45</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://gitlab.com/cho2/blog-images/-/raw/master/2023-09-22/45.webp&quot; alt=&quot;https://gitlab.com/cho2/blog-images/-/raw/master/2023-09-22/45.webp&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://release.gnome.org/45/&quot;&gt;Catatan rilis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=47aZgF6xmS0&quot;&gt;Video&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Selamat!&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>GNOME 44</title>
